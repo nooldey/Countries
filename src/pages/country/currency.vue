@@ -36,6 +36,7 @@
     </ul>
     <div class="btns">
         <button class="ui-button" @click="save">Save</button>
+        <button class="ui-button" @click="showout">Countries</button>
     </div>
     <p>
         Data from: https://justforex.com/cn/education/currencies
@@ -86,6 +87,13 @@
             },
             save() {
                 console.log(JSON.stringify(this.list))
+            },
+            showout() {
+                let cou = [];
+                this.list.forEach(item => {
+                    cou = cou.concat(item.countries)
+                })
+                console.log(JSON.stringify(cou))
             }
         }
     }

@@ -121,7 +121,7 @@
 }, {
     "code": "BE",
     "name": "Belgium",
-    "nativeName": "Belgien",
+    "nativeName": "België",
     "currency": "EUR",
     "symbol": "€"
 }, {
@@ -151,7 +151,7 @@
 }, {
     "code": "BO",
     "name": "Bolivia",
-    "nativeName": "Volívia",
+    "nativeName": "Bolivia",
     "currency": "BOB",
     "symbol": "$b"
 }, {
@@ -163,9 +163,10 @@
 }, {
     "code": "BW",
     "name": "Botswana",
-    "nativeName": "",
+    "nativeName": "Botswana",
     "currency": "BWP",
-    "symbol": "P"
+    "symbol": "P",
+    "nnative": "Botswana"
 }, {
     "code": "BR",
     "name": "Brazil",
@@ -181,7 +182,7 @@
 }, {
     "code": "VG",
     "name": "British Virgin Islands",
-    "nativeName": "",
+    "nativeName": "British Virgin Islands",
     "currency": "USD",
     "symbol": "$"
 }, {
@@ -235,13 +236,13 @@
 }, {
     "code": "KY",
     "name": "Cayman Islands",
-    "nativeName": "",
+    "nativeName": "Cayman Islands",
     "currency": "KYD",
     "symbol": "$"
 }, {
     "code": "CF",
     "name": "Central African Republic",
-    "nativeName": "Ködörösêse tî Bêafrîka",
+    "nativeName": "République Centrafricaine",
     "currency": "XAF",
     "symbol": "₣"
 }, {
@@ -349,7 +350,7 @@
 }, {
     "code": "DM",
     "name": "Dominica",
-    "nativeName": "",
+    "nativeName": "Dominica",
     "currency": "XCD",
     "symbol": "$"
 }, {
@@ -385,7 +386,7 @@
 }, {
     "code": "GQ",
     "name": "Equatorial Guinea",
-    "nativeName": "Guinea Ecuatorial",
+    "nativeName": " Guinée Equatoriale",
     "currency": "XAF",
     "symbol": "₣"
 }, {
@@ -1261,7 +1262,7 @@
 }, {
     "code": "TW",
     "name": "Taiwan",
-    "nativeName": "",
+    "nativeName": "台灣",
     "currency": "TWD",
     "symbol": "NT$"
 }, {
