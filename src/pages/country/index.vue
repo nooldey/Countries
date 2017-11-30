@@ -42,7 +42,7 @@ export default {
             currency: [...CurrencyData],
         }
     },
-    mounted() {
+    beforeMount () {
         this.conbineC()
     },
     methods: {
@@ -57,8 +57,8 @@ export default {
                         item.nsymbol = cur.symbol;
                     }
                 }
-                let co = this.apples.find(c => c.name == item.name);
-                if (co) {
+                let co = apples.find(c => c.name == item.name);
+                if (co && item.nativeName != co.native) {
                     item.nnative = co.native
                 }
             })

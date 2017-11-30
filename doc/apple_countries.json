@@ -1,9 +1,9 @@
 [{
-        "native": "Armenia",
+        "native": "Հայաստան",
         "name": "Armenia"
     },
     {
-        "native": "Bahrain",
+        "native": "البحرين",
         "name": "Bahrain"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
         "native": "Egypt",
-        "name": "Egypt"
+        "name": "مصر"
     },
     {
         "native": "Guinea-Bissau",

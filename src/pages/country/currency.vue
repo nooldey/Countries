@@ -53,12 +53,7 @@
                 iso: []
             }
         },
-        mounted () {
-            // for (let item of iso) {
-            //     if (!this.iso.some(is => is.code == item.code)) {
-            //         this.iso.push(item)
-            //     }
-            // }
+        beforeMount () {
             iso.forEach(item => {
                 if (!this.iso.some(is => is.code == item.code)) {
                     this.iso.push(item)

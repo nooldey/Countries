@@ -1,0 +1,1972 @@
+[{
+    "code": "AF",
+    "name": "Afghanistan",
+    "nativeName": "افغانستان",
+    "currency": "AFN",
+    "symbol": "؋",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AL",
+    "name": "Albania",
+    "nativeName": "Shqipëria",
+    "currency": "ALL",
+    "symbol": "L",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "DZ",
+    "name": "Algeria",
+    "nativeName": "الجزائر",
+    "currency": "DZD",
+    "symbol": "د.ج",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AS",
+    "name": "American Samoa",
+    "nativeName": "American Samoa",
+    "currency": "USD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AD",
+    "name": "Andorra",
+    "nativeName": "Andorra",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AO",
+    "name": "Angola",
+    "nativeName": "Angola",
+    "currency": "AOA",
+    "symbol": "Kz",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AI",
+    "name": "Anguilla",
+    "nativeName": "Anguilla",
+    "currency": "XCD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AQ",
+    "name": "Antarctica",
+    "nativeName": "",
+    "currency": "XCD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "nativeName": "Antigua and Barbuda",
+    "currency": "XCD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AR",
+    "name": "Argentina",
+    "nativeName": "Argentina",
+    "currency": "ARS",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AM",
+    "name": "Armenia",
+    "nativeName": "Հայաստան",
+    "currency": "AMD",
+    "symbol": "Դ",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AW",
+    "name": "Aruba",
+    "nativeName": "Aruba",
+    "currency": "AWG",
+    "symbol": "ƒ",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AU",
+    "name": "Australia",
+    "nativeName": "Australia",
+    "currency": "AUD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AT",
+    "name": "Austria",
+    "nativeName": "Österreich",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "nativeName": "Azərbaycan",
+    "currency": "AZN",
+    "symbol": "ман",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BS",
+    "name": "Bahamas",
+    "nativeName": "",
+    "currency": "BSD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BH",
+    "name": "Bahrain",
+    "nativeName": "البحرين",
+    "currency": "BHD",
+    "symbol": "ب.د",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BD",
+    "name": "Bangladesh",
+    "nativeName": "বাংলাদেশ",
+    "currency": "BDT",
+    "symbol": "৳",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BB",
+    "name": "Barbados",
+    "nativeName": "Barbados",
+    "currency": "BBD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BY",
+    "name": "Belarus",
+    "nativeName": "Беларусь",
+    "currency": "BYR",
+    "symbol": "Br",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BE",
+    "name": "Belgium",
+    "nativeName": "België",
+    "currency": "EUR",
+    "symbol": "€",
+    "nnative": "België",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BZ",
+    "name": "Belize",
+    "nativeName": "Belize",
+    "currency": "BZD",
+    "symbol": "BZ$",
+    "nsymbol": null,
+    "nnative": "Belize",
+    "ncurrency": null
+}, {
+    "code": "BJ",
+    "name": "Benin",
+    "nativeName": "Bénin",
+    "currency": "XOF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BM",
+    "name": "Bermuda",
+    "nativeName": "Bermuda",
+    "currency": "BMD",
+    "symbol": "$",
+    "nnative": "Bermuda",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BT",
+    "name": "Bhutan",
+    "nativeName": "འབྲུག་ཡུལ",
+    "currency": "BTN",
+    "symbol": [],
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BO",
+    "name": "Bolivia",
+    "nativeName": "Bolivia",
+    "currency": "BOB",
+    "symbol": "$b",
+    "nsymbol": null,
+    "nnative": "Bolivia",
+    "ncurrency": null
+}, {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "nativeName": "Босна и Херцеговина",
+    "currency": "BAM",
+    "symbol": "КМ",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BW",
+    "name": "Botswana",
+    "nativeName": "Botswana",
+    "currency": "BWP",
+    "symbol": "P",
+    "nnative": "Botswana",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BR",
+    "name": "Brazil",
+    "nativeName": "Brasil",
+    "currency": "BRL",
+    "symbol": "R$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "nativeName": "",
+    "currency": "GBP",
+    "symbol": "£",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "nativeName": "British Virgin Islands",
+    "currency": "USD",
+    "symbol": "$",
+    "nnative": "British Virgin Islands",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BN",
+    "name": "Brunei",
+    "nativeName": "بروني",
+    "currency": "BND",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BG",
+    "name": "Bulgaria",
+    "nativeName": "България",
+    "currency": "BGN",
+    "symbol": "лв",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "nativeName": "",
+    "currency": "XOF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "BI",
+    "name": "Burundi",
+    "nativeName": "",
+    "currency": "BIF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KH",
+    "name": "Cambodia",
+    "nativeName": "កម្ពុជា",
+    "currency": "KHR",
+    "symbol": "៛",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CM",
+    "name": "Cameroon",
+    "nativeName": "Cameroon",
+    "currency": "XAF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CA",
+    "name": "Canada",
+    "nativeName": "Canada",
+    "currency": "CAD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CV",
+    "name": "Cape Verde",
+    "nativeName": "Cabo Verde",
+    "currency": "CVE",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "nativeName": "Cayman Islands",
+    "currency": "KYD",
+    "symbol": "$",
+    "nnative": "Cayman Islands",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CF",
+    "name": "Central African Republic",
+    "nativeName": "République Centrafricaine",
+    "currency": "XAF",
+    "symbol": "₣",
+    "nnative": "République Centrafricaine",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "TD",
+    "name": "Chad",
+    "nativeName": "تشاد",
+    "currency": "XAF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CL",
+    "name": "Chile",
+    "nativeName": "Chile",
+    "currency": "CLP",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CN",
+    "name": "China",
+    "nativeName": "中国",
+    "currency": "CNY",
+    "symbol": "¥",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CX",
+    "name": "Christmas Island",
+    "nativeName": "",
+    "currency": "AUD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CC",
+    "name": "Cocos Islands",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CO",
+    "name": "Colombia",
+    "nativeName": "Colombia",
+    "currency": "COP",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KM",
+    "name": "Comoros",
+    "nativeName": "جزر القمر",
+    "currency": "KMF",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CK",
+    "name": "Cook Islands",
+    "nativeName": "",
+    "currency": "NZD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CR",
+    "name": "Costa Rica",
+    "nativeName": "Costa Rica",
+    "currency": "CRC",
+    "symbol": "₡",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "HR",
+    "name": "Croatia",
+    "nativeName": "Hrvatska",
+    "currency": "HRK",
+    "symbol": "kn",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "CU",
+    "name": "Cuba",
+    "nativeName": "Cuba",
+    "currency": "CUP",
+    "symbol": "₱",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "CW",
+    "name": "Curacao",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CY",
+    "name": "Cyprus",
+    "nativeName": "Kıbrıs",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "nativeName": "Česko",
+    "currency": "CZK",
+    "symbol": "Kč",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CD",
+    "name": "Democratic Republic of the Congo",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "DK",
+    "name": "Denmark",
+    "nativeName": "Danmark",
+    "currency": "DKK",
+    "symbol": "kr",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "DJ",
+    "name": "Djibouti",
+    "nativeName": "جيبوتي",
+    "currency": "DJF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "DM",
+    "name": "Dominica",
+    "nativeName": "Dominica",
+    "currency": "XCD",
+    "symbol": "$",
+    "nnative": "Dominica",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "nativeName": "República Dominicana",
+    "currency": "DOP",
+    "symbol": "RD$",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TL",
+    "name": "East Timor",
+    "nativeName": "Timor-Leste",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "EC",
+    "name": "Ecuador",
+    "nativeName": "Ecuador",
+    "currency": "ECS",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "EG",
+    "name": "Egypt",
+    "nativeName": "مصر",
+    "currency": "EGP",
+    "symbol": "£",
+    "nnative": "Egypt",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SV",
+    "name": "El Salvador",
+    "nativeName": "El Salvador",
+    "currency": "SVC",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "nativeName": " Guinée Equatoriale",
+    "currency": "XAF",
+    "symbol": "₣",
+    "nnative": "Guinée Equatoriale",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ER",
+    "name": "Eritrea",
+    "nativeName": "ኤርትራ",
+    "currency": "ERN",
+    "symbol": "Nfk",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "EE",
+    "name": "Estonia",
+    "nativeName": "Eesti",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ET",
+    "name": "Ethiopia",
+    "nativeName": "ኢትዮጵያ",
+    "currency": "ETB",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "FK",
+    "name": "Falkland Islands",
+    "nativeName": "Falkland Islands",
+    "currency": "FKP",
+    "symbol": "£",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "nativeName": "Færøerne",
+    "currency": "DKK",
+    "symbol": "kr",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "FJ",
+    "name": "Fiji",
+    "nativeName": "फ़िजी",
+    "currency": "FJD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "FI",
+    "name": "Finland",
+    "nativeName": "Finland",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "FR",
+    "name": "France",
+    "nativeName": "France",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PF",
+    "name": "French Polynesia",
+    "nativeName": "Polynésie française",
+    "currency": "XPF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GA",
+    "name": "Gabon",
+    "nativeName": "République gabonaise",
+    "currency": "XAF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GM",
+    "name": "Gambia",
+    "nativeName": "",
+    "currency": "GMD",
+    "symbol": "D",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GE",
+    "name": "Georgia",
+    "nativeName": "საქართველო",
+    "currency": "GEL",
+    "symbol": "ლ",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "DE",
+    "name": "Germany",
+    "nativeName": "Deutschland",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GH",
+    "name": "Ghana",
+    "nativeName": "",
+    "currency": "GHS",
+    "symbol": "¢",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "GI",
+    "name": "Gibraltar",
+    "nativeName": "",
+    "currency": "GIP",
+    "symbol": "£",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GR",
+    "name": "Greece",
+    "nativeName": "Ελλάδα",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GL",
+    "name": "Greenland",
+    "nativeName": "Grønland",
+    "currency": "DKK",
+    "symbol": "kr",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GD",
+    "name": "Grenada",
+    "nativeName": "Grenada",
+    "currency": "XCD",
+    "symbol": "$",
+    "nnative": "Grenada",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GU",
+    "name": "Guam",
+    "nativeName": "Guåhån",
+    "currency": "USD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GT",
+    "name": "Guatemala",
+    "nativeName": "Guatemala",
+    "currency": "GTQ",
+    "symbol": "Q",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GG",
+    "name": "Guernsey",
+    "nativeName": "",
+    "currency": "GGP",
+    "symbol": "£",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GN",
+    "name": "Guinea",
+    "nativeName": "Guinée",
+    "currency": "GNF",
+    "symbol": "₣",
+    "nnative": "Guinée",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "nativeName": "Guiné-Bissau",
+    "currency": "XAF",
+    "symbol": "₣",
+    "nnative": "Guinea-Bissau",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GY",
+    "name": "Guyana",
+    "nativeName": "",
+    "currency": "GYD",
+    "symbol": "$",
+    "nnative": "Guyana",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "HT",
+    "name": "Haiti",
+    "nativeName": "Ayiti",
+    "currency": "HTG",
+    "symbol": "G",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "HN",
+    "name": "Honduras",
+    "nativeName": "Honduras",
+    "currency": "HNL",
+    "symbol": "L",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "HK",
+    "name": "Hong Kong",
+    "nativeName": "香港",
+    "currency": "HKD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "HU",
+    "name": "Hungary",
+    "nativeName": "Magyarország",
+    "currency": "HUF",
+    "symbol": "Ft",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IS",
+    "name": "Iceland",
+    "nativeName": "Ísland",
+    "currency": "ISK",
+    "symbol": "kr",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "IN",
+    "name": "India",
+    "nativeName": "భారత దేశం",
+    "currency": "INR",
+    "symbol": "₨",
+    "nnative": "India",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ID",
+    "name": "Indonesia",
+    "nativeName": "Indonesia",
+    "currency": "IDR",
+    "symbol": "Rp",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IR",
+    "name": "Iran",
+    "nativeName": "ایران",
+    "currency": "IRR",
+    "symbol": "﷼",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IQ",
+    "name": "Iraq",
+    "nativeName": "Îraq",
+    "currency": "IQD",
+    "symbol": "ع.د",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IE",
+    "name": "Ireland",
+    "nativeName": "Ireland",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IM",
+    "name": "Isle of Man",
+    "nativeName": "Ellan Vannin",
+    "currency": "GBP",
+    "symbol": "£",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IL",
+    "name": "Israel",
+    "nativeName": "إسرائيل",
+    "currency": "ILS",
+    "symbol": "₪",
+    "nnative": "Israel",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "IT",
+    "name": "Italy",
+    "nativeName": "Italia",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "nativeName": "",
+    "currency": "XOF",
+    "symbol": "",
+    "nnative": "Côte d'Ivoire",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "JM",
+    "name": "Jamaica",
+    "nativeName": "",
+    "currency": "JMD",
+    "symbol": "J$",
+    "nsymbol": null,
+    "nnative": "Jamaica",
+    "ncurrency": null
+}, {
+    "code": "JP",
+    "name": "Japan",
+    "nativeName": "日本",
+    "currency": "JPY",
+    "symbol": "¥",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "JE",
+    "name": "Jersey",
+    "nativeName": "Jèrri",
+    "currency": "GBP",
+    "symbol": "£",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "JO",
+    "name": "Jordan",
+    "nativeName": "الأردن",
+    "currency": "JOD",
+    "symbol": "د.ا",
+    "nnative": "Jordan",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "nativeName": "Казахстан",
+    "currency": "KZT",
+    "symbol": "лв",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "KE",
+    "name": "Kenya",
+    "nativeName": "",
+    "currency": "KES",
+    "symbol": "Sh",
+    "nnative": "Kenya",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KI",
+    "name": "Kiribati",
+    "nativeName": "",
+    "currency": "AUD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "XK",
+    "name": "Kosovo",
+    "nativeName": "Kosova, Косово",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KW",
+    "name": "Kuwait",
+    "nativeName": "الكويت",
+    "currency": "KWD",
+    "symbol": "د.ك",
+    "nnative": "Kuwait",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "nativeName": "Киргизия",
+    "currency": "KGS",
+    "symbol": "лв",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LA",
+    "name": "Laos",
+    "nativeName": "ປະເທດລາວ",
+    "currency": "LAK",
+    "symbol": "₭",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LV",
+    "name": "Latvia",
+    "nativeName": "Latvija",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LB",
+    "name": "Lebanon",
+    "nativeName": "لبنان",
+    "currency": "LBP",
+    "symbol": "£",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "LS",
+    "name": "Lesotho",
+    "nativeName": "",
+    "currency": "LSL",
+    "symbol": "L",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LR",
+    "name": "Liberia",
+    "nativeName": "",
+    "currency": "LRD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LY",
+    "name": "Libya",
+    "nativeName": "ليبيا",
+    "currency": "LYD",
+    "symbol": "ل.د",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "nativeName": "Liechtenstein",
+    "currency": "CHF",
+    "symbol": "CHF",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LT",
+    "name": "Lithuania",
+    "nativeName": "Lietuva",
+    "currency": "LTL",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LU",
+    "name": "Luxembourg",
+    "nativeName": "Luxembourg",
+    "currency": "EUR",
+    "symbol": "€",
+    "nnative": "Lëtzebuerg",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MO",
+    "name": "Macau",
+    "nativeName": "",
+    "currency": "MOP",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MK",
+    "name": "Macedonia",
+    "nativeName": "Македонија",
+    "currency": "MKD",
+    "symbol": "ден",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MG",
+    "name": "Madagascar",
+    "nativeName": "Madagascar",
+    "currency": "MGF",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MW",
+    "name": "Malawi",
+    "nativeName": "",
+    "currency": "MWK",
+    "symbol": "MK",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MY",
+    "name": "Malaysia",
+    "nativeName": "மலேசியா",
+    "currency": "MYR",
+    "symbol": "RM",
+    "nnative": "Malaysia",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MV",
+    "name": "Maldives",
+    "nativeName": "ދިވެހިރާއްޖެ",
+    "currency": "MVR",
+    "symbol": "ރ.",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ML",
+    "name": "Mali",
+    "nativeName": "Mali",
+    "currency": "XOF",
+    "symbol": "₣",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MT",
+    "name": "Malta",
+    "nativeName": "Malta",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "nativeName": "Aorōkin M̧ajeļ",
+    "currency": "USD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MR",
+    "name": "Mauritania",
+    "nativeName": "موريتانيا",
+    "currency": "MRO",
+    "symbol": "UM",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MU",
+    "name": "Mauritius",
+    "nativeName": "Moris",
+    "currency": "MUR",
+    "symbol": "₨",
+    "nnative": "Maurice",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "YT",
+    "name": "Mayotte",
+    "nativeName": "Mayotte",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MX",
+    "name": "Mexico",
+    "nativeName": "Mēxihco",
+    "currency": "MXN",
+    "symbol": "$",
+    "nnative": "México",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "FM",
+    "name": "Micronesia",
+    "nativeName": "",
+    "currency": "USD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MD",
+    "name": "Moldova",
+    "nativeName": "Moldova",
+    "currency": "MDL",
+    "symbol": "L",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MC",
+    "name": "Monaco",
+    "nativeName": "Monaco",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MN",
+    "name": "Mongolia",
+    "nativeName": "ᠤᠯᠤᠰ",
+    "currency": "MNT",
+    "symbol": "₮",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ME",
+    "name": "Montenegro",
+    "nativeName": "Црна Гора",
+    "currency": "EUR",
+    "symbol": "€",
+    "nnative": "Montenegro",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MS",
+    "name": "Montserrat",
+    "nativeName": "",
+    "currency": "XCD",
+    "symbol": "$",
+    "nnative": "Montserrat",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MA",
+    "name": "Morocco",
+    "nativeName": "المغرب",
+    "currency": "MAD",
+    "symbol": "د.م.",
+    "nnative": "Maroc",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MZ",
+    "name": "Mozambique",
+    "nativeName": "Moçambique",
+    "currency": "MZN",
+    "symbol": "MT",
+    "nsymbol": null,
+    "nnative": "Mozambique",
+    "ncurrency": null
+}, {
+    "code": "MM",
+    "name": "Myanmar",
+    "nativeName": "မြန်မာ",
+    "currency": "MMK",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NA",
+    "name": "Namibia",
+    "nativeName": "Namibia",
+    "currency": "NAD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NR",
+    "name": "Nauru",
+    "nativeName": "Naoero",
+    "currency": "AUD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NP",
+    "name": "Nepal",
+    "nativeName": "नेपाल",
+    "currency": "NPR",
+    "symbol": "₨",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NL",
+    "name": "Netherlands",
+    "nativeName": "Nederlân",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AN",
+    "name": "Netherlands Antilles",
+    "nativeName": "",
+    "currency": "ANG",
+    "symbol": "ƒ",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NC",
+    "name": "New Caledonia",
+    "nativeName": "Nouvelle-Calédonie",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NZ",
+    "name": "New Zealand",
+    "nativeName": "Aotearoa",
+    "currency": "NZD",
+    "symbol": "$",
+    "nnative": "New Zealand",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NI",
+    "name": "Nicaragua",
+    "nativeName": "Nicaragua",
+    "currency": "NIO",
+    "symbol": "C$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NE",
+    "name": "Niger",
+    "nativeName": "",
+    "currency": "XOF",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null,
+    "nnative": "Niger"
+}, {
+    "code": "NG",
+    "name": "Nigeria",
+    "nativeName": "",
+    "currency": "NGN",
+    "symbol": "₦",
+    "nnative": "Nigeria",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NU",
+    "name": "Niue",
+    "nativeName": "Niue",
+    "currency": "NZD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KP",
+    "name": "North Korea",
+    "nativeName": "북조선",
+    "currency": "KPW",
+    "symbol": "₩",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "nativeName": "",
+    "currency": "USD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "NO",
+    "name": "Norway",
+    "nativeName": "Noreg",
+    "currency": "NOK",
+    "symbol": "kr",
+    "nnative": "Norge",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "OM",
+    "name": "Oman",
+    "nativeName": "عُمان",
+    "currency": "OMR",
+    "symbol": "﷼",
+    "nsymbol": null,
+    "nnative": "Oman",
+    "ncurrency": null
+}, {
+    "code": "PK",
+    "name": "Pakistan",
+    "nativeName": "پاکستان‎",
+    "currency": "PKR",
+    "symbol": "₨",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PW",
+    "name": "Palau",
+    "nativeName": "Belau",
+    "currency": "USD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PS",
+    "name": "Palestine",
+    "nativeName": "فلسطين",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PA",
+    "name": "Panama",
+    "nativeName": "Panamá",
+    "currency": "PAB",
+    "symbol": "B/.",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "nativeName": "Papua Niugini",
+    "currency": "PGK",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "PY",
+    "name": "Paraguay",
+    "nativeName": "Paraguái",
+    "currency": "PYG",
+    "symbol": "Gs",
+    "nsymbol": null,
+    "nnative": "Paraguay",
+    "ncurrency": null
+}, {
+    "code": "PE",
+    "name": "Peru",
+    "nativeName": "Piruw",
+    "currency": "PEN",
+    "symbol": "S/.",
+    "nnative": "Perú",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PH",
+    "name": "Philippines",
+    "nativeName": "Philippines",
+    "currency": "PHP",
+    "symbol": "₱",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PN",
+    "name": "Pitcairn",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PL",
+    "name": "Poland",
+    "nativeName": "Polska",
+    "currency": "PLN",
+    "symbol": "zł",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PT",
+    "name": "Portugal",
+    "nativeName": "Portugal",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "nativeName": "Puerto Rico",
+    "currency": "USD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "QA",
+    "name": "Qatar",
+    "nativeName": "قطر",
+    "currency": "QAR",
+    "symbol": "﷼",
+    "nsymbol": null,
+    "nnative": "Qatar",
+    "ncurrency": null
+}, {
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "RE",
+    "name": "Reunion",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "RO",
+    "name": "Romania",
+    "nativeName": "România",
+    "currency": "RON",
+    "symbol": "lei",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "RU",
+    "name": "Russia",
+    "nativeName": "Россия1",
+    "currency": "RUB",
+    "symbol": "₽",
+    "nsymbol": null,
+    "nnative": "Россия",
+    "ncurrency": null
+}, {
+    "code": "RW",
+    "name": "Rwanda",
+    "nativeName": "",
+    "currency": "RWF",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "BL",
+    "name": "Saint Barthelemy",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SH",
+    "name": "Saint Helena",
+    "nativeName": "",
+    "currency": "SHP",
+    "symbol": "£",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "nativeName": "",
+    "currency": "XCD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "MF",
+    "name": "Saint Martin",
+    "nativeName": "Saint-Martin",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "nativeName": "Saint-Pierre et Miquelon",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "nativeName": "",
+    "currency": "XCD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "WS",
+    "name": "Samoa",
+    "nativeName": "",
+    "currency": "WST",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SM",
+    "name": "San Marino",
+    "nativeName": "",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "nativeName": "",
+    "currency": "STD",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "nativeName": "المملكة العربية السعودية",
+    "currency": "SAR",
+    "symbol": "﷼",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SN",
+    "name": "Senegal",
+    "nativeName": "Sénégal",
+    "currency": "XOF",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "RS",
+    "name": "Serbia",
+    "nativeName": "Србија",
+    "currency": "RSD",
+    "symbol": "Дин.",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SC",
+    "name": "Seychelles",
+    "nativeName": "Seychelles",
+    "currency": "SCR",
+    "symbol": "₨",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "nativeName": "",
+    "currency": "SLL",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SG",
+    "name": "Singapore",
+    "nativeName": "சிங்கப்பூர்",
+    "currency": "SGD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nnative": "Singapore",
+    "nsymbol": null
+}, {
+    "code": "SX",
+    "name": "Sint Maarten",
+    "nativeName": "Sint Maarten",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SK",
+    "name": "Slovakia",
+    "nativeName": "Slovensko",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SI",
+    "name": "Slovenia",
+    "nativeName": "Slovenija",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "nativeName": "Solomon Aelan",
+    "currency": "SBD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SO",
+    "name": "Somalia",
+    "nativeName": "الصومال",
+    "currency": "SOS",
+    "symbol": "S",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "ZA",
+    "name": "South Africa",
+    "nativeName": "iSewula Afrika",
+    "currency": "ZAR",
+    "symbol": "R",
+    "nnative": "South Africa",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "KR",
+    "name": "South Korea",
+    "nativeName": "남한",
+    "currency": "KRW",
+    "symbol": "₩",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SS",
+    "name": "South Sudan",
+    "nativeName": "",
+    "currency": "SSP",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ES",
+    "name": "Spain",
+    "nativeName": "Espanha",
+    "currency": "EUR",
+    "symbol": "€",
+    "nnative": "España",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "nativeName": "இலங்கை",
+    "currency": "LKR",
+    "symbol": "₨",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SD",
+    "name": "Sudan",
+    "nativeName": "السودان",
+    "currency": "SDG",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SR",
+    "name": "Suriname",
+    "nativeName": "",
+    "currency": "SRD",
+    "symbol": "$",
+    "nnative": "Suriname",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "SZ",
+    "name": "Swaziland",
+    "nativeName": "",
+    "currency": "SZL",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "SE",
+    "name": "Sweden",
+    "nativeName": "Sverige",
+    "currency": "SEK",
+    "symbol": "kr",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "CH",
+    "name": "Switzerland",
+    "nativeName": "Svizra",
+    "currency": "CHF",
+    "symbol": "CHF",
+    "nsymbol": null,
+    "nnative": "Schweiz",
+    "ncurrency": null
+}, {
+    "code": "SY",
+    "name": "Syria",
+    "nativeName": "سورية",
+    "currency": "SYP",
+    "symbol": "£",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TW",
+    "name": "Taiwan",
+    "nativeName": "",
+    "currency": "TWD",
+    "symbol": "NT$",
+    "nsymbol": null,
+    "nnative": "台灣",
+    "ncurrency": null
+}, {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "nativeName": "Тоҷикистон",
+    "currency": "TJS",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TZ",
+    "name": "Tanzania",
+    "nativeName": "",
+    "currency": "TZS",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TH",
+    "name": "Thailand",
+    "nativeName": "เมืองไทย, ประเทศไทย, ราชอาณาจักรไทย",
+    "currency": "THB",
+    "symbol": "฿",
+    "nnative": "ไทย",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "TG",
+    "name": "Togo",
+    "nativeName": "",
+    "currency": "XOF",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "TK",
+    "name": "Tokelau",
+    "nativeName": "",
+    "currency": "NZD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "TO",
+    "name": "Tonga",
+    "nativeName": "Tonga",
+    "currency": "TOP",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "nativeName": "",
+    "currency": "TTD",
+    "symbol": "TT$",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TN",
+    "name": "Tunisia",
+    "nativeName": "تونس",
+    "currency": "TND",
+    "symbol": "",
+    "nsymbol": null,
+    "nnative": "Tunisie",
+    "ncurrency": null
+}, {
+    "code": "TR",
+    "name": "Turkey",
+    "nativeName": "Türkiye",
+    "currency": "TRY",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "nativeName": "Türkmenistan",
+    "currency": "TMT",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "TV",
+    "name": "Tuvalu",
+    "nativeName": "",
+    "currency": "AUD",
+    "symbol": "$",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "VI",
+    "name": "U.S. Virgin Islands",
+    "nativeName": "",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "UG",
+    "name": "Uganda",
+    "nativeName": "",
+    "currency": "UGX",
+    "symbol": "",
+    "nsymbol": null,
+    "nnative": "Uganda",
+    "ncurrency": null
+}, {
+    "code": "UA",
+    "name": "Ukraine",
+    "nativeName": "Україна",
+    "currency": "UAH",
+    "symbol": "₴",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "nativeName": "الإمارات العربيّة المتّحدة",
+    "currency": "AED",
+    "symbol": "",
+    "nnative": "United Arab Emirates",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "GB",
+    "name": "United Kingdom",
+    "nativeName": "An Rywvaneth Unys",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "US",
+    "name": "United States",
+    "nativeName": "‘Amelika Hui Pū ‘ia",
+    "currency": [],
+    "symbol": "",
+    "nnative": "United States",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "UY",
+    "name": "Uruguay",
+    "nativeName": "República Oriental del Uruguay",
+    "currency": "UYU",
+    "symbol": "$U",
+    "nsymbol": null,
+    "nnative": "Uruguay",
+    "ncurrency": null
+}, {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "nativeName": "Ўзбекистон",
+    "currency": "UZS",
+    "symbol": "лв",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "VU",
+    "name": "Vanuatu",
+    "nativeName": "Vanuatu",
+    "currency": "VUV",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "VA",
+    "name": "Vatican",
+    "nativeName": "",
+    "currency": "EUR",
+    "symbol": "€",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "VE",
+    "name": "Venezuela",
+    "nativeName": "Venezuela",
+    "currency": "VEF",
+    "symbol": "Bs",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "VN",
+    "name": "Vietnam",
+    "nativeName": "Việt Nam",
+    "currency": "VND",
+    "symbol": "₫",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "nativeName": "Uvea mo Futuna",
+    "currency": [],
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "EH",
+    "name": "Western Sahara",
+    "nativeName": "",
+    "currency": "MAD",
+    "symbol": "",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "YE",
+    "name": "Yemen",
+    "nativeName": "اليمن",
+    "currency": "YER",
+    "symbol": "﷼",
+    "ncurrency": null,
+    "nsymbol": null
+}, {
+    "code": "ZM",
+    "name": "Zambia",
+    "nativeName": "",
+    "currency": "ZMW",
+    "symbol": "",
+    "nsymbol": null,
+    "ncurrency": null
+}, {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "nativeName": "",
+    "currency": "ZWD",
+    "symbol": "Z$",
+    "ncurrency": null,
+    "nsymbol": null
+}]
