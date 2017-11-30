@@ -74,10 +74,6 @@ export default {
     li {
         margin: 10px auto;
         text-align: center;
-        input {
-            border: none;
-            text-align: center;
-        }
     }
 }
 </style>
