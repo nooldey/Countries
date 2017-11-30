@@ -3,7 +3,7 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:01:14 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-11-30 16:10:31
+ * @Last Modified time: 2017-11-30 17:00:25
  * @Description: 全站加载样式
  */
 
@@ -32,6 +32,8 @@ del {
 /* page */
 
 .wrapper {
+    max-width: 1400px;
+    margin: auto;
     height: calc(100vh - 100px);
     overflow-y: auto;
 }

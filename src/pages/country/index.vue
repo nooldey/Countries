@@ -2,10 +2,10 @@
     <div>
         <div class="flexil title">
             <span>Name</span>
-            <span>nativeName</span>
+            <span>Native Name</span>
             <span>Code</span>
-            <span>currency</span>
-            <span>currencyIco</span>
+            <span>Currency Iso</span>
+            <span>Symbol</span>
         </div>
         <ul class="scroll">
             <li v-for="(item,i) of countries" :key="i" class="flexil">
@@ -17,8 +17,8 @@
                     <input type="text" v-model="item.currency">
                 </p>
                 <p>
-                    <span><del>{{ item.ncurrencyIco }}</del></span>
-                    <input type="text" v-model="item.currencyIco">
+                    <span><del>{{ item.nsymbol }}</del></span>
+                    <input type="text" v-model="item.symbol">
                 </p>
             </li>
         </ul>
@@ -46,11 +46,11 @@ export default {
             this.countries.forEach(item => {
                 let cur = this.currency.find(cu => cu.countries.includes(item.name))
                 if (cur) {
-                    if (cur.currency && cur.currency !== item.currency) {
-                        item.ncurrency = cur.currency;
+                    if (cur.iso && cur.iso !== item.currency) {
+                        item.ncurrency = cur.iso;
                     }
-                    if (cur.symbol && cur.symbol !== item.currencyIco) {
-                        item.ncurrencyIco = cur.symbol;
+                    if (cur.symbol && cur.symbol !== item.symbol) {
+                        item.nsymbol = cur.symbol;
                     }
                 }
             })
@@ -58,6 +58,8 @@ export default {
         save() {
             this.countries.forEach(item => {
                 item.code = item.code.toUpperCase();
+                item.ncurrency = null;
+                item.nsymbol = null;
                 //   item.name = item.name.toUpperCase();
             })
             console.log('countries')

@@ -64,6 +64,7 @@
     "nativeName": "Հայաստան",
     "currency": "AMD",
     "symbol": "Դ"
+    
 }, {
     "code": "AW",
     "name": "Aruba",
@@ -88,6 +89,7 @@
     "nativeName": "Azərbaycan",
     "currency": "AZN",
     "symbol": "ман"
+    
 }, {
     "code": "BS",
     "name": "Bahamas",
@@ -100,12 +102,14 @@
     "nativeName": "البحرين",
     "currency": "BHD",
     "symbol": "ب.د"
+    
 }, {
     "code": "BD",
     "name": "Bangladesh",
     "nativeName": "বাংলাদেশ",
     "currency": "BDT",
     "symbol": "৳"
+    
 }, {
     "code": "BB",
     "name": "Barbados",
@@ -118,6 +122,7 @@
     "nativeName": "Беларусь",
     "currency": "BYR",
     "symbol": "Br"
+    
 }, {
     "code": "BE",
     "name": "Belgium",
@@ -130,6 +135,7 @@
     "nativeName": "",
     "currency": "BZD",
     "symbol": "BZ$"
+    
 }, {
     "code": "BJ",
     "name": "Benin",
@@ -154,6 +160,7 @@
     "nativeName": "Volívia",
     "currency": "BOB",
     "symbol": "$b"
+    
 }, {
     "code": "BA",
     "name": "Bosnia and Herzegovina",
@@ -208,6 +215,7 @@
     "nativeName": "",
     "currency": "BIF",
     "symbol": "₣"
+    
 }, {
     "code": "KH",
     "name": "Cambodia",
@@ -220,6 +228,7 @@
     "nativeName": "Cameroon",
     "currency": "XAF",
     "symbol": "₣"
+    
 }, {
     "code": "CA",
     "name": "Canada",
@@ -232,6 +241,7 @@
     "nativeName": "Cabo Verde",
     "currency": "CVE",
     "symbol": "$"
+    
 }, {
     "code": "KY",
     "name": "Cayman Islands",
@@ -303,13 +313,15 @@
     "name": "Croatia",
     "nativeName": "Hrvatska",
     "currency": "HRK",
-    "symbol": "kn"
+    "symbol": "Kn"
+    
 }, {
     "code": "CU",
     "name": "Cuba",
     "nativeName": "Cuba",
     "currency": "CUP",
     "symbol": "₱"
+    
 }, {
     "code": "CW",
     "name": "Curacao",
@@ -346,6 +358,7 @@
     "nativeName": "جيبوتي",
     "currency": "DJF",
     "symbol": "₣"
+    
 }, {
     "code": "DM",
     "name": "Dominica",
@@ -358,6 +371,7 @@
     "nativeName": "República Dominicana",
     "currency": "DOP",
     "symbol": "RD$"
+    
 }, {
     "code": "TL",
     "name": "East Timor",
@@ -388,12 +402,14 @@
     "nativeName": "Guinea Ecuatorial",
     "currency": "XAF",
     "symbol": "₣"
+    
 }, {
     "code": "ER",
     "name": "Eritrea",
     "nativeName": "ኤርትራ",
     "currency": "ERN",
     "symbol": "Nfk"
+    
 }, {
     "code": "EE",
     "name": "Estonia",
@@ -448,18 +464,21 @@
     "nativeName": "République gabonaise",
     "currency": "XAF",
     "symbol": "₣"
+    
 }, {
     "code": "GM",
     "name": "Gambia",
     "nativeName": "",
     "currency": "GMD",
     "symbol": "D"
+    
 }, {
     "code": "GE",
     "name": "Georgia",
     "nativeName": "საქართველო",
     "currency": "GEL",
     "symbol": "ლ"
+    
 }, {
     "code": "DE",
     "name": "Germany",
@@ -472,6 +491,7 @@
     "nativeName": "",
     "currency": "GHS",
     "symbol": "¢"
+    
 }, {
     "code": "GI",
     "name": "Gibraltar",
@@ -520,6 +540,7 @@
     "nativeName": "Gine",
     "currency": "GNF",
     "symbol": "₣"
+    
 }, {
     "code": "GW",
     "name": "Guinea-Bissau",
@@ -538,6 +559,7 @@
     "nativeName": "Ayiti",
     "currency": "HTG",
     "symbol": "G"
+    
 }, {
     "code": "HN",
     "name": "Honduras",
@@ -561,13 +583,15 @@
     "name": "Iceland",
     "nativeName": "Ísland",
     "currency": "ISK",
-    "symbol": "kr"
+    "symbol": "Kr"
+    
 }, {
     "code": "IN",
     "name": "India",
     "nativeName": "భారత దేశం",
     "currency": "INR",
     "symbol": "₨"
+    
 }, {
     "code": "ID",
     "name": "Indonesia",
@@ -586,6 +610,7 @@
     "nativeName": "Îraq",
     "currency": "IQD",
     "symbol": "ع.د"
+    
 }, {
     "code": "IE",
     "name": "Ireland",
@@ -622,6 +647,7 @@
     "nativeName": "",
     "currency": "JMD",
     "symbol": "J$"
+    
 }, {
     "code": "JP",
     "name": "Japan",
@@ -640,18 +666,21 @@
     "nativeName": "الأردن",
     "currency": "JOD",
     "symbol": "د.ا"
+    
 }, {
     "code": "KZ",
     "name": "Kazakhstan",
     "nativeName": "Казахстан",
     "currency": "KZT",
     "symbol": "лв"
+    
 }, {
     "code": "KE",
     "name": "Kenya",
     "nativeName": "",
     "currency": "KES",
     "symbol": "Sh"
+    
 }, {
     "code": "KI",
     "name": "Kiribati",
@@ -670,6 +699,7 @@
     "nativeName": "الكويت",
     "currency": "KWD",
     "symbol": "د.ك"
+    
 }, {
     "code": "KG",
     "name": "Kyrgyzstan",
@@ -694,12 +724,14 @@
     "nativeName": "لبنان",
     "currency": "LBP",
     "symbol": "£"
+    
 }, {
     "code": "LS",
     "name": "Lesotho",
     "nativeName": "",
     "currency": "LSL",
     "symbol": "L"
+    
 }, {
     "code": "LR",
     "name": "Liberia",
@@ -712,6 +744,7 @@
     "nativeName": "ليبيا",
     "currency": "LYD",
     "symbol": "ل.د"
+    
 }, {
     "code": "LI",
     "name": "Liechtenstein",
@@ -754,6 +787,7 @@
     "nativeName": "",
     "currency": "MWK",
     "symbol": "MK"
+    
 }, {
     "code": "MY",
     "name": "Malaysia",
@@ -766,6 +800,7 @@
     "nativeName": "ދިވެހިރާއްޖެ",
     "currency": "MVR",
     "symbol": "ރ."
+    
 }, {
     "code": "ML",
     "name": "Mali",
@@ -790,6 +825,7 @@
     "nativeName": "موريتانيا",
     "currency": "MRO",
     "symbol": "UM"
+    
 }, {
     "code": "MU",
     "name": "Mauritius",
@@ -820,6 +856,7 @@
     "nativeName": "Moldova",
     "currency": "MDL",
     "symbol": "L"
+    
 }, {
     "code": "MC",
     "name": "Monaco",
@@ -850,12 +887,14 @@
     "nativeName": "المغرب",
     "currency": "MAD",
     "symbol": "د.م."
+    
 }, {
     "code": "MZ",
     "name": "Mozambique",
     "nativeName": "Moçambique",
     "currency": "MZN",
     "symbol": "MT"
+    
 }, {
     "code": "MM",
     "name": "Myanmar",
@@ -952,6 +991,7 @@
     "nativeName": "عُمان",
     "currency": "OMR",
     "symbol": "﷼"
+    
 }, {
     "code": "PK",
     "name": "Pakistan",
@@ -982,12 +1022,14 @@
     "nativeName": "Papua Niugini",
     "currency": "PGK",
     "symbol": ""
+    
 }, {
     "code": "PY",
     "name": "Paraguay",
     "nativeName": "Paraguái",
     "currency": "PYG",
     "symbol": "Gs"
+    
 }, {
     "code": "PE",
     "name": "Peru",
@@ -1030,6 +1072,7 @@
     "nativeName": "قطر",
     "currency": "QAR",
     "symbol": "﷼"
+    
 }, {
     "code": "CG",
     "name": "Republic of the Congo",
@@ -1048,18 +1091,21 @@
     "nativeName": "România",
     "currency": "RON",
     "symbol": "lei"
+    
 }, {
     "code": "RU",
     "name": "Russia",
     "nativeName": "Россия1",
     "currency": "RUB",
     "symbol": "₽"
+    
 }, {
     "code": "RW",
     "name": "Rwanda",
     "nativeName": "",
     "currency": "RWF",
     "symbol": ""
+    
 }, {
     "code": "BL",
     "name": "Saint Barthelemy",
@@ -1108,6 +1154,7 @@
     "nativeName": "",
     "currency": "WST",
     "symbol": ""
+    
 }, {
     "code": "SM",
     "name": "San Marino",
@@ -1120,12 +1167,14 @@
     "nativeName": "",
     "currency": "STD",
     "symbol": ""
+    
 }, {
     "code": "SA",
     "name": "Saudi Arabia",
     "nativeName": "المملكة العربية السعودية",
     "currency": "SAR",
     "symbol": "﷼"
+    
 }, {
     "code": "SN",
     "name": "Senegal",
@@ -1138,6 +1187,7 @@
     "nativeName": "Србија",
     "currency": "RSD",
     "symbol": "Дин."
+    
 }, {
     "code": "SC",
     "name": "Seychelles",
@@ -1150,6 +1200,7 @@
     "nativeName": "",
     "currency": "SLL",
     "symbol": ""
+    
 }, {
     "code": "SG",
     "name": "Singapore",
@@ -1186,6 +1237,7 @@
     "nativeName": "الصومال",
     "currency": "SOS",
     "symbol": "S"
+    
 }, {
     "code": "ZA",
     "name": "South Africa",
@@ -1216,12 +1268,14 @@
     "nativeName": "இலங்கை",
     "currency": "LKR",
     "symbol": "₨"
+    
 }, {
     "code": "SD",
     "name": "Sudan",
     "nativeName": "السودان",
     "currency": "SDG",
     "symbol": ""
+    
 }, {
     "code": "SR",
     "name": "Suriname",
@@ -1240,6 +1294,7 @@
     "nativeName": "",
     "currency": "SZL",
     "symbol": ""
+    
 }, {
     "code": "SE",
     "name": "Sweden",
@@ -1252,30 +1307,35 @@
     "nativeName": "Svizra",
     "currency": "CHF",
     "symbol": "CHF"
+    
 }, {
     "code": "SY",
     "name": "Syria",
     "nativeName": "سورية",
     "currency": "SYP",
     "symbol": "£"
+    
 }, {
     "code": "TW",
     "name": "Taiwan",
     "nativeName": "",
     "currency": "TWD",
     "symbol": "NT$"
+    
 }, {
     "code": "TJ",
     "name": "Tajikistan",
     "nativeName": "Тоҷикистон",
     "currency": "TJS",
     "symbol": ""
+    
 }, {
     "code": "TZ",
     "name": "Tanzania",
     "nativeName": "",
     "currency": "TZS",
     "symbol": ""
+    
 }, {
     "code": "TH",
     "name": "Thailand",
@@ -1300,30 +1360,35 @@
     "nativeName": "Tonga",
     "currency": "TOP",
     "symbol": ""
+    
 }, {
     "code": "TT",
     "name": "Trinidad and Tobago",
     "nativeName": "",
     "currency": "TTD",
     "symbol": "TT$"
+    
 }, {
     "code": "TN",
     "name": "Tunisia",
     "nativeName": "تونس",
     "currency": "TND",
     "symbol": ""
+    
 }, {
     "code": "TR",
     "name": "Turkey",
     "nativeName": "Türkiye",
     "currency": "TRY",
     "symbol": ""
+    
 }, {
     "code": "TM",
     "name": "Turkmenistan",
     "nativeName": "Türkmenistan",
     "currency": "TMT",
     "symbol": ""
+    
 }, {
     "code": "TC",
     "name": "Turks and Caicos Islands",
@@ -1348,6 +1413,7 @@
     "nativeName": "",
     "currency": "UGX",
     "symbol": ""
+    
 }, {
     "code": "UA",
     "name": "Ukraine",
@@ -1378,6 +1444,7 @@
     "nativeName": "República Oriental del Uruguay",
     "currency": "UYU",
     "symbol": "$U"
+    
 }, {
     "code": "UZ",
     "name": "Uzbekistan",
@@ -1390,6 +1457,7 @@
     "nativeName": "Vanuatu",
     "currency": "VUV",
     "symbol": ""
+    
 }, {
     "code": "VA",
     "name": "Vatican",
@@ -1402,6 +1470,7 @@
     "nativeName": "Venezuela",
     "currency": "VEF",
     "symbol": "Bs"
+    
 }, {
     "code": "VN",
     "name": "Vietnam",
@@ -1432,6 +1501,7 @@
     "nativeName": "",
     "currency": "ZMW",
     "symbol": ""
+    
 }, {
     "code": "ZW",
     "name": "Zimbabwe",
