@@ -10,7 +10,10 @@
         <ul class="scroll">
             <li v-for="(item,i) of countries" :key="i" class="flexil">
                 <p><input type="text" v-model="item.name"></p>
-                <p><input type="text" v-model="item.nativeName"></p>
+                <p>
+                    <span><del>{{ item.nnative }}</del></span>
+                    <input type="text" v-model="item.nativeName">
+                </p>
                 <p><input type="text" v-model="item.code" /></p>
                 <p>
                     <span><del>{{ item.ncurrency }}</del></span>
@@ -31,6 +34,7 @@
 <script>
 const Countries = require('./countries.json');
 const CurrencyData = require('./currency_new.json');
+const apples = require('../../../doc/apple_countries.json');
 export default {
     data() {
         return {
@@ -52,6 +56,10 @@ export default {
                     if (cur.symbol && cur.symbol !== item.symbol) {
                         item.nsymbol = cur.symbol;
                     }
+                }
+                let co = this.apples.find(c => c.name == item.name);
+                if (co) {
+                    item.nnative = co.native
                 }
             })
         },
