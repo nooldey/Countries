@@ -22,6 +22,12 @@
     "decimal": "051",
     "name": "Armenian Dram",
     "countries": ["Armenia"]
+},{
+    "currency": "ANG",
+    "symbol": "",
+    "decimal": "",
+    "name": "",
+    "countries": []
 }, {
     "currency": "AOA",
     "symbol": "Kz",

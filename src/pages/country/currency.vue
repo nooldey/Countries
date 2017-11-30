@@ -1,6 +1,5 @@
 <template>
   <div class="currency">
-     
     <div class="flexil title">
         <span>(货币名)Name</span>
         <span>(货币)Currency</span>
@@ -10,13 +9,21 @@
     </div>
     <ul class="scroll">
         <li v-for="(item,i) of list" :key="i" class="flexil">
-            <p>{{ item.name }}</p>
-            <p>{{ item.currency }}</p>
             <p>
-                <span>{{ item.symbol }}</span>
+                <!-- {{ item.name }} -->
+                <input type="text" v-model="item.name">
             </p>
             <p>
-                {{ item.decimal }}
+                <!-- {{ item.currency }} -->
+                <input type="text" v-model="item.currency">
+            </p>
+            <p>
+                <!-- <span>{{ item.symbol }}</span> -->
+                <input type="text" v-model="item.symbol">
+            </p>
+            <p>
+                <!-- {{ item.decimal }} -->
+                <input type="text" v-model="item.decimal">
             </p>
             <p>
                 <span v-for="c of item.countries" :key="c">
