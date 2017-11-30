@@ -27,6 +27,7 @@
         </ul>
         <div class="btns">
             <button class="ui-button" @click="save">Save</button>
+            <button class="ui-button"  @click="showout">Countries</button>
         </div>
     </div>
 </template>
@@ -72,6 +73,10 @@ export default {
             })
             console.log('countries')
             console.log(JSON.stringify(this.countries))
+        },
+        showout() {
+            let co = this.countries.map(item => item.name)
+            console.log(JSON.stringify(co))
         }
     }
 }
