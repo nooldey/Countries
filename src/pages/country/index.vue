@@ -1,12 +1,25 @@
 <template>
     <div>
+        <div class="flexil title">
+            <span>Name</span>
+            <span>nativeName</span>
+            <span>Code</span>
+            <span>currency</span>
+            <span>currencyIco</span>
+        </div>
         <ul class="scroll">
-            <li v-for="(item,i) of countries" :key="i">
-                <span>Name</span> <input type="text" v-model="item.name">
-                <span>nativeName</span> <input type="text" v-model="item.nativeName">
-                <span>Code</span> <input type="text" v-model="item.code" />
-                <span>currency</span> <input type="text" v-model="item.currency">
-                <span>currencyIco</span> <input type="text" v-model="item.currencyIco">
+            <li v-for="(item,i) of countries" :key="i" class="flexil">
+                <p><input type="text" v-model="item.name"></p>
+                <p><input type="text" v-model="item.nativeName"></p>
+                <p><input type="text" v-model="item.code" /></p>
+                <p>
+                    <span><del>{{ item.ncurrency }}</del></span>
+                    <input type="text" v-model="item.currency">
+                </p>
+                <p>
+                    <span><del>{{ item.ncurrencyIco }}</del></span>
+                    <input type="text" v-model="item.currencyIco">
+                </p>
             </li>
         </ul>
         <div class="btns">
@@ -17,7 +30,7 @@
 
 <script>
 const Countries = require('./countries.json');
-const Currency = require('./currency.json');
+const Currency = require('./currency_new.json');
 export default {
     data() {
         return {
@@ -26,9 +39,18 @@ export default {
         }
     },
     mounted() {
-
+        this.conbine()
     },
     methods: {
+        conbine() {
+            this.countries.forEach(item => {
+                let cur = this.currency.find(cu => cu.countries.includes(item.name))
+                if (cur) {
+                    item.ncurrency = cur.currency;
+                    item.ncurrencyIco = cur.symbol;
+                }
+            })
+        },
         save() {
             this.countries.forEach(item => {
                 item.code = item.code.toUpperCase();
@@ -43,11 +65,14 @@ export default {
 
 <style lang="scss" scoped>
 .scroll {
-    height: calc(100% - 70px);
+    height: calc(100% - 110px);
     overflow-y: auto;
     li {
         margin: 10px auto;
         text-align: center;
+        input {
+            border: none;
+        }
     }
 }
 </style>

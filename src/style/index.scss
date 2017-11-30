@@ -3,7 +3,7 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:01:14 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-11-30 11:53:58
+ * @Last Modified time: 2017-11-30 12:31:12
  * @Description: 全站加载样式
  */
 
@@ -26,6 +26,9 @@
     cursor: pointer;
     background: #1068ad;
 }
+del {
+    color: red;
+}
 /* page */
 
 .wrapper {
@@ -35,4 +38,24 @@
 .btns {
     margin: 15px auto;
     text-align: center;
+}
+.flexil {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+    >span,>p {
+        flex: 1;
+        text-align: center;
+    }
+    >p {
+        span {
+            display: block;
+        }
+    }
+    &.title {
+        margin-bottom: 10px;
+        font-weight: 600;
+        background: #f8f8f8;
+    }
 }
