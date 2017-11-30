@@ -3,7 +3,7 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:20:27 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-11-28 10:36:57
+ * @Last Modified time: 2017-11-30 10:42:36
  * @Description: 具体的路由定义
  */
 
@@ -22,14 +22,9 @@ export default [
                 component: view,
                 children: [
                     {
-                        path: '01',
-                        name: 'Test Child',
-                        component: pipe('home/index')
-                    },
-                    {
-                        path: '02',
-                        name: 'Test Child 01',
-                        component: pipe('home/index')
+                        path: '',
+                        name: 'Countries',
+                        component: pipe('country/index')
                     }
                 ]
             },
