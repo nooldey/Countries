@@ -3,7 +3,7 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:20:27 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-11-30 10:42:36
+ * @Last Modified time: 2017-11-30 11:35:03
  * @Description: 具体的路由定义
  */
 
@@ -15,22 +15,28 @@ export default [
     {
         path: '/',
         component: layout,
+        redirect: '/home',
         children: [
             {
                 path: 'home',
-                name: 'Home-Page',
                 component: view,
                 children: [
                     {
                         path: '',
                         name: 'Countries',
                         component: pipe('country/index')
+                    },
+                    {
+                        path: 'currency',
+                        name: 'Currency',
+                        component: pipe('country/currency.vue')
                     }
                 ]
             },
             {
                 path: '404',
                 name: 'Error-Page',
+                hidden: true,
                 component: pipe('404/index')
             },
         ]

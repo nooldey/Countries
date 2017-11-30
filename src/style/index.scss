@@ -3,15 +3,36 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:01:14 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-11-28 10:42:13
+ * @Last Modified time: 2017-11-30 11:53:58
  * @Description: 全站加载样式
  */
-@import './base/reset','./base/mixin';
 
+@import './base/reset',
+'./base/mixin';
 /* site style */
 
 .layout {
     padding: 20px;
-    text-align: center;
     color: #666;
+}
+
+.ui-button {
+    padding: 0 15px;
+    height: 36px;
+    line-height: 36px;
+    min-width: 130px;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    background: #1068ad;
+}
+/* page */
+
+.wrapper {
+    height: calc(100vh - 100px);
+    overflow-y: auto;
+}
+.btns {
+    margin: 15px auto;
+    text-align: center;
 }

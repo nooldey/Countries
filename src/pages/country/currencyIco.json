@@ -1,1 +1,328 @@
-[{"currency":"ALL","ico":"Lek"},{"currency":"AFN","ico":"؋"},{"currency":"ARS","ico":"$"},{"currency":"AWG","ico":"ƒ"},{"currency":"AUD","ico":"$"},{"currency":"AZN","ico":"₼"},{"currency":"BSD","ico":"$"},{"currency":"BBD","ico":"$"},{"currency":"BYN","ico":"Br"},{"currency":"BZD","ico":"BZ$"},{"currency":"BMD","ico":"$"},{"currency":"BOB","ico":"$b"},{"currency":"BAM","ico":"KM"},{"currency":"BWP","ico":"P"},{"currency":"BGN","ico":"лв"},{"currency":"BRL","ico":"R$"},{"currency":"BND","ico":"$"},{"currency":"KHR","ico":"៛"},{"currency":"CAD","ico":"$"},{"currency":"KYD","ico":"$"},{"currency":"CLP","ico":"$"},{"currency":"CNY","ico":"¥"},{"currency":"COP","ico":"$"},{"currency":"CRC","ico":"₡"},{"currency":"HRK","ico":"kn"},{"currency":"CUP","ico":"₱"},{"currency":"CZK","ico":"Kč"},{"currency":"DKK","ico":"kr"},{"currency":"DOP","ico":"RD$"},{"currency":"XCD","ico":"$"},{"currency":"EGP","ico":"£"},{"currency":"SVC","ico":"$"},{"currency":"EUR","ico":"€"},{"currency":"FKP","ico":"£"},{"currency":"FJD","ico":"$"},{"currency":"GHS","ico":"¢"},{"currency":"GIP","ico":"£"},{"currency":"GTQ","ico":"Q"},{"currency":"GGP","ico":"£"},{"currency":"GYD","ico":"$"},{"currency":"HNL","ico":"L"},{"currency":"HKD","ico":"$"},{"currency":"HUF","ico":"Ft"},{"currency":"ISK","ico":"kr"},{"currency":"INR","ico":""},{"currency":"IDR","ico":"Rp"},{"currency":"IRR","ico":"﷼"},{"currency":"IMP","ico":"£"},{"currency":"ILS","ico":"₪"},{"currency":"JMD","ico":"J$"},{"currency":"JPY","ico":"¥"},{"currency":"JEP","ico":"£"},{"currency":"KZT","ico":"лв"},{"currency":"KPW","ico":"₩"},{"currency":"KRW","ico":"₩"},{"currency":"KGS","ico":"лв"},{"currency":"LAK","ico":"₭"},{"currency":"LBP","ico":"£"},{"currency":"LRD","ico":"$"},{"currency":"MKD","ico":"ден"},{"currency":"MYR","ico":"RM"},{"currency":"MUR","ico":"₨"},{"currency":"MXN","ico":"$"},{"currency":"MNT","ico":"₮"},{"currency":"MZN","ico":"MT"},{"currency":"NAD","ico":"$"},{"currency":"NPR","ico":"₨"},{"currency":"ANG","ico":"ƒ"},{"currency":"NZD","ico":"$"},{"currency":"NIO","ico":"C$"},{"currency":"NGN","ico":"₦"},{"currency":"NOK","ico":"kr"},{"currency":"OMR","ico":"﷼"},{"currency":"PKR","ico":"₨"},{"currency":"PAB","ico":"B/."},{"currency":"PYG","ico":"Gs"},{"currency":"PEN","ico":"S/."},{"currency":"PHP","ico":"₱"},{"currency":"PLN","ico":"zł"},{"currency":"QAR","ico":"﷼"},{"currency":"RON","ico":"lei"},{"currency":"RUB","ico":"₽"},{"currency":"SHP","ico":"£"},{"currency":"SAR","ico":"﷼"},{"currency":"RSD","ico":"Дин."},{"currency":"SCR","ico":"₨"},{"currency":"SGD","ico":"$"},{"currency":"SBD","ico":"$"},{"currency":"SOS","ico":"S"},{"currency":"ZAR","ico":"R"},{"currency":"LKR","ico":"₨"},{"currency":"SEK","ico":"kr"},{"currency":"CHF","ico":"CHF"},{"currency":"SRD","ico":"$"},{"currency":"SYP","ico":"£"},{"currency":"TWD","ico":"NT$"},{"currency":"THB","ico":"฿"},{"currency":"TTD","ico":"TT$"},{"currency":"TRY","ico":""},{"currency":"TVD","ico":"$"},{"currency":"UAH","ico":"₴"},{"currency":"GBP","ico":"£"},{"currency":"USD","ico":"$"},{"currency":"UYU","ico":"$U"},{"currency":"UZS","ico":"лв"},{"currency":"VEF","ico":"Bs"},{"currency":"VND","ico":"₫"},{"currency":"YER","ico":"﷼"},{"currency":"ZWD","ico":"Z$"}]
+[{
+    "currency": "ALL",
+    "symbol": "Lek"
+}, {
+    "currency": "AFN",
+    "symbol": "؋"
+}, {
+    "currency": "ARS",
+    "symbol": "$"
+}, {
+    "currency": "AWG",
+    "symbol": "ƒ"
+}, {
+    "currency": "AUD",
+    "symbol": "$"
+}, {
+    "currency": "AZN",
+    "symbol": "₼"
+}, {
+    "currency": "BSD",
+    "symbol": "$"
+}, {
+    "currency": "BBD",
+    "symbol": "$"
+}, {
+    "currency": "BYN",
+    "symbol": "Br"
+}, {
+    "currency": "BZD",
+    "symbol": "BZ$"
+}, {
+    "currency": "BMD",
+    "symbol": "$"
+}, {
+    "currency": "BOB",
+    "symbol": "$b"
+}, {
+    "currency": "BAM",
+    "symbol": "KM"
+}, {
+    "currency": "BWP",
+    "symbol": "P"
+}, {
+    "currency": "BGN",
+    "symbol": "лв"
+}, {
+    "currency": "BRL",
+    "symbol": "R$"
+}, {
+    "currency": "BND",
+    "symbol": "$"
+}, {
+    "currency": "KHR",
+    "symbol": "៛"
+}, {
+    "currency": "CAD",
+    "symbol": "$"
+}, {
+    "currency": "KYD",
+    "symbol": "$"
+}, {
+    "currency": "CLP",
+    "symbol": "$"
+}, {
+    "currency": "CNY",
+    "symbol": "¥"
+}, {
+    "currency": "COP",
+    "symbol": "$"
+}, {
+    "currency": "CRC",
+    "symbol": "₡"
+}, {
+    "currency": "HRK",
+    "symbol": "kn"
+}, {
+    "currency": "CUP",
+    "symbol": "₱"
+}, {
+    "currency": "CZK",
+    "symbol": "Kč"
+}, {
+    "currency": "DKK",
+    "symbol": "kr"
+}, {
+    "currency": "DOP",
+    "symbol": "RD$"
+}, {
+    "currency": "XCD",
+    "symbol": "$"
+}, {
+    "currency": "EGP",
+    "symbol": "£"
+}, {
+    "currency": "SVC",
+    "symbol": "$"
+}, {
+    "currency": "EUR",
+    "symbol": "€"
+}, {
+    "currency": "FKP",
+    "symbol": "£"
+}, {
+    "currency": "FJD",
+    "symbol": "$"
+}, {
+    "currency": "GHS",
+    "symbol": "¢"
+}, {
+    "currency": "GIP",
+    "symbol": "£"
+}, {
+    "currency": "GTQ",
+    "symbol": "Q"
+}, {
+    "currency": "GGP",
+    "symbol": "£"
+}, {
+    "currency": "GYD",
+    "symbol": "$"
+}, {
+    "currency": "HNL",
+    "symbol": "L"
+}, {
+    "currency": "HKD",
+    "symbol": "$"
+}, {
+    "currency": "HUF",
+    "symbol": "Ft"
+}, {
+    "currency": "ISK",
+    "symbol": "kr"
+}, {
+    "currency": "INR",
+    "symbol": ""
+}, {
+    "currency": "IDR",
+    "symbol": "Rp"
+}, {
+    "currency": "IRR",
+    "symbol": "﷼"
+}, {
+    "currency": "IMP",
+    "symbol": "£"
+}, {
+    "currency": "ILS",
+    "symbol": "₪"
+}, {
+    "currency": "JMD",
+    "symbol": "J$"
+}, {
+    "currency": "JPY",
+    "symbol": "¥"
+}, {
+    "currency": "JEP",
+    "symbol": "£"
+}, {
+    "currency": "KZT",
+    "symbol": "лв"
+}, {
+    "currency": "KPW",
+    "symbol": "₩"
+}, {
+    "currency": "KRW",
+    "symbol": "₩"
+}, {
+    "currency": "KGS",
+    "symbol": "лв"
+}, {
+    "currency": "LAK",
+    "symbol": "₭"
+}, {
+    "currency": "LBP",
+    "symbol": "£"
+}, {
+    "currency": "LRD",
+    "symbol": "$"
+}, {
+    "currency": "MKD",
+    "symbol": "ден"
+}, {
+    "currency": "MYR",
+    "symbol": "RM"
+}, {
+    "currency": "MUR",
+    "symbol": "₨"
+}, {
+    "currency": "MXN",
+    "symbol": "$"
+}, {
+    "currency": "MNT",
+    "symbol": "₮"
+}, {
+    "currency": "MZN",
+    "symbol": "MT"
+}, {
+    "currency": "NAD",
+    "symbol": "$"
+}, {
+    "currency": "NPR",
+    "symbol": "₨"
+}, {
+    "currency": "ANG",
+    "symbol": "ƒ"
+}, {
+    "currency": "NZD",
+    "symbol": "$"
+}, {
+    "currency": "NIO",
+    "symbol": "C$"
+}, {
+    "currency": "NGN",
+    "symbol": "₦"
+}, {
+    "currency": "NOK",
+    "symbol": "kr"
+}, {
+    "currency": "OMR",
+    "symbol": "﷼"
+}, {
+    "currency": "PKR",
+    "symbol": "₨"
+}, {
+    "currency": "PAB",
+    "symbol": "B/."
+}, {
+    "currency": "PYG",
+    "symbol": "Gs"
+}, {
+    "currency": "PEN",
+    "symbol": "S/."
+}, {
+    "currency": "PHP",
+    "symbol": "₱"
+}, {
+    "currency": "PLN",
+    "symbol": "zł"
+}, {
+    "currency": "QAR",
+    "symbol": "﷼"
+}, {
+    "currency": "RON",
+    "symbol": "lei"
+}, {
+    "currency": "RUB",
+    "symbol": "₽"
+}, {
+    "currency": "SHP",
+    "symbol": "£"
+}, {
+    "currency": "SAR",
+    "symbol": "﷼"
+}, {
+    "currency": "RSD",
+    "symbol": "Дин."
+}, {
+    "currency": "SCR",
+    "symbol": "₨"
+}, {
+    "currency": "SGD",
+    "symbol": "$"
+}, {
+    "currency": "SBD",
+    "symbol": "$"
+}, {
+    "currency": "SOS",
+    "symbol": "S"
+}, {
+    "currency": "ZAR",
+    "symbol": "R"
+}, {
+    "currency": "LKR",
+    "symbol": "₨"
+}, {
+    "currency": "SEK",
+    "symbol": "kr"
+}, {
+    "currency": "CHF",
+    "symbol": "CHF"
+}, {
+    "currency": "SRD",
+    "symbol": "$"
+}, {
+    "currency": "SYP",
+    "symbol": "£"
+}, {
+    "currency": "TWD",
+    "symbol": "NT$"
+}, {
+    "currency": "THB",
+    "symbol": "฿"
+}, {
+    "currency": "TTD",
+    "symbol": "TT$"
+}, {
+    "currency": "TRY",
+    "symbol": ""
+}, {
+    "currency": "TVD",
+    "symbol": "$"
+}, {
+    "currency": "UAH",
+    "symbol": "₴"
+}, {
+    "currency": "GBP",
+    "symbol": "£"
+}, {
+    "currency": "USD",
+    "symbol": "$"
+}, {
+    "currency": "UYU",
+    "symbol": "$U"
+}, {
+    "currency": "UZS",
+    "symbol": "лв"
+}, {
+    "currency": "VEF",
+    "symbol": "Bs"
+}, {
+    "currency": "VND",
+    "symbol": "₫"
+}, {
+    "currency": "YER",
+    "symbol": "﷼"
+}, {
+    "currency": "ZWD",
+    "symbol": "Z$"
+}]

@@ -2,7 +2,7 @@
     <div class="layout">
         <!-- 当前只做支持二级菜单，可自行拓展 -->
         <nav>
-            <template v-for="(item,i) in routes">
+            <template v-for="(item,i) in routes" v-if="!item.hidden">
                 <router-link :key="i" :to="'/' + item.path" v-if="!item.children || !item.children.length">
                     {{ item.name }}
                 </router-link>
@@ -13,7 +13,7 @@
                 </template>
             </template>
         </nav>
-        <router-view/>
+        <router-view class="wrapper"/>
     </div>
 </template>
 
