@@ -1,0 +1,727 @@
+[{
+    "country": " Afghanistan",
+    "native": "افغانستان"
+}, {
+    "country": " Albania",
+    "native": "Shqipëria"
+}, {
+    "country": " Algeria",
+    "native": "الجزائر"
+}, {
+    "country": " American Samoa",
+    "native": "American Samoa"
+}, {
+    "country": " Andorra",
+    "native": "Andorra"
+}, {
+    "country": " Angola",
+    "native": "Angola"
+}, {
+    "country": " Anguilla",
+    "native": "Anguilla"
+}, {
+    "country": " Antigua and Barbuda",
+    "native": "Antigua and Barbuda"
+}, {
+    "country": " Argentina",
+    "native": "Argentina"
+}, {
+    "country": " Armenia",
+    "native": "Հայաստան"
+}, {
+    "country": " Aruba",
+    "native": "Aruba"
+}, {
+    "country": " Australia",
+    "native": "Australia"
+}, {
+    "country": " Austria",
+    "native": "Österreich"
+}, {
+    "country": " Åland Islands",
+    "native": "Ahvenanmaa"
+}, {
+    "country": " Azerbaijan",
+    "native": "Azərbaycan"
+}, {
+    "country": " The Bahamas",
+    "native": "The Bahamas"
+}, {
+    "country": " Bahrain",
+    "native": "البحرين"
+}, {
+    "country": " Bangladesh",
+    "native": "বাংলাদেশ"
+}, {
+    "country": " Barbados",
+    "native": "Barbados"
+}, {
+    "country": " Belarus",
+    "native": "Беларусь"
+}, {
+    "country": " Belgium",
+    "native": "Belgien"
+}, {
+    "country": " Belize",
+    "native": ""
+}, {
+    "country": " Benin",
+    "native": "Bénin"
+}, {
+    "country": " Bermuda",
+    "native": ""
+}, {
+    "country": " Bhutan",
+    "native": "འབྲུག་ཡུལ"
+}, {
+    "country": " Bolivia",
+    "native": "Volívia"
+}, {
+    "country": " Bosnia and Herzegovina",
+    "native": "Босна и Херцеговина"
+}, {
+    "country": " Botswana",
+    "native": ""
+}, {
+    "country": " Brazil",
+    "native": "Brasil"
+}, {
+    "country": " British Virgin Islands",
+    "native": ""
+}, {
+    "country": " Brunei",
+    "native": "بروني"
+}, {
+    "country": " Bulgaria",
+    "native": "България"
+}, {
+    "country": " Burkina Faso",
+    "native": ""
+}, {
+    "country": " Burundi",
+    "native": ""
+}, {
+    "country": " Cambodia",
+    "native": "កម្ពុជា"
+}, {
+    "country": " Cameroon",
+    "native": "Cameroon"
+}, {
+    "country": " Canada",
+    "native": "Canada"
+}, {
+    "country": " Cape Verde",
+    "native": "Cabo Verde"
+}, {
+    "country": " Cayman Islands",
+    "native": ""
+}, {
+    "country": " Central African Republic",
+    "native": "Ködörösêse tî Bêafrîka"
+}, {
+    "country": " Chad",
+    "native": "تشاد"
+}, {
+    "country": " Chile",
+    "native": "Chile"
+}, {
+    "country": "China",
+    "native": "中国"
+}, {
+    "country": "Christmas Island",
+    "native": ""
+}, {
+    "country": "Cocos Islands",
+    "native": ""
+}, {
+    "country": " Colombia",
+    "native": "Colombia"
+}, {
+    "country": "Comoros",
+    "native": "جزر القمر"
+}, {
+    "country": " Congo",
+    "native": "République du Congo"
+}, {
+    "country": " Congo DR",
+    "native": "République démocratique du Congo"
+}, {
+    "country": " Cook Islands",
+    "native": ""
+}, {
+    "country": " Costa Rica",
+    "native": "Costa Rica"
+}, {
+    "country": "formerly Ivory Coast",
+    "native": ""
+}, {
+    "country": " Crimea",
+    "native": ""
+}, {
+    "country": " Croatia",
+    "native": "Hrvatska"
+}, {
+    "country": " Cuba",
+    "native": "Cuba"
+}, {
+    "country": " Curaçao",
+    "native": "Curaçao"
+}, {
+    "country": " Cyprus",
+    "native": "Kıbrıs"
+}, {
+    "country": " Czech Republic",
+    "native": "Česko"
+}, {
+    "country": " Denmark",
+    "native": "Danmark"
+}, {
+    "country": " Djibouti",
+    "native": " جيبوتي "
+}, {
+    "country": " Dominica",
+    "native": ""
+}, {
+    "country": " Dominican Republic",
+    "native": "República Dominicana"
+}, {
+    "country": " East Timor",
+    "native": "Timor-Leste"
+}, {
+    "country": " Ecuador",
+    "native": "Ecuador"
+}, {
+    "country": " Egypt",
+    "native": "مصر"
+}, {
+    "country": " El Salvador",
+    "native": "El Salvador"
+}, {
+    "country": " Equatorial Guinea",
+    "native": "Guinea Ecuatorial"
+}, {
+    "country": " Eritrea",
+    "native": "ኤርትራ"
+}, {
+    "country": " Estonia",
+    "native": "Eesti"
+}, {
+    "country": " Ethiopia",
+    "native": "ኢትዮጵያ"
+}, {
+    "country": " Falkland Islands",
+    "native": "Falkland Islands"
+}, {
+    "country": " Faroe Islands",
+    "native": "Færøerne"
+}, {
+    "country": " Fiji",
+    "native": "फ़िजी"
+}, {
+    "country": " Finland",
+    "native": "Finland"
+}, {
+    "country": " France",
+    "native": "France"
+}, {
+    "country": " French Guiana",
+    "native": "Guyane"
+}, {
+    "country": " French Polynesia",
+    "native": "Polynésie française"
+}, {
+    "country": " Gabon",
+    "native": "République gabonaise"
+}, {
+    "country": " The Gambia",
+    "native": "The Gambia"
+}, {
+    "country": " Georgia",
+    "native": "საქართველო"
+}, {
+    "country": " Germany",
+    "native": "Deutschland"
+}, {
+    "country": " Ghana",
+    "native": ""
+}, {
+    "country": " Gibraltar",
+    "native": ""
+}, {
+    "country": " Greece",
+    "native": "Ελλάδα"
+}, {
+    "country": " Greenland",
+    "native": "Grønland"
+}, {
+    "country": " Grenada",
+    "native": ""
+}, {
+    "country": " Guadeloupe",
+    "native": ""
+}, {
+    "country": " Guam",
+    "native": "Guåhån"
+}, {
+    "country": " Guatemala",
+    "native": "Guatemala"
+}, {
+    "country": " Guernsey",
+    "native": ""
+}, {
+    "country": " Guinea",
+    "native": "Gine"
+}, {
+    "country": " Guinea-Bissau",
+    "native": "Guiné-Bissau"
+}, {
+    "country": " Guyana",
+    "native": ""
+}, {
+    "country": " Haiti",
+    "native": "Ayiti"
+}, {
+    "country": " Honduras",
+    "native": "Honduras"
+}, {
+    "country": " Hong Kong",
+    "native": "香港"
+}, {
+    "country": " Hungary",
+    "native": "Magyarország"
+}, {
+    "country": " Iceland",
+    "native": "Ísland"
+}, {
+    "country": " India",
+    "native": "భారత దేశం"
+}, {
+    "country": " Indonesia",
+    "native": "Indonesia"
+}, {
+    "country": " Iran",
+    "native": "ایران"
+}, {
+    "country": " Iraq",
+    "native": "Îraq"
+}, {
+    "country": " Ireland",
+    "native": "Ireland"
+}, {
+    "country": " Isle of Man",
+    "native": "Ellan Vannin"
+}, {
+    "country": " Israel",
+    "native": " إسرائيل "
+}, {
+    "country": " Italy",
+    "native": "Italia"
+}, {
+    "country": " Jamaica",
+    "native": ""
+}, {
+    "country": " Japan",
+    "native": "日本"
+}, {
+    "country": " Jersey",
+    "native": "Jèrri"
+}, {
+    "country": " Jordan",
+    "native": " الأردن"
+}, {
+    "country": " Kazakhstan",
+    "native": "Казахстан"
+}, {
+    "country": " Kenya",
+    "native": ""
+}, {
+    "country": " Kiribati",
+    "native": ""
+}, {
+    "country": " North Korea",
+    "native": "북조선"
+}, {
+    "country": " South Korea",
+    "native": "남한"
+}, {
+    "country": " Kosovo",
+    "native": "Kosova, Косово"
+}, {
+    "country": " Kuwait",
+    "native": " الكويت"
+}, {
+    "country": " Kyrgyzstan",
+    "native": "Киргизия"
+}, {
+    "country": " Laos",
+    "native": "ປະເທດລາວ"
+}, {
+    "country": " Latvia",
+    "native": "Latvija"
+}, {
+    "country": " Lebanon",
+    "native": " لبنان"
+}, {
+    "country": " Lesotho",
+    "native": ""
+}, {
+    "country": " Liberia",
+    "native": ""
+}, {
+    "country": " Libya",
+    "native": " ليبيا"
+}, {
+    "country": " Liechtenstein",
+    "native": "Liechtenstein"
+}, {
+    "country": " Lithuania",
+    "native": "Lietuva"
+}, {
+    "country": " Luxembourg",
+    "native": "Luxembourg"
+}, {
+    "country": " Macedonia",
+    "native": "Македонија"
+}, {
+    "country": " Madagascar",
+    "native": "Madagascar"
+}, {
+    "country": " Malawi",
+    "native": ""
+}, {
+    "country": " Malaysia",
+    "native": "மலேசியா"
+}, {
+    "country": " Maldives",
+    "native": " ދިވެހިރާއްޖެ"
+}, {
+    "country": " Mali",
+    "native": "Mali"
+}, {
+    "country": " Malta",
+    "native": "Malta"
+}, {
+    "country": " Marshall Islands",
+    "native": "Aorōkin M̧ajeļ"
+}, {
+    "country": " Martinique",
+    "native": ""
+}, {
+    "country": " Mauritania",
+    "native": " موريتانيا"
+}, {
+    "country": " Mauritius",
+    "native": "Moris"
+}, {
+    "country": " Mayotte",
+    "native": "Mayotte"
+}, {
+    "country": " Mexico",
+    "native": "Mēxihco"
+}, {
+    "country": " Federated States of Micronesia",
+    "native": ""
+}, {
+    "country": " Moldova",
+    "native": "Moldova"
+}, {
+    "country": " Monaco",
+    "native": "Monaco"
+}, {
+    "country": " Mongolia",
+    "native": "ᠤᠯᠤᠰ"
+}, {
+    "country": " Montenegro",
+    "native": "Црна Гора"
+}, {
+    "country": " Montserrat",
+    "native": ""
+}, {
+    "country": " Morocco",
+    "native": " المغرب"
+}, {
+    "country": " Mozambique",
+    "native": "Moçambique"
+}, {
+    "country": " Myanmar",
+    "native": " မြန်မာ"
+}, {
+    "country": " Namibia",
+    "native": "Namibia"
+}, {
+    "country": " Nauru",
+    "native": " Naoero"
+}, {
+    "country": " Nepal",
+    "native": "नेपाल"
+}, {
+    "country": " Netherlands",
+    "native": "Nederlân"
+}, {
+    "country": " New Caledonia",
+    "native": "Nouvelle-Calédonie"
+}, {
+    "country": " New Zealand",
+    "native": "Aotearoa"
+}, {
+    "country": " Nicaragua",
+    "native": "Nicaragua"
+}, {
+    "country": " Niger",
+    "native": ""
+}, {
+    "country": " Nigeria",
+    "native": ""
+}, {
+    "country": " Niue",
+    "native": "Niue"
+}, {
+    "country": " Norfolk Island",
+    "native": ""
+}, {
+    "country": " Northern Mariana Islands",
+    "native": ""
+}, {
+    "country": " Norway",
+    "native": "Noreg"
+}, {
+    "country": " Oman",
+    "native": " عُمان"
+}, {
+    "country": " Pakistan",
+    "native": " پاکستان‎"
+}, {
+    "country": " Palau",
+    "native": "Belau"
+}, {
+    "country": " Palestine",
+    "native": " فلسطين"
+}, {
+    "country": " Panama",
+    "native": "Panamá"
+}, {
+    "country": " Papua New Guinea",
+    "native": "Papua Niugini"
+}, {
+    "country": " Paraguay",
+    "native": "Paraguái"
+}, {
+    "country": " Peru",
+    "native": "Piruw"
+}, {
+    "country": " Philippines",
+    "native": "Philippines"
+}, {
+    "country": " Pitcairn Islands",
+    "native": ""
+}, {
+    "country": " Poland",
+    "native": "Polska"
+}, {
+    "country": " Portugal",
+    "native": "Portugal"
+}, {
+    "country": " Puerto Rico",
+    "native": "Puerto Rico"
+}, {
+    "country": " Qatar",
+    "native": " قطر"
+}, {
+    "country": " Réunion",
+    "native": "Réunion"
+}, {
+    "country": " Romania",
+    "native": "România"
+}, {
+    "country": " Russia",
+    "native": "Россия1"
+}, {
+    "country": " Rwanda",
+    "native": ""
+}, {
+    "country": " Sahrawi Arab Democratic Republic",
+    "native": ""
+}, {
+    "country": " Saint Barthélemy",
+    "native": "Saint-Barthélemy"
+}, {
+    "country": " Saint Helena, Ascension and Tristan da Cunha",
+    "native": ""
+}, {
+    "country": " Saint Kitts and Nevis",
+    "native": ""
+}, {
+    "country": " Saint Martin",
+    "native": "Saint-Martin"
+}, {
+    "country": " Saint Lucia",
+    "native": ""
+}, {
+    "country": " Saint Pierre and Miquelon",
+    "native": "Saint-Pierre et Miquelon"
+}, {
+    "country": " Saint Vincent and the Grenadines",
+    "native": ""
+}, {
+    "country": " Samoa",
+    "native": ""
+}, {
+    "country": " San Marino",
+    "native": ""
+}, {
+    "country": " São Tomé and Príncipe",
+    "native": "São Tomé e Príncipe"
+}, {
+    "country": " Saudi Arabia",
+    "native": " المملكة العربية السعودية"
+}, {
+    "country": " Senegal",
+    "native": "Sénégal"
+}, {
+    "country": " Serbia",
+    "native": "Србија"
+}, {
+    "country": " Seychelles",
+    "native": "Seychelles"
+}, {
+    "country": " Sierra Leone",
+    "native": ""
+}, {
+    "country": " Singapore",
+    "native": "சிங்கப்பூர்"
+}, {
+    "country": " Sint Maarten",
+    "native": "Sint Maarten"
+}, {
+    "country": " Slovakia",
+    "native": "Slovensko"
+}, {
+    "country": " Slovenia",
+    "native": "Slovenija"
+}, {
+    "country": " Solomon Islands",
+    "native": "Solomon Aelan"
+}, {
+    "country": " Somalia",
+    "native": " الصومال"
+}, {
+    "country": " South Africa",
+    "native": "iSewula Afrika"
+}, {
+    "country": " South Sudan",
+    "native": ""
+}, {
+    "country": " Spain",
+    "native": "Espanha"
+}, {
+    "country": " Sri Lanka",
+    "native": "இலங்கை"
+}, {
+    "country": " Sudan",
+    "native": "السودان"
+}, {
+    "country": " Suriname",
+    "native": ""
+}, {
+    "country": " Svalbard",
+    "native": "Svalbard"
+}, {
+    "country": " Swaziland",
+    "native": ""
+}, {
+    "country": " Sweden",
+    "native": "Sverige"
+}, {
+    "country": " Switzerland",
+    "native": "Svizra"
+}, {
+    "country": " Syria",
+    "native": "سورية"
+}, {
+    "country": " Taiwan (Republic of China)",
+    "native": "台灣"
+}, {
+    "country": " Tajikistan",
+    "native": "Тоҷикистон"
+}, {
+    "country": " Tanzania",
+    "native": ""
+}, {
+    "country": " Thailand",
+    "native": "เมืองไทย, ประเทศไทย, ราชอาณาจักรไทย"
+}, {
+    "country": " Togo",
+    "native": ""
+}, {
+    "country": " Tokelau",
+    "native": ""
+}, {
+    "country": " Tonga",
+    "native": "Tonga"
+}, {
+    "country": " Trinidad and Tobago",
+    "native": ""
+}, {
+    "country": " Tunisia",
+    "native": " تونس"
+}, {
+    "country": " Turkey",
+    "native": "Türkiye"
+}, {
+    "country": " Turkmenistan",
+    "native": "Türkmenistan"
+}, {
+    "country": " Turks and Caicos Islands",
+    "native": ""
+}, {
+    "country": " Tuvalu",
+    "native": ""
+}, {
+    "country": " Uganda",
+    "native": ""
+}, {
+    "country": " Ukraine",
+    "native": "Україна"
+}, {
+    "country": " United Arab Emirates",
+    "native": " الإمارات العربيّة المتّحدة"
+}, {
+    "country": " United Kingdom",
+    "native": "An Rywvaneth Unys"
+}, {
+    "country": " United States",
+    "native": "‘Amelika Hui Pū ‘ia"
+}, {
+    "country": " United States Virgin Islands",
+    "native": ""
+}, {
+    "country": " Uruguay",
+    "native": "República Oriental del Uruguay"
+}, {
+    "country": " Uzbekistan",
+    "native": "Ўзбекистон"
+}, {
+    "country": " Vanuatu",
+    "native": "Vanuatu"
+}, {
+    "country": " Vatican City",
+    "native": "E Civitate Vaticana"
+}, {
+    "country": " Venezuela",
+    "native": "Venezuela"
+}, {
+    "country": " Vietnam",
+    "native": "Việt Nam"
+}, {
+    "country": " Wallis and Futuna",
+    "native": "Uvea mo Futuna"
+}, {
+    "country": " Yemen",
+    "native": " اليمن"
+}, {
+    "country": " Zambia",
+    "native": ""
+}, {
+    "country": " Zimbabwe",
+    "native": ""
+}]
