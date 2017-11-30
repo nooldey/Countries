@@ -93,7 +93,7 @@
                 this.list.forEach(item => {
                     cou = cou.concat(item.countries)
                 })
-                console.log(JSON.stringify(cou))
+                console.log(JSON.stringify(cou.sort()))
             }
         }
     }

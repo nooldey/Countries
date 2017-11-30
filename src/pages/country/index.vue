@@ -76,7 +76,7 @@ export default {
         },
         showout() {
             let co = this.countries.map(item => item.name)
-            console.log(JSON.stringify(co))
+            console.log(JSON.stringify(co.sort()))
         }
     }
 }
