@@ -5,18 +5,19 @@
         <span>(货币名)Name</span>
         <span>(货币)Currency</span>
         <span>(符号)Symbol</span>
-        <span>(数字代码)Code</span>
+        <span>(数字代码)Decimal</span>
         <span>(国家)Countries</span>
     </div>
     <ul class="scroll">
-        <li v-for="(item,i) of res" :key="i" class="flexil">
+        <li v-for="(item,i) of list" :key="i" class="flexil">
             <p>{{ item.name }}</p>
             <p>{{ item.currency }}</p>
             <p>
                 <span>{{ item.symbol }}</span>
-                <span><del>{{ item.diff }}</del></span>
             </p>
-            <p>{{ item.code }}</p>
+            <p>
+                {{ item.decimal }}
+            </p>
             <p>
                 <span v-for="c of item.countries" :key="c">
                     {{ c }}
@@ -34,14 +35,14 @@
 </template>
 
 <script>
-    const Currency = require('./currency.json');
+    // const Currency = require('./currency.json');
     const newCurrency = require('./currency_new.json');
     export default {
         data () {
             return {
-                currency: [...Currency],
+                // currency: [...Currency],
                 list: [...newCurrency],
-                res: []
+                // res: []
             }
         },
         mounted () {
@@ -49,19 +50,19 @@
         },
         methods: {
             conbine() {
-                this.res = this.list.map(item => {
-                    let cou = this.currency.find(co => co.currency == item.currency)
-                    let li = {
-                        ...item
-                    }
-                    if (cou && (cou.symbol.trim() != item.symbol)) {
-                        li.diff = cou.symbol
-                    }
-                    return li
-                })
+                // this.res = this.list.map(item => {
+                //     let cou = this.currency.find(co => co.currency == item.currency)
+                //     let li = {
+                //         ...item
+                //     }
+                //     if (cou && (cou.symbol.trim() != item.symbol)) {
+                //         li.diff = cou.symbol
+                //     }
+                //     return li
+                // })
             },
             save() {
-
+                console.log(JSON.stringify(this.res))
             }
         }
     }

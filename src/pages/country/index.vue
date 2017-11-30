@@ -30,24 +30,28 @@
 
 <script>
 const Countries = require('./countries.json');
-const Currency = require('./currency_new.json');
+const CurrencyData = require('./currency_new.json');
 export default {
     data() {
         return {
             countries: [...Countries],
-            currency: [...Currency],
+            currency: [...CurrencyData],
         }
     },
     mounted() {
-        this.conbine()
+        this.conbineC()
     },
     methods: {
-        conbine() {
+        conbineC() {
             this.countries.forEach(item => {
                 let cur = this.currency.find(cu => cu.countries.includes(item.name))
                 if (cur) {
-                    item.ncurrency = cur.currency;
-                    item.ncurrencyIco = cur.symbol;
+                    if (cur.currency && cur.currency !== item.currency) {
+                        item.ncurrency = cur.currency;
+                    }
+                    if (cur.symbol && cur.symbol !== item.currencyIco) {
+                        item.ncurrencyIco = cur.symbol;
+                    }
                 }
             })
         },
@@ -72,6 +76,7 @@ export default {
         text-align: center;
         input {
             border: none;
+            text-align: center;
         }
     }
 }
