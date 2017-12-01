@@ -1,1 +1,489 @@
-[ { "name": "Armenia", "native": "Հայաստան", "code": "AM" }, { "name": "Bahrain", "native": "البحرين", "code": "BH" }, { "name": "Botswana", "native": "Botswana", "code": "BW" }, { "name": "Cameroon", "native": "Cameroun", "code": "CM" }, { "name": "Central African Republic", "native": "République Centrafricaine", "code": "CF" }, { "name": "Ivory Coast", "native": "Côte d'Ivoire", "code": "CI" }, { "name": "Egypt", "native": "مصر", "code": "EG" }, { "name": "Guinea-Bissau", "native": "Guinea-Bissau", "code": "GW" }, { "name": "Guinea", "native": "Guinée", "code": "GN" }, { "name": "Equatorial Guinea", "native": "Guinée Equatoriale", "code": "GQ" }, { "name": "India", "native": "India", "code": "IN" }, { "name": "Israel", "native": "Israel", "code": "IL" }, { "name": "Jordan", "native": "Jordan", "code": "JO" }, { "name": "Kenya", "native": "Kenya", "code": "KE" }, { "name": "Kuwait", "native": "Kuwait", "code": "KW" }, { "name": "Madagascar", "native": "Madagascar", "code": "MG" }, { "name": "Mali", "native": "Mali", "code": "ML" }, { "name": "Morocco", "native": "Maroc", "code": "MA" }, { "name": "Mauritius", "native": "Maurice", "code": "MU" }, { "name": "Mozambique", "native": "Mozambique", "code": "MZ" }, { "name": "Niger", "native": "Niger", "code": "NE" }, { "name": "Nigeria", "native": "Nigeria", "code": "NG" }, { "name": "Oman", "native": "Oman", "code": "OM" }, { "name": "Qatar", "native": "Qatar", "code": "QA" }, { "name": "Saudi Arab", "native": "المملكة العربية السعودية", "native2": "Saudi Arabia", "code": "SA" }, { "name": "Senegal", "native": "Sénégal", "code": "SN" }, { "name": "South Africa", "native": "South Africa", "code": "ZA" }, { "name": "Tunisia", "native": "Tunisie", "code": "TN" }, { "name": "Uganda", "native": "Uganda", "code": "UG" }, { "name": "United Arab Emirates", "native": "الإمارات العربية المتحدة", "code": "AE" }, { "name": "Australia", "native": "Australia", "code": "AU" }, { "name": "China", "native": "中国", "code": "CN" }, { "name": "Hong Kong", "native": "中国香港", "code": "HK" }, { "name": "Indonesia", "native": "Indonesia", "code": "ID" }, { "name": "Japan", "native": "日本", "code": "JP" }, { "name": "South Korea", "native": "대한민국", "code": "KR" }, { "name": "North Korea", "native": "북한", "code": "KP" }, { "name": "Macau", "native": "中国澳門", "code": "MO" }, { "name": "Malaysia", "native": "Malaysia", "code": "MY" }, { "name": "New Zealand", "native": "New Zealand", "code": "NZ" }, { "name": "Philippines", "native": "Philippines", "code": "PH" }, { "name": "Singapore", "native": "Singapore", "code": "SG" }, { "name": "Taiwan", "native": "中国台灣", "code": "TW" }, { "name": "Thailand", "native": "ไทย", "code": "TH" }, { "name": "Vietnam", "native": "Việt Nam", "code": "VN" }, { "name": "Belgium", "native": "België", "native2": "Belgique", "code": "BE" }, { "name": "Bulgaria", "native": "България", "code": "BG" }, { "name": "Czech Republic", "native": "Česko", "code": "CZ" }, { "name": "Denmark", "native": "Danmark", "code": "DK" }, { "name": "Germany", "native": "Deutschland", "code": "DE" }, { "name": "Estonia", "native": "Eesti", "code": "EE" }, { "name": "Spain", "native": "España", "code": "ES" }, { "name": "France", "native": "France", "code": "FR" }, { "name": "Greece", "native": "Ελλάδα", "native2": "Hellas", "code": "GR" }, { "name": "Croatia", "native": "Hrvatska", "code": "HR" }, { "name": "Ireland", "native": "Ireland", "code": "IE" }, { "name": "Italy", "native": "Italia", "code": "IT" }, { "name": "Latvia", "native": "Latvija", "code": "LV" }, { "name": "Liechtenstein", "native": "Liechtenstein", "code": "LI" }, { "name": "Lithuania", "native": "Lietuva", "code": "LT" }, { "name": "Luxembourg", "native": "Lëtzebuerg", "code": "LU" }, { "name": "Macedonia", "native": "Македонија", "code": "MK" }, { "name": "Hungary", "native": "Magyarország", "code": "HU" }, { "name": "Malta", "native": "Malta", "code": "MT" }, { "name": "Moldavia", "native": "Moldova", "code": "MD" }, { "name": "Montenegro", "native": "Montenegro", "code": "ME" }, { "name": "Netherlands", "native": "Nederland", "code": "NL" }, { "name": "Norway", "native": "Norge", "code": "NO" }, { "name": "Austria", "native": "Österreich", "code": "AT" }, { "name": "Poland", "native": "Polska", "code": "PL" }, { "name": "Portugal", "native": "Portugal", "code": "PT" }, { "name": "Romania", "native": "România", "code": "RO" }, { "name": "Russia", "native": "Россия", "code": "RU" }, { "name": "Slovakia", "native": "Slovensko", "code": "SK" }, { "name": "Slovenia", "native": "Slovenija", "code": "SI" }, { "name": "Switzerland", "native": "Swiss", "native2": ["Suisse","Schweiz"], "code": "CH" }, { "name": "Finland", "native": "Suomi", "code": "FI" }, { "name": "Sweden", "native": "Sverige", "code": "SE" }, { "name": "Turkey", "native": "Türkiye", "code": "TR" }, { "name": "United Kingdom", "native": "UK", "code": "GB" }, { "name": "Anguilla", "native": "Anguilla", "code": "AI" }, { "name": "Antigua & Barbuda", "native": "Antigua & Barbuda", "code": "AG" }, { "name": "Argentina", "native": "Argentina", "code": "AR" }, { "name": "Barbados", "native": "Barbados", "code": "BB" }, { "name": "Belize", "native": "Belize", "code": "BZ" }, { "name": "Bermuda", "native": "Bermuda", "code": "BM" }, { "name": "Bolivia", "native": "Bolivia", "code": "BO" }, { "name": "Brazil", "native": "Brasil", "code": "BR" }, { "name": "British Virgin Islands", "native": "British Virgin Islands", "code": "VG" }, { "name": "Cayman Islands", "native": "Cayman Islands", "code": "KY" }, { "name": "Chile", "native": "Chile", "code": "CL" }, { "name": "Colombia", "native": "Colombia", "code": "CO" }, { "name": "Costa Rica", "native": "Costa Rica", "code": "CR" }, { "name": "Dominica", "native": "Dominica", "code": "DM" }, { "name": "Dominican Republic", "native": "República Dominicana", "code": "DO" }, { "name": "Ecuador", "native": "Ecuador", "code": "EC" }, { "name": "El Salvador", "native": "El Salvador", "code": "SV" }, { "name": "Grenada", "native": "Grenada", "code": "GD" }, { "name": "Guatemala", "native": "Guatemala", "code": "GT" }, { "name": "Guyana", "native": "Guyana", "code": "GY" }, { "name": "Honduras", "native": "Honduras", "code": "HN" }, { "name": "Jamaica", "native": "Jamaica", "code": "JM" }, { "name": "Mexico", "native": "México", "code": "MX" }, { "name": "Montserrat", "native": "Montserrat", "code": "MS" }, { "name": "Nicaragua", "native": "Nicaragua", "code": "NI" }, { "name": "Panama", "native": "Panamá", "code": "PA" }, { "name": "Paraguay", "native": "Paraguay", "code": "PY" }, { "name": "Peru", "native": "Perú", "code": "PE" }, { "name": "St. Kitts & Nevis", "native": "St. Kitts & Nevis", "code": "KN" }, { "name": "St. Lucia", "native": "St. Lucia", "code": "LC" }, { "name": "St. Vincent & The Grenadines", "native": "St. Vincent & The Grenadines", "code": "VC" }, { "name": "Suriname", "native": "Suriname", "code": "SR" }, { "name": "Bahamas", "native": "Bahamas", "code": "BS" }, { "name": "Trinidad & Tobago", "native": "Trinidad & Tobago", "code": "TT" }, { "name": "Turks & Caicos Islands", "native": "Turks & Caicos Islands", "code": "TC" }, { "name": "Uruguay", "native": "Uruguay", "code": "UY" }, { "name": "Venezuela", "native": "Venezuela", "code": "VE" }, { "name": "Canada", "native": "Canada", "code": "CA" }, { "name": "Puerto Rico", "native": "Puerto Rico", "code": "PR" }, { "name": "United States", "native": "United States", "code": "US" }, { "name": "Latin America and the Caribbean", "native": "América Latina y el Caribe", "code": "" } ]
+[{
+    "name": "Armenia",
+    "native": "Հայաստան",
+    "code": "AM"
+}, {
+    "name": "Bahrain",
+    "native": "البحرين",
+    "code": "BH"
+}, {
+    "name": "Botswana",
+    "native": "Botswana",
+    "code": "BW"
+}, {
+    "name": "Cameroon",
+    "native": "Cameroun",
+    "code": "CM"
+}, {
+    "name": "Central African Republic",
+    "native": "République Centrafricaine",
+    "code": "CF"
+}, {
+    "name": "Ivory Coast",
+    "native": "Côte d'Ivoire",
+    "code": "CI"
+}, {
+    "name": "Egypt",
+    "native": "مصر",
+    "code": "EG"
+}, {
+    "name": "Guinea-Bissau",
+    "native": "Guinea-Bissau",
+    "code": "GW"
+}, {
+    "name": "Guinea",
+    "native": "Guinée",
+    "code": "GN"
+}, {
+    "name": "Equatorial Guinea",
+    "native": "Guinée Equatoriale",
+    "code": "GQ"
+}, {
+    "name": "India",
+    "native": "India",
+    "code": "IN"
+}, {
+    "name": "Israel",
+    "native": "Israel",
+    "code": "IL"
+}, {
+    "name": "Jordan",
+    "native": "Jordan",
+    "code": "JO"
+}, {
+    "name": "Kenya",
+    "native": "Kenya",
+    "code": "KE"
+}, {
+    "name": "Kuwait",
+    "native": "Kuwait",
+    "code": "KW"
+}, {
+    "name": "Madagascar",
+    "native": "Madagascar",
+    "code": "MG"
+}, {
+    "name": "Mali",
+    "native": "Mali",
+    "code": "ML"
+}, {
+    "name": "Morocco",
+    "native": "Maroc",
+    "code": "MA"
+}, {
+    "name": "Mauritius",
+    "native": "Maurice",
+    "code": "MU"
+}, {
+    "name": "Mozambique",
+    "native": "Mozambique",
+    "code": "MZ"
+}, {
+    "name": "Niger",
+    "native": "Niger",
+    "code": "NE"
+}, {
+    "name": "Nigeria",
+    "native": "Nigeria",
+    "code": "NG"
+}, {
+    "name": "Oman",
+    "native": "Oman",
+    "code": "OM"
+}, {
+    "name": "Qatar",
+    "native": "Qatar",
+    "code": "QA"
+}, {
+    "name": "Saudi Arab",
+    "native": "المملكة العربية السعودية",
+    "native2": "Saudi Arabia",
+    "code": "SA"
+}, {
+    "name": "Senegal",
+    "native": "Sénégal",
+    "code": "SN"
+}, {
+    "name": "South Africa",
+    "native": "South Africa",
+    "code": "ZA"
+}, {
+    "name": "Tunisia",
+    "native": "Tunisie",
+    "code": "TN"
+}, {
+    "name": "Uganda",
+    "native": "Uganda",
+    "code": "UG"
+}, {
+    "name": "United Arab Emirates",
+    "native": "الإمارات العربية المتحدة",
+    "code": "AE"
+}, {
+    "name": "Australia",
+    "native": "Australia",
+    "code": "AU"
+}, {
+    "name": "China",
+    "native": "中国",
+    "code": "CN"
+}, {
+    "name": "Hong Kong",
+    "native": "中国香港",
+    "code": "HK"
+}, {
+    "name": "Indonesia",
+    "native": "Indonesia",
+    "code": "ID"
+}, {
+    "name": "Japan",
+    "native": "日本",
+    "code": "JP"
+}, {
+    "name": "South Korea",
+    "native": "대한민국",
+    "code": "KR"
+}, {
+    "name": "North Korea",
+    "native": "북한",
+    "code": "KP"
+}, {
+    "name": "Macau",
+    "native": "中国澳門",
+    "code": "MO"
+}, {
+    "name": "Malaysia",
+    "native": "Malaysia",
+    "code": "MY"
+}, {
+    "name": "New Zealand",
+    "native": "New Zealand",
+    "code": "NZ"
+}, {
+    "name": "Philippines",
+    "native": "Philippines",
+    "code": "PH"
+}, {
+    "name": "Singapore",
+    "native": "Singapore",
+    "code": "SG"
+}, {
+    "name": "Taiwan",
+    "native": "中国台灣",
+    "code": "TW"
+}, {
+    "name": "Thailand",
+    "native": "ไทย",
+    "code": "TH"
+}, {
+    "name": "Vietnam",
+    "native": "Việt Nam",
+    "code": "VN"
+}, {
+    "name": "Belgium",
+    "native": "België",
+    "native2": "Belgique",
+    "code": "BE"
+}, {
+    "name": "Bulgaria",
+    "native": "България",
+    "code": "BG"
+}, {
+    "name": "Czech Republic",
+    "native": "Česko",
+    "code": "CZ"
+}, {
+    "name": "Denmark",
+    "native": "Danmark",
+    "code": "DK"
+}, {
+    "name": "Germany",
+    "native": "Deutschland",
+    "code": "DE"
+}, {
+    "name": "Estonia",
+    "native": "Eesti",
+    "code": "EE"
+}, {
+    "name": "Spain",
+    "native": "España",
+    "code": "ES"
+}, {
+    "name": "France",
+    "native": "France",
+    "code": "FR"
+}, {
+    "name": "Greece",
+    "native": "Ελλάδα",
+    "native2": "Hellas",
+    "code": "GR"
+}, {
+    "name": "Croatia",
+    "native": "Hrvatska",
+    "code": "HR"
+}, {
+    "name": "Ireland",
+    "native": "Ireland",
+    "code": "IE"
+}, {
+    "name": "Italy",
+    "native": "Italia",
+    "code": "IT"
+}, {
+    "name": "Latvia",
+    "native": "Latvija",
+    "code": "LV"
+}, {
+    "name": "Liechtenstein",
+    "native": "Liechtenstein",
+    "code": "LI"
+}, {
+    "name": "Lithuania",
+    "native": "Lietuva",
+    "code": "LT"
+}, {
+    "name": "Luxembourg",
+    "native": "Lëtzebuerg",
+    "code": "LU"
+}, {
+    "name": "Macedonia",
+    "native": "Македонија",
+    "code": "MK"
+}, {
+    "name": "Hungary",
+    "native": "Magyarország",
+    "code": "HU"
+}, {
+    "name": "Malta",
+    "native": "Malta",
+    "code": "MT"
+}, {
+    "name": "Moldavia",
+    "native": "Moldova",
+    "code": "MD"
+}, {
+    "name": "Montenegro",
+    "native": "Montenegro",
+    "code": "ME"
+}, {
+    "name": "Netherlands",
+    "native": "Nederland",
+    "code": "NL"
+}, {
+    "name": "Norway",
+    "native": "Norge",
+    "code": "NO"
+}, {
+    "name": "Austria",
+    "native": "Österreich",
+    "code": "AT"
+}, {
+    "name": "Poland",
+    "native": "Polska",
+    "code": "PL"
+}, {
+    "name": "Portugal",
+    "native": "Portugal",
+    "code": "PT"
+}, {
+    "name": "Romania",
+    "native": "România",
+    "code": "RO"
+}, {
+    "name": "Russia",
+    "native": "Россия",
+    "code": "RU"
+}, {
+    "name": "Slovakia",
+    "native": "Slovensko",
+    "code": "SK"
+}, {
+    "name": "Slovenia",
+    "native": "Slovenija",
+    "code": "SI"
+}, {
+    "name": "Switzerland",
+    "native": "Swiss",
+    "native2": ["Suisse", "Schweiz"],
+    "code": "CH"
+}, {
+    "name": "Finland",
+    "native": "Suomi",
+    "code": "FI"
+}, {
+    "name": "Sweden",
+    "native": "Sverige",
+    "code": "SE"
+}, {
+    "name": "Turkey",
+    "native": "Türkiye",
+    "code": "TR"
+}, {
+    "name": "United Kingdom",
+    "native": "UK",
+    "code": "GB"
+}, {
+    "name": "Anguilla",
+    "native": "Anguilla",
+    "code": "AI"
+}, {
+    "name": "Antigua & Barbuda",
+    "native": "Antigua & Barbuda",
+    "code": "AG"
+}, {
+    "name": "Argentina",
+    "native": "Argentina",
+    "code": "AR"
+}, {
+    "name": "Barbados",
+    "native": "Barbados",
+    "code": "BB"
+}, {
+    "name": "Belize",
+    "native": "Belize",
+    "code": "BZ"
+}, {
+    "name": "Bermuda",
+    "native": "Bermuda",
+    "code": "BM"
+}, {
+    "name": "Bolivia",
+    "native": "Bolivia",
+    "code": "BO"
+}, {
+    "name": "Brazil",
+    "native": "Brasil",
+    "code": "BR"
+}, {
+    "name": "British Virgin Islands",
+    "native": "British Virgin Islands",
+    "code": "VG"
+}, {
+    "name": "Cayman Islands",
+    "native": "Cayman Islands",
+    "code": "KY"
+}, {
+    "name": "Chile",
+    "native": "Chile",
+    "code": "CL"
+}, {
+    "name": "Colombia",
+    "native": "Colombia",
+    "code": "CO"
+}, {
+    "name": "Costa Rica",
+    "native": "Costa Rica",
+    "code": "CR"
+}, {
+    "name": "Dominica",
+    "native": "Dominica",
+    "code": "DM"
+}, {
+    "name": "Dominican Republic",
+    "native": "República Dominicana",
+    "code": "DO"
+}, {
+    "name": "Ecuador",
+    "native": "Ecuador",
+    "code": "EC"
+}, {
+    "name": "El Salvador",
+    "native": "El Salvador",
+    "code": "SV"
+}, {
+    "name": "Grenada",
+    "native": "Grenada",
+    "code": "GD"
+}, {
+    "name": "Guatemala",
+    "native": "Guatemala",
+    "code": "GT"
+}, {
+    "name": "Guyana",
+    "native": "Guyana",
+    "code": "GY"
+}, {
+    "name": "Honduras",
+    "native": "Honduras",
+    "code": "HN"
+}, {
+    "name": "Jamaica",
+    "native": "Jamaica",
+    "code": "JM"
+}, {
+    "name": "Mexico",
+    "native": "México",
+    "code": "MX"
+}, {
+    "name": "Montserrat",
+    "native": "Montserrat",
+    "code": "MS"
+}, {
+    "name": "Nicaragua",
+    "native": "Nicaragua",
+    "code": "NI"
+}, {
+    "name": "Panama",
+    "native": "Panamá",
+    "code": "PA"
+}, {
+    "name": "Paraguay",
+    "native": "Paraguay",
+    "code": "PY"
+}, {
+    "name": "Peru",
+    "native": "Perú",
+    "code": "PE"
+}, {
+    "name": "St. Kitts & Nevis",
+    "native": "St. Kitts & Nevis",
+    "code": "KN"
+}, {
+    "name": "St. Lucia",
+    "native": "St. Lucia",
+    "code": "LC"
+}, {
+    "name": "St. Vincent & The Grenadines",
+    "native": "St. Vincent & The Grenadines",
+    "code": "VC"
+}, {
+    "name": "Suriname",
+    "native": "Suriname",
+    "code": "SR"
+}, {
+    "name": "Bahamas",
+    "native": "Bahamas",
+    "code": "BS"
+}, {
+    "name": "Trinidad & Tobago",
+    "native": "Trinidad & Tobago",
+    "code": "TT"
+}, {
+    "name": "Turks & Caicos Islands",
+    "native": "Turks & Caicos Islands",
+    "code": "TC"
+}, {
+    "name": "Uruguay",
+    "native": "Uruguay",
+    "code": "UY"
+}, {
+    "name": "Venezuela",
+    "native": "Venezuela",
+    "code": "VE"
+}, {
+    "name": "Canada",
+    "native": "Canada",
+    "code": "CA"
+}, {
+    "name": "Puerto Rico",
+    "native": "Puerto Rico",
+    "code": "PR"
+}, {
+    "name": "United States",
+    "native": "United States",
+    "code": "US"
+}, {
+    "name": "Latin America and the Caribbean",
+    "native": "América Latina y el Caribe",
+    "code": ""
+}]

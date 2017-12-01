@@ -165,32 +165,32 @@
     "countries": ["Democratic Republic of the Congo"],
     "symbol": "FC"
 }, {
-    "iso": "CHE",
-    "decimal": "947",
-    "currency": "WIR Euro ",
-    "countries": ["Switzerland"]
-}, {
     "iso": "CHF",
     "decimal": "756",
     "currency": "Swiss franc",
     "countries": ["Switzerland", "Liechtenstein"],
     "symbol": "CHF"
 }, {
+    "iso": "CHE",
+    "decimal": "947",
+    "currency": "WIR Euro ",
+    "countries": ["Switzerland"]
+}, {
     "iso": "CHW",
     "decimal": "948",
     "currency": "WIR Franc ",
     "countries": ["Switzerland"]
-}, {
-    "iso": "CLF",
-    "decimal": "990",
-    "currency": "Unidad de Fomento ",
-    "countries": ["Chile"]
 }, {
     "iso": "CLP",
     "decimal": "152",
     "currency": "Chilean peso",
     "countries": ["Chile"],
     "symbol": "$"
+}, {
+    "iso": "CLF",
+    "decimal": "990",
+    "currency": "Unidad de Fomento ",
+    "countries": ["Chile"]
 }, {
     "iso": "CNY",
     "decimal": "156",
@@ -393,7 +393,7 @@
     "decimal": "356",
     "currency": "Indian rupee",
     "countries": ["India", "Bhutan"],
-    "symbol": "₹"
+    "symbol": "Rs."
 }, {
     "iso": "IQD",
     "decimal": "368",
@@ -891,16 +891,16 @@
     "currency": "United States dollar  ",
     "countries": ["United States"]
 }, {
-    "iso": "UYI",
-    "decimal": "940",
-    "currency": "Uruguay Peso en Unidades Indexadas  ",
-    "countries": ["Uruguay"]
-}, {
     "iso": "UYU",
     "decimal": "858",
     "currency": "Uruguayan peso",
     "countries": ["Uruguay"],
     "symbol": "$U"
+}, {
+    "iso": "UYI",
+    "decimal": "940",
+    "currency": "Uruguay Peso en Unidades Indexadas  ",
+    "countries": ["Uruguay"]
 }, {
     "iso": "UZS",
     "decimal": "860",

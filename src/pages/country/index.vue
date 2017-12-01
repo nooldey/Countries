@@ -12,7 +12,7 @@
                 <p><input type="text" v-model="item.name"></p>
                 <p>
                     <span><del>{{ item.nnative }}</del></span>
-                    <input type="text" v-model="item.nativeName">
+                    <input type="text" v-model="item.native">
                 </p>
                 <p><input type="text" v-model="item.code" /></p>
                 <p>
@@ -59,7 +59,7 @@ export default {
                     }
                 }
                 let co = apples.find(c => c.name == item.name);
-                if (co && item.nativeName != co.native) {
+                if (co && item.native != co.native) {
                     item.nnative = co.native
                 }
             })
