@@ -45,8 +45,8 @@
 </template>
 
 <script>
-    const newCurrency = require('./currency_new.json');
-    const iso = require('../../../doc/iso.json');
+    const newCurrency = require('$dat/currency.json');
+    const iso = require('$dat/iso.json');
     export default {
         data () {
             return {

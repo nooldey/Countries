@@ -3,7 +3,7 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:20:27 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-11-30 11:35:03
+ * @Last Modified time: 2017-12-01 09:12:28
  * @Description: 具体的路由定义
  */
 
@@ -30,6 +30,11 @@ export default [
                         path: 'currency',
                         name: 'Currency',
                         component: pipe('country/currency.vue')
+                    },
+                    {
+                        path: 'apple',
+                        name: 'apple',
+                        component: pipe('country/apple.vue')
                     }
                 ]
             },

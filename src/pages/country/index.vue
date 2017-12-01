@@ -33,9 +33,9 @@
 </template>
 
 <script>
-const Countries = require('./countries.json');
-const CurrencyData = require('./currency_new.json');
-const apples = require('../../../doc/apple_countries.json');
+const Countries = require('$dat/countries.json');
+const CurrencyData = require('$dat/currency.json');
+const apples = require('$dat/apple_countries.json');
 export default {
     data() {
         return {

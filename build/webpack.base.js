@@ -89,6 +89,7 @@ module.exports = {
 			'assets': path.join(_url, 'assets'),
 			'style': path.join(_url, 'style'),
 			'api': path.join(_url, 'api'),
+			'$dat': path.join(__dirname,'../_data'),
 			// 'mock': path.join(_url, 'mock')
 		}
 	}
