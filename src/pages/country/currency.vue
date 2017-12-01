@@ -47,6 +47,7 @@
 <script>
     const newCurrency = require('$dat/currency_wiki.json');
     const iso = require('$dat/iso.json');
+    const symbols = require('$dat/symbols.json');
     export default {
         data () {
             return {
@@ -83,6 +84,9 @@
                             }
                         })
                     }
+                })
+                this.list.forEach(item => {
+                    item.symbol = symbols[item.iso]
                 })
             },
             save() {
