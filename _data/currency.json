@@ -165,7 +165,7 @@
     "symbol": "₣",
     "decimal": "756",
     "currency": "Swiss Franc",
-    "countries": ["Lichtenstein", "Switzerland"]
+    "countries": ["Liechtenstein", "Switzerland"]
 }, {
     "iso": "CLP",
     "symbol": "$",
@@ -522,10 +522,10 @@
     "countries": ["Mongolia"]
 }, {
     "iso": "MOP",
-    "symbol": "P",
+    "symbol": "$",
     "decimal": "446",
-    "currency": "Pataca",
-    "countries": ["Macao"]
+    "currency": "Macanese pataca",
+    "countries": ["Macau"]
 }, {
     "iso": "MRO",
     "symbol": "UM",

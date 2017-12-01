@@ -2,122 +2,122 @@
     {
         "name": "Armenia",
         "native": "Հայաստան",
-        "code": ""
+        "code": "AM"
     },
     {
         "name": "Bahrain",
         "native": "البحرين",
-        "code": ""
+        "code": "BH"
     },
     {
         "name": "Botswana",
         "native": "Botswana",
-        "code": ""
+        "code": "BW"
     },
     {
         "name": "Cameroon",
         "native": "Cameroun",
-        "code": ""
+        "code": "CM"
     },
     {
         "name": "Central African Republic",
         "native": "République Centrafricaine",
-        "code": ""
+        "code": "CF"
     },
     {
         "name": "Ivory Coast",
         "native": "Côte d'Ivoire",
-        "code": ""
+        "code": "CI"
     },
     {
         "name": "Egypt",
         "native": "مصر",
-        "code": ""
+        "code": "EG"
     },
     {
         "name": "Guinea-Bissau",
         "native": "Guinea-Bissau",
-        "code": ""
+        "code": "GW"
     },
     {
         "name": "Guinea",
         "native": "Guinée",
-        "code": ""
+        "code": "GQ"
     },
     {
         "name": "Equatorial Guinea",
         "native": "Guinée Equatoriale",
-        "code": ""
+        "code": "GQ"
     },
     {
         "name": "India",
         "native": "India",
-        "code": ""
+        "code": "IN"
     },
     {
         "name": "Israel",
         "native": "Israel",
-        "code": ""
+        "code": "IL"
     },
     {
         "name": "Jordan",
         "native": "Jordan",
-        "code": ""
+        "code": "JO"
     },
     {
         "name": "Kenya",
         "native": "Kenya",
-        "code": ""
+        "code": "KE"
     },
     {
         "name": "Kuwait",
         "native": "Kuwait",
-        "code": ""
+        "code": "KW"
     },
     {
         "name": "Madagascar",
         "native": "Madagascar",
-        "code": ""
+        "code": "MG"
     },
     {
         "name": "Mali",
         "native": "Mali",
-        "code": ""
+        "code": "ML"
     },
     {
         "name": "Morocco",
         "native": "Maroc",
-        "code": ""
+        "code": "MA"
     },
     {
         "name": "Mauritius",
         "native": "Maurice",
-        "code": ""
+        "code": "MU"
     },
     {
         "name": "Mozambique",
         "native": "Mozambique",
-        "code": ""
+        "code": "MZ"
     },
     {
         "name": "Niger",
         "native": "Niger",
-        "code": ""
+        "code": "NE"
     },
     {
         "name": "Nigeria",
         "native": "Nigeria",
-        "code": ""
+        "code": "NG"
     },
     {
         "name": "Oman",
         "native": "Oman",
-        "code": ""
+        "code": "OM"
     },
     {
         "name": "Qatar",
         "native": "Qatar",
-        "code": ""
+        "code": "QA"
     },
     {
         "name": "Saudi Arab",
@@ -128,491 +128,484 @@
     {
         "name": "Senegal",
         "native": "Sénégal",
-        "code": ""
+        "code": "SN"
     },
     {
         "name": "South Africa",
         "native": "South Africa",
-        "code": ""
+        "code": "ZA"
     },
     {
         "name": "Tunisia",
         "native": "Tunisie",
-        "code": ""
+        "code": "TN"
     },
     {
         "name": "Uganda",
         "native": "Uganda",
-        "code": ""
+        "code": "UG"
     },
     {
         "name": "United Arab Emirates",
         "native": "الإمارات العربية المتحدة",
-        "code": ""
+        "code": "AE"
     },
     {
         "name": "Australia",
         "native": "Australia",
-        "code": ""
+        "code": "AU"
     },
     {
         "name": "China",
         "native": "中国",
-        "code": ""
+        "code": "CN"
     },
     {
         "name": "Hong Kong",
-        "native": "香港",
-        "code": ""
+        "native": "中国香港",
+        "code": "HK"
     },
     {
         "name": "Indonesia",
         "native": "Indonesia",
-        "code": ""
+        "code": "ID"
     },
     {
         "name": "Japan",
         "native": "日本",
-        "code": ""
+        "code": "JP"
     },
     {
         "name": "South Korea",
         "native": "대한민국",
-        "code": ""
+        "code": "KR"
     },
     {
         "name": "North Korea",
         "native": "북한",
-        "code": ""
+        "code": "KP"
     },
     {
-        "name": "Macao",
-        "native": "澳門",
-        "code": ""
+        "name": "Macau",
+        "native": "中国澳門",
+        "code": "MO"
     },
     {
         "name": "Malaysia",
         "native": "Malaysia",
-        "code": ""
+        "code": "MY"
     },
     {
         "name": "New Zealand",
         "native": "New Zealand",
-        "code": ""
+        "code": "NZ"
     },
     {
         "name": "Philippines",
         "native": "Philippines",
-        "code": ""
+        "code": "PH"
     },
     {
         "name": "Singapore",
         "native": "Singapore",
-        "code": ""
+        "code": "SG"
     },
     {
         "name": "Taiwan",
-        "native": "台灣",
-        "code": ""
+        "native": "中国台灣",
+        "code": "TW"
     },
     {
         "name": "Thailand",
         "native": "ไทย",
-        "code": ""
+        "code": "TH"
     },
     {
         "name": "Vietnam",
         "native": "Việt Nam",
-        "code": ""
+        "code": "VN"
     },
     {
         "name": "Belgium",
         "native": "België",
-        "code": ""
-    },
-    {
-        "name": "Belgium",
-        "native": "Belgique",
-        "code": ""
+        "native2": "Belgique",
+        "code": "BE"
     },
     {
         "name": "Bulgaria",
         "native": "България",
-        "code": ""
+        "code": "BG"
     },
     {
         "name": "Czech Republic",
         "native": "Česko",
-        "code": ""
+        "code": "CZ"
     },
     {
         "name": "Denmark",
         "native": "Danmark",
-        "code": ""
+        "code": "DK"
     },
     {
         "name": "Germany",
         "native": "Deutschland",
-        "code": ""
+        "code": "DE"
     },
     {
         "name": "Estonia",
         "native": "Eesti",
-        "code": ""
+        "code": "EE"
     },
     {
         "name": "Spain",
         "native": "España",
-        "code": ""
+        "code": "ES"
     },
     {
         "name": "France",
         "native": "France",
-        "code": ""
+        "code": "FR"
     },
     {
-        "name": "Hellas",
+        "name": "Greece",
         "native": "Ελλάδα",
-        "code": ""
+        "native2": "Hellas",
+        "code": "GR"
     },
     {
         "name": "Croatia",
         "native": "Hrvatska",
-        "code": ""
+        "code": "HR"
     },
     {
         "name": "Ireland",
         "native": "Ireland",
-        "code": ""
+        "code": "IE"
     },
     {
         "name": "Italy",
         "native": "Italia",
-        "code": ""
+        "code": "IT"
     },
     {
         "name": "Latvia",
         "native": "Latvija",
-        "code": ""
+        "code": "LV"
     },
     {
         "name": "Liechtenstein",
         "native": "Liechtenstein",
-        "code": ""
+        "code": "LI"
     },
     {
         "name": "Lithuania",
         "native": "Lietuva",
-        "code": ""
+        "code": "LT"
     },
     {
         "name": "Luxembourg",
         "native": "Lëtzebuerg",
-        "code": ""
+        "code": "LU"
     },
     {
         "name": "Macedonia",
         "native": "Македонија",
-        "code": ""
+        "code": "MK"
     },
     {
         "name": "Hungary",
         "native": "Magyarország",
-        "code": ""
+        "code": "HU"
     },
     {
         "name": "Malta",
         "native": "Malta",
-        "code": ""
+        "code": "MT"
     },
     {
         "name": "Moldavia",
         "native": "Moldova",
-        "code": ""
+        "code": "MD"
     },
     {
         "name": "Montenegro",
         "native": "Montenegro",
-        "code": ""
+        "code": "ME"
     },
     {
-        "name": "The Netherlands",
+        "name": "Netherlands",
         "native": "Nederland",
-        "code": ""
+        "code": "NL"
     },
     {
         "name": "Norway",
         "native": "Norge",
-        "code": ""
+        "code": "NO"
     },
     {
         "name": "Austria",
         "native": "Österreich",
-        "code": ""
+        "code": "AT"
     },
     {
         "name": "Poland",
         "native": "Polska",
-        "code": ""
+        "code": "PL"
     },
     {
         "name": "Portugal",
         "native": "Portugal",
-        "code": ""
+        "code": "PT"
     },
     {
         "name": "Romania",
         "native": "România",
-        "code": ""
+        "code": "RO"
     },
     {
         "name": "Russia",
         "native": "Россия",
-        "code": ""
+        "code": "RU"
     },
     {
         "name": "Slovakia",
         "native": "Slovensko",
-        "code": ""
+        "code": "SK"
     },
     {
         "name": "Slovenia",
         "native": "Slovenija",
-        "code": ""
+        "code": "SI"
     },
     {
         "name": "Switzerland",
-        "native": "Schweiz",
-        "code": ""
+        "native": "Swiss",
+        "native2": ["Suisse","Schweiz"],
+        "code": "CH"
     },
     {
-        "name": "Swiss",
-        "native": "Suisse",
-        "code": ""
-    },
-    {
-        "name": "Finnish",
+        "name": "Finland",
         "native": "Suomi",
-        "code": ""
+        "code": "FI"
     },
     {
         "name": "Sweden",
         "native": "Sverige",
-        "code": ""
+        "code": "SE"
     },
     {
         "name": "Turkey",
         "native": "Türkiye",
-        "code": ""
+        "code": "TR"
     },
     {
         "name": "UK",
         "native": "UK",
-        "code": ""
+        "code": "GB"
     },
     {
         "name": "Anguilla",
         "native": "Anguilla",
-        "code": ""
+        "code": "AI"
     },
     {
         "name": "Antigua & Barbuda",
         "native": "Antigua & Barbuda",
-        "code": ""
+        "code": "AG"
     },
     {
         "name": "Argentina",
         "native": "Argentina",
-        "code": ""
+        "code": "AR"
     },
     {
         "name": "Barbados",
         "native": "Barbados",
-        "code": ""
+        "code": "BB"
     },
     {
         "name": "Belize",
         "native": "Belize",
-        "code": ""
+        "code": "BZ"
     },
     {
         "name": "Bermuda",
         "native": "Bermuda",
-        "code": ""
+        "code": "BM"
     },
     {
         "name": "Bolivia",
         "native": "Bolivia",
-        "code": ""
+        "code": "BO"
     },
     {
         "name": "Brazil",
         "native": "Brasil",
-        "code": ""
+        "code": "BR"
     },
     {
         "name": "British Virgin Islands",
         "native": "British Virgin Islands",
-        "code": ""
+        "code": "VG"
     },
     {
         "name": "Cayman Islands",
         "native": "Cayman Islands",
-        "code": ""
+        "code": "KY"
     },
     {
         "name": "Chile",
         "native": "Chile",
-        "code": ""
+        "code": "CL"
     },
     {
         "name": "Colombia",
         "native": "Colombia",
-        "code": ""
+        "code": "CO"
     },
     {
         "name": "Costa Rica",
         "native": "Costa Rica",
-        "code": ""
+        "code": "CR"
     },
     {
         "name": "Dominica",
         "native": "Dominica",
-        "code": ""
+        "code": "DM"
     },
     {
         "name": "Dominican Republic",
         "native": "República Dominicana",
-        "code": ""
+        "code": "DO"
     },
     {
         "name": "Ecuador",
         "native": "Ecuador",
-        "code": ""
+        "code": "EC"
     },
     {
-        "name": "The Savior",
+        "name": "El Salvador",
         "native": "El Salvador",
-        "code": ""
+        "code": "SV"
     },
     {
         "name": "Grenada",
         "native": "Grenada",
-        "code": ""
+        "code": "GD"
     },
     {
         "name": "Guatemala",
         "native": "Guatemala",
-        "code": ""
+        "code": "GT"
     },
     {
         "name": "Guyana",
         "native": "Guyana",
-        "code": ""
+        "code": "GY"
     },
     {
         "name": "Honduras",
         "native": "Honduras",
-        "code": ""
+        "code": "HN"
     },
     {
         "name": "Jamaica",
         "native": "Jamaica",
-        "code": ""
+        "code": "JM"
     },
     {
         "name": "Mexico",
         "native": "México",
-        "code": ""
+        "code": "MX"
     },
     {
         "name": "Montserrat",
         "native": "Montserrat",
-        "code": ""
+        "code": "MS"
     },
     {
         "name": "Nicaragua",
         "native": "Nicaragua",
-        "code": ""
+        "code": "NI"
     },
     {
         "name": "Panama",
         "native": "Panamá",
-        "code": ""
+        "code": "PA"
     },
     {
         "name": "Paraguay",
         "native": "Paraguay",
-        "code": ""
+        "code": "PY"
     },
     {
         "name": "Peru",
         "native": "Perú",
-        "code": ""
+        "code": "PE"
     },
     {
         "name": "St. Kitts & Nevis",
         "native": "St. Kitts & Nevis",
-        "code": ""
+        "code": "KN"
     },
     {
         "name": "St. Lucia",
         "native": "St. Lucia",
-        "code": ""
+        "code": "LC"
     },
     {
         "name": "St. Vincent & The Grenadines",
         "native": "St. Vincent & The Grenadines",
-        "code": ""
+        "code": "VC"
     },
     {
         "name": "Suriname",
         "native": "Suriname",
-        "code": ""
+        "code": "SR"
     },
     {
-        "name": "The Bahamas",
-        "native": "The Bahamas",
-        "code": ""
+        "name": "Bahamas",
+        "native": "Bahamas",
+        "code": "BS"
     },
     {
         "name": "Trinidad & Tobago",
         "native": "Trinidad & Tobago",
-        "code": ""
+        "code": "TT"
     },
     {
-        "name": "Turks & Caicos",
-        "native": "Turks & Caicos",
-        "code": ""
+        "name": "Turks & Caicos Islands",
+        "native": "Turks & Caicos Islands",
+        "code": "TC"
     },
     {
         "name": "Uruguay",
         "native": "Uruguay",
-        "code": ""
+        "code": "UY"
     },
     {
         "name": "Venezuela",
         "native": "Venezuela",
-        "code": ""
-    },
-    {
-        "name": "Latin America and the Caribbean",
-        "native": "América Latina y el Caribe",
-        "code": ""
+        "code": "VE"
     },
     {
         "name": "Canada",
         "native": "Canada",
-        "code": ""
+        "code": "CA"
     },
     {
         "name": "Puerto Rico",
         "native": "Puerto Rico",
-        "code": ""
+        "code": "PR"
     },
     {
         "name": "United States",
         "native": "United States",
+        "code": "US"
+    },
+    {
+        "name": "Latin America and the Caribbean",
+        "native": "América Latina y el Caribe",
         "code": ""
     }
 ]

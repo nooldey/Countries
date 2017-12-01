@@ -11,7 +11,7 @@
             <li v-for="(item,i) of countries" :key="i" class="flexil">
                 <p> <input type="text" v-model="item.name"> </p>
                 <p> <input type="text" v-model="item.native"> </p>
-                <p> <input type="text" v-model="item.code"> </p>
+                <p :class="[item.nc && 'red']"> <input type="text" v-model="item.code"> </p>
                 <p> <input type="text" v-model="item.currency"> </p>
                 <p> <input type="text" v-model="item.symbol"> </p>
             </li>
@@ -50,7 +50,8 @@ export default {
               let area = allCountry.find(c => c.name.toLowerCase() == item.name.toLowerCase())
               if (area) {
                   if (area.code && area.code !== item.code) {
-                      item.code = area.code
+                      item.code = area.code;
+                      item.nc = true
                   }
               }
           })
@@ -69,6 +70,9 @@ export default {
     li {
         margin: 10px auto;
         text-align: center;
+    }
+    .red {
+        color: red;
     }
 }
 </style>
