@@ -1,497 +1,864 @@
-[{
+[
+    {
+        "name": "Armenia",
         "native": "Հայաստան",
-        "name": "Armenia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Bahrain",
         "native": "البحرين",
-        "name": "Bahrain"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Botswana",
         "native": "Botswana",
-        "name": "Botswana"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Cameroon",
         "native": "Cameroun",
-        "name": "Cameroun"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Central African Republic",
         "native": "République Centrafricaine",
-        "name": "Central African Republic"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Ivory Coast",
         "native": "Côte d'Ivoire",
-        "name": "Ivory Coast"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
-        "native": "Egypt",
-        "name": "مصر"
+        "name": "Egypt",
+        "native": "مصر",
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Guinea-Bissau",
         "native": "Guinea-Bissau",
-        "name": "Guinea-Bissau"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Guinea",
         "native": "Guinée",
-        "name": "Guinea"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Equatorial Guinea",
         "native": "Guinée Equatoriale",
-        "name": "Equatorial Guinea"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "India",
         "native": "India",
-        "name": "India"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Israel",
         "native": "Israel",
-        "name": "Israel"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Jordan",
         "native": "Jordan",
-        "name": "Jordan"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Kenya",
         "native": "Kenya",
-        "name": "Kenya"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Kuwait",
         "native": "Kuwait",
-        "name": "Kuwait"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Madagascar",
         "native": "Madagascar",
-        "name": "Madagascar"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Mali",
         "native": "Mali",
-        "name": "Mali"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Morocco",
         "native": "Maroc",
-        "name": "Morocco"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Mauritius",
         "native": "Maurice",
-        "name": "Mauritius"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Mozambique",
         "native": "Mozambique",
-        "name": "Mozambique"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Niger",
         "native": "Niger",
-        "name": "Niger"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Nigeria",
         "native": "Nigeria",
-        "name": "Nigeria"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Oman",
         "native": "Oman",
-        "name": "Oman"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Qatar",
         "native": "Qatar",
-        "name": "Qatar"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
-        "native": "Saudi Arabia",
-        "name": "Saudi Arab"
-    },
-    {
+        "name": "Saudi Arab",
         "native": "المملكة العربية السعودية",
-        "name": "Kingdom of Saudi Arabia"
+        "native2": "Saudi Arabia",
+        "code": "SA",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Senegal",
         "native": "Sénégal",
-        "name": "Senegal"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "South Africa",
         "native": "South Africa",
-        "name": "South Africa"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Tunisia",
         "native": "Tunisie",
-        "name": "Tunisia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Uganda",
         "native": "Uganda",
-        "name": "Uganda"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "United Arab Emirates",
         "native": "United Arab Emirates",
-        "name": "United Arab Emirates"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "The United Arab Emirates",
         "native": "الإمارات العربية المتحدة",
-        "name": "The United Arab Emirates"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Australia",
         "native": "Australia",
-        "name": "Australia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "China",
         "native": "中国",
-        "name": "China"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Hong Kong",
         "native": "香港",
-        "name": "Hong Kong"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Indonesia",
         "native": "Indonesia",
-        "name": "Indonesia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Japan",
         "native": "日本",
-        "name": "Japan"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Republic of Korea",
         "native": "대한민국",
-        "name": "Republic of Korea"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Macao",
         "native": "澳門",
-        "name": "Macao"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Malaysia",
         "native": "Malaysia",
-        "name": "Malaysia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "New Zealand",
         "native": "New Zealand",
-        "name": "New Zealand"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Philippines",
         "native": "Philippines",
-        "name": "Philippines"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Singapore",
         "native": "Singapore",
-        "name": "Singapore"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Taiwan",
         "native": "台灣",
-        "name": "Taiwan"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Thailand",
         "native": "ไทย",
-        "name": "Thailand"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Vietnam",
         "native": "Việt Nam",
-        "name": "Vietnam"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Belgium",
         "native": "België",
-        "name": "Belgium"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Belgium",
         "native": "Belgique",
-        "name": "Belgium"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Bulgaria",
         "native": "България",
-        "name": "Bulgaria"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Czech Republic",
         "native": "Česko",
-        "name": "Czech Republic"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Denmark",
         "native": "Danmark",
-        "name": "Denmark"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Germany",
         "native": "Deutschland",
-        "name": "Germany"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Estonia",
         "native": "Eesti",
-        "name": "Estonia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Spain",
         "native": "España",
-        "name": "Spain"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "France",
         "native": "France",
-        "name": "France"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Hellas",
         "native": "Ελλάδα",
-        "name": "Hellas"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Croatia",
         "native": "Hrvatska",
-        "name": "Croatia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Ireland",
         "native": "Ireland",
-        "name": "Ireland"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Italy",
         "native": "Italia",
-        "name": "Italy"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Latvia",
         "native": "Latvija",
-        "name": "Latvia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Liechtenstein",
         "native": "Liechtenstein",
-        "name": "Liechtenstein"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Lithuania",
         "native": "Lietuva",
-        "name": "Lithuania"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Luxembourg",
         "native": "Lëtzebuerg",
-        "name": "Luxembourg"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Macedonia",
         "native": "Македонија",
-        "name": "Macedonia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Hungary",
         "native": "Magyarország",
-        "name": "Hungary"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Malta",
         "native": "Malta",
-        "name": "Malta"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Moldavia",
         "native": "Moldova",
-        "name": "Moldavia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Montenegro",
         "native": "Montenegro",
-        "name": "Montenegro"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "The Netherlands",
         "native": "Nederland",
-        "name": "The Netherlands"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Norway",
         "native": "Norge",
-        "name": "Norway"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Austria",
         "native": "Österreich",
-        "name": "Austria"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Poland",
         "native": "Polska",
-        "name": "Poland"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Portugal",
         "native": "Portugal",
-        "name": "Portugal"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Romania",
         "native": "România",
-        "name": "Romania"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Russia",
         "native": "Россия",
-        "name": "Russia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Slovakia",
         "native": "Slovensko",
-        "name": "Slovakia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Slovenia",
         "native": "Slovenija",
-        "name": "Slovenia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Switzerland",
         "native": "Schweiz",
-        "name": "Switzerland"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Swiss",
         "native": "Suisse",
-        "name": "Swiss"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Finnish",
         "native": "Suomi",
-        "name": "Finnish"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Sweden",
         "native": "Sverige",
-        "name": "Sweden"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Turkey",
         "native": "Türkiye",
-        "name": "Turkey"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "UK",
         "native": "UK",
-        "name": "UK"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Anguilla",
         "native": "Anguilla",
-        "name": "Anguilla"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Antigua & Barbuda",
         "native": "Antigua & Barbuda",
-        "name": "Antigua & Barbuda"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Argentina",
         "native": "Argentina",
-        "name": "Argentina"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Barbados",
         "native": "Barbados",
-        "name": "Barbados"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Belize",
         "native": "Belize",
-        "name": "Belize"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Bermuda",
         "native": "Bermuda",
-        "name": "Bermuda"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Bolivia",
         "native": "Bolivia",
-        "name": "Bolivia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Brazil",
         "native": "Brasil",
-        "name": "Brazil"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "British Virgin Islands",
         "native": "British Virgin Islands",
-        "name": "British Virgin Islands"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Cayman Islands",
         "native": "Cayman Islands",
-        "name": "Cayman Islands"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Chile",
         "native": "Chile",
-        "name": "Chile"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Colombia",
         "native": "Colombia",
-        "name": "Colombia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Costa Rica",
         "native": "Costa Rica",
-        "name": "Costa Rica"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Dominica",
         "native": "Dominica",
-        "name": "Dominica"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Dominican Republic",
         "native": "República Dominicana",
-        "name": "Dominican Republic"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Ecuador",
         "native": "Ecuador",
-        "name": "Ecuador"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "The Savior",
         "native": "El Salvador",
-        "name": "The Savior"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Grenada",
         "native": "Grenada",
-        "name": "Grenada"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Guatemala",
         "native": "Guatemala",
-        "name": "Guatemala"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Guyana",
         "native": "Guyana",
-        "name": "Guyana"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Honduras",
         "native": "Honduras",
-        "name": "Honduras"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Jamaica",
         "native": "Jamaica",
-        "name": "Jamaica"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Mexico",
         "native": "México",
-        "name": "Mexico"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Montserrat",
         "native": "Montserrat",
-        "name": "Montserrat"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Nicaragua",
         "native": "Nicaragua",
-        "name": "Nicaragua"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Panama",
         "native": "Panamá",
-        "name": "Panama"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Paraguay",
         "native": "Paraguay",
-        "name": "Paraguay"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Peru",
         "native": "Perú",
-        "name": "Peru"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "St. Kitts & Nevis",
         "native": "St. Kitts & Nevis",
-        "name": "St. Kitts & Nevis"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "St. Lucia",
         "native": "St. Lucia",
-        "name": "St. Lucia"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "St. Vincent & The Grenadines",
         "native": "St. Vincent & The Grenadines",
-        "name": "St. Vincent & The Grenadines"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Suriname",
         "native": "Suriname",
-        "name": "Suriname"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "The Bahamas",
         "native": "The Bahamas",
-        "name": "The Bahamas"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Trinidad & Tobago",
         "native": "Trinidad & Tobago",
-        "name": "Trinidad & Tobago"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Turks & Caicos",
         "native": "Turks & Caicos",
-        "name": "Turks & Caicos"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Uruguay",
         "native": "Uruguay",
-        "name": "Uruguay"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Venezuela",
         "native": "Venezuela",
-        "name": "Venezuela"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Latin America and the Caribbean",
         "native": "América Latina y el Caribe",
-        "name": "Latin America and the Caribbean"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Canada",
         "native": "Canada",
-        "name": "Canada"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "Puerto Rico",
         "native": "Puerto Rico",
-        "name": "Puerto Rico"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     },
     {
+        "name": "United States",
         "native": "United States",
-        "name": "United States"
+        "code": "",
+        "currency": "",
+        "symbol": ""
     }
 ]

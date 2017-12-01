@@ -687,7 +687,7 @@
     "symbol": "ر.س",
     "decimal": "682",
     "currency": "Saudi Riyal",
-    "countries": ["Saudi Arabia"]
+    "countries": ["Saudi Arab","Kingdom of Saudi Arabia"]
 }, {
     "iso": "SBD",
     "symbol": "$",
@@ -873,7 +873,7 @@
     "symbol": "₣",
     "decimal": "950",
     "currency": "CFA Franc BCEAO",
-    "countries": ["Benin", "Burkina Faso", "Cameroon", "Central African Republic", "Chad", "Congo (Brazzaville)", "Côte d'Ivoire", "Equatorial Guinea", "Gabon", "Guinea-Bissau", "Mali", "Niger", "Senegal", "Togo"]
+    "countries": ["Benin", "Burkina Faso", "Cameroon", "Central African Republic", "Chad", "Congo (Brazzaville)", "Ivory Coast", "Equatorial Guinea", "Gabon", "Guinea-Bissau", "Mali", "Niger", "Senegal", "Togo"]
 }, {
     "iso": "XCD",
     "symbol": "$",

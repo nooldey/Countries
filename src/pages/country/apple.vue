@@ -25,6 +25,7 @@
 <script>
 const apples = require('$dat/apple_countries.json');
 const currency = require('$dat/currency.json');
+const allCountry = require('$dat/countries.json');
 export default {
   data () {
       return {
@@ -37,13 +38,19 @@ export default {
   methods: {
       combine() {
           this.countries.forEach(item => {
-              let cur = this.currency.find(c => c.countries.includes(item.name))
+              let cur = currency.find(c => c.countries.some(name => name.toLowerCase() == item.name.toLowerCase()))
               if (cur) {
                   if (cur.iso && cur.iso !== item.currency) {
                       item.currency = cur.iso
                   }
                   if (cur.symbol && cur.symbol !== item.symbol) {
                       item.symbol = cur.symbol
+                  }
+              }
+              let area = allCountry.find(c => c.name.toLowerCase() == item.name.toLowerCase())
+              if (area) {
+                  if (area.code && area.code !== item.code) {
+                      item.code = area.code
                   }
               }
           })
