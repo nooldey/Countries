@@ -33,8 +33,8 @@
 </template>
 
 <script>
-const Countries = require('$dat/countries.json');
-const CurrencyData = require('$dat/currency.json');
+const Countries = require('./countries.json');
+const CurrencyData = require('$dat/currency_wiki.json');
 const apples = require('$dat/apple_countries.json');
 export default {
     data() {

@@ -26,7 +26,7 @@
 
 <script>
 const apples = require('$dat/apple_countries.json');
-const currency = require('$dat/currency.json');
+const currency = require('$dat/currency_wiki.json');
 // const allCountry = require('$dat/countries.json');
 export default {
   data () {

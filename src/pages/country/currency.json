@@ -8,13 +8,13 @@
     "iso": "AFN",
     "symbol": "؋",
     "decimal": "971",
-    "currency": "Afghani",
+    "currency": "Afghan",
     "countries": ["Afghanistan"]
 }, {
     "iso": "ALL",
     "symbol": "L",
     "decimal": "008",
-    "currency": "Lek",
+    "currency": "Albanian lek",
     "countries": ["Albania"]
 }, {
     "iso": "AMD",
@@ -22,12 +22,12 @@
     "decimal": "051",
     "currency": "Armenian Dram",
     "countries": ["Armenia"]
-},{
+}, {
     "iso": "ANG",
     "symbol": "NAƒ",
     "decimal": "532",
     "currency": "Netherlands Antillean Guilder",
-    "countries": ["Sint Maarten"]
+    "countries": ["Sint Maarten", "Curacao"]
 }, {
     "iso": "AOA",
     "symbol": "Kz",
@@ -45,7 +45,7 @@
     "symbol": "$",
     "decimal": "036",
     "currency": "Australian Dollar",
-    "countries": ["Australia", "Kiribati", "Coconut Islands", "Nauru", "Tuvalu"]
+    "countries": ["Australia", "Christmas Island", "Cocos Islands", "Heard Island and McDonald Islands", "Kiribati", "Nauru", "Norfolk Island", "Tuvalu"]
 }, {
     "iso": "AWG",
     "symbol": "ƒ",
@@ -105,7 +105,7 @@
     "symbol": "$",
     "decimal": "096",
     "currency": "Brunei Dollar",
-    "countries": ["Brunei", "Singapore"]
+    "countries": ["Brunei"]
 }, {
     "iso": "BOB",
     "symbol": "Bs.",
@@ -159,7 +159,7 @@
     "symbol": "₣",
     "decimal": "976",
     "currency": "Congolese Franc",
-    "countries": ["Congo (Kinshasa)"]
+    "countries": ["Democratic Republic of the Congo"]
 }, {
     "iso": "CHF",
     "symbol": "₣",
@@ -207,7 +207,7 @@
     "symbol": "Kč",
     "decimal": "203",
     "currency": "Czech Koruna",
-    "countries": ["Czech Republic"]
+    "countries": ["Czech Republic","Czechia"]
 }, {
     "iso": "DJF",
     "symbol": "₣",
@@ -219,7 +219,7 @@
     "symbol": "kr",
     "decimal": "208",
     "currency": "Danish Krone",
-    "countries": ["Denmark"]
+    "countries": ["Denmark","Faroe Islands","Greenland"]
 }, {
     "iso": "DOP",
     "symbol": "$",
@@ -255,7 +255,9 @@
     "symbol": "€",
     "decimal": "978",
     "currency": "Euro",
-    "countries": ["Akrotiri and Dhekelia", "Andorra", "Austria", "Belgium", "Cyprus", "Estonia", "Finland", "France", "Germany", "Greece", "Ireland", "Italy", "Kosovo", "Latvia", "Lithuania", "Luxembourg", "Malta", "Monaco", "Montenegro", "Netherlands", "Portugal", "San-Marino", "Slovakia", "Slovenia", "Spain", "Vatican"]
+    "countries": [
+        "Andorra", "Austria", "Belgium", "Cyprus", "Estonia", "Finland", "France", "Germany", "Greece", "Guadeloupe", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Martinique", "Mayotte", "Monaco", "Montenegro", "Netherlands", "Portugal", "Réunion", "Saint Barthélemy", "Saint Pierre and Miquelon", "San Marino", "Slovakia", "Slovenia", "Spain"
+    ]
 }, {
     "iso": "FJD",
     "symbol": "$",
@@ -495,7 +497,7 @@
     "symbol": "L",
     "decimal": "498",
     "currency": "Moldavian Leu",
-    "countries": ["Moldova"]
+    "countries": ["Moldavia"]
 }, {
     "iso": "MGA",
     "symbol": "Ar",
@@ -687,7 +689,7 @@
     "symbol": "ر.س",
     "decimal": "682",
     "currency": "Saudi Riyal",
-    "countries": ["Saudi Arab","Kingdom of Saudi Arabia"]
+    "countries": ["Saudi Arab", "Kingdom of Saudi Arabia"]
 }, {
     "iso": "SBD",
     "symbol": "$",
@@ -921,37 +923,37 @@
     "symbol": "",
     "decimal": "933",
     "currency": "Belarusian Ruble",
-    "countries": []
+    "countries": ["Belarus"]
 }, {
     "iso": "CHE",
     "symbol": "",
     "decimal": "947",
     "currency": "WIR Euro",
-    "countries": []
+    "countries": ["Switzerland"]
 }, {
     "iso": "CHW",
     "symbol": "",
     "decimal": "948",
     "currency": "WIR Franc",
-    "countries": []
+    "countries": ["Switzerland"]
 }, {
     "iso": "CLF",
     "symbol": "",
     "decimal": "990",
     "currency": "Unidad de Fomento",
-    "countries": []
+    "countries": ["Chile"]
 }, {
     "iso": "COU",
     "symbol": "",
     "decimal": "970",
     "currency": "Unidad de Valor Real",
-    "countries": []
+    "countries": ["Colombia"]
 }, {
     "iso": "CUC",
     "symbol": "",
     "decimal": "931",
-    "currency": "Peso Convertible",
-    "countries": []
+    "currency": "Cuban convertible peso",
+    "countries": ["Cuba"]
 }, {
     "iso": "KMF",
     "symbol": "",

@@ -1,0 +1,891 @@
+[{
+    "iso": "AED",
+    "decimal": "784",
+    "currency": "United Arab Emirates dirham",
+    "countries": ["United Arab Emirates"]
+}, {
+    "iso": "AFN",
+    "decimal": "971",
+    "currency": "Afghan afghani",
+    "countries": ["Afghanistan"]
+}, {
+    "iso": "ALL",
+    "decimal": "008",
+    "currency": "Albanian lek",
+    "countries": ["Albania"]
+}, {
+    "iso": "AMD",
+    "decimal": "051",
+    "currency": "Armenian dram",
+    "countries": ["Armenia"]
+}, {
+    "iso": "ANG",
+    "decimal": "532",
+    "currency": "Netherlands Antillean guilder",
+    "countries": ["Curaçao", "Sint Maarten"]
+}, {
+    "iso": "AOA",
+    "decimal": "973",
+    "currency": "Angolan kwanza",
+    "countries": ["Angola"]
+}, {
+    "iso": "ARS",
+    "decimal": "032",
+    "currency": "Argentine peso",
+    "countries": ["Argentina"]
+}, {
+    "iso": "AUD",
+    "decimal": "036",
+    "currency": "Australian dollar",
+    "countries": ["Australia", "Christmas Island", "Cocos Islands", "Heard Island and McDonald Islands", "Kiribati", "Nauru", "Norfolk Island", "Tuvalu"]
+}, {
+    "iso": "AWG",
+    "decimal": "533",
+    "currency": "Aruban florin",
+    "countries": ["Aruba"]
+}, {
+    "iso": "AZN",
+    "decimal": "944",
+    "currency": "Azerbaijani manat",
+    "countries": ["Azerbaijan"]
+}, {
+    "iso": "BAM",
+    "decimal": "977",
+    "currency": "Bosnia and Herzegovina convertible mark",
+    "countries": ["Bosnia and Herzegovina"]
+}, {
+    "iso": "BBD",
+    "decimal": "052",
+    "currency": "Barbados dollar",
+    "countries": ["Barbados"]
+}, {
+    "iso": "BDT",
+    "decimal": "050",
+    "currency": "Bangladeshi taka",
+    "countries": ["Bangladesh"]
+}, {
+    "iso": "BGN",
+    "decimal": "975",
+    "currency": "Bulgarian lev",
+    "countries": ["Bulgaria"]
+}, {
+    "iso": "BHD",
+    "decimal": "048",
+    "currency": "Bahraini dinar",
+    "countries": ["Bahrain"]
+}, {
+    "iso": "BIF",
+    "decimal": "108",
+    "currency": "Burundian franc",
+    "countries": ["Burundi"]
+}, {
+    "iso": "BMD",
+    "decimal": "060",
+    "currency": "Bermudian dollar",
+    "countries": ["Bermuda"]
+}, {
+    "iso": "BND",
+    "decimal": "096",
+    "currency": "Brunei dollar",
+    "countries": ["Brunei"]
+}, {
+    "iso": "BOB",
+    "decimal": "068",
+    "currency": "Boliviano",
+    "countries": ["Bolivia"]
+}, {
+    "iso": "BOV",
+    "decimal": "984",
+    "currency": "Bolivian Mvdol ",
+    "countries": ["Bolivia"]
+}, {
+    "iso": "BRL",
+    "decimal": "986",
+    "currency": "Brazilian real",
+    "countries": ["Brazil"]
+}, {
+    "iso": "BSD",
+    "decimal": "044",
+    "currency": "Bahamian dollar",
+    "countries": ["Bahamas"]
+}, {
+    "iso": "BTN",
+    "decimal": "064",
+    "currency": "Bhutanese ngultrum",
+    "countries": ["Bhutan"]
+}, {
+    "iso": "BWP",
+    "decimal": "072",
+    "currency": "Botswana pula",
+    "countries": ["Botswana"]
+}, {
+    "iso": "BYN",
+    "decimal": "933",
+    "currency": "Belarusian ruble",
+    "countries": ["Belarus"]
+}, {
+    "iso": "BZD",
+    "decimal": "084",
+    "currency": "Belize dollar",
+    "countries": ["Belize"]
+}, {
+    "iso": "CAD",
+    "decimal": "124",
+    "currency": "Canadian dollar",
+    "countries": ["Canada"]
+}, {
+    "iso": "CDF",
+    "decimal": "976",
+    "currency": "Congolese franc",
+    "countries": ["Democratic Republic of the Congo"]
+}, {
+    "iso": "CHE",
+    "decimal": "947",
+    "currency": "WIR Euro ",
+    "countries": ["Switzerland"]
+}, {
+    "iso": "CHF",
+    "decimal": "756",
+    "currency": "Swiss franc",
+    "countries": ["Switzerland", "Liechtenstein"]
+}, {
+    "iso": "CHW",
+    "decimal": "948",
+    "currency": "WIR Franc ",
+    "countries": ["Switzerland"]
+}, {
+    "iso": "CLF",
+    "decimal": "990",
+    "currency": "Unidad de Fomento ",
+    "countries": ["Chile"]
+}, {
+    "iso": "CLP",
+    "decimal": "152",
+    "currency": "Chilean peso",
+    "countries": ["Chile"]
+}, {
+    "iso": "CNY",
+    "decimal": "156",
+    "currency": "Chinese yuan",
+    "countries": ["China"]
+}, {
+    "iso": "COP",
+    "decimal": "170",
+    "currency": "Colombian peso",
+    "countries": ["Colombia"]
+}, {
+    "iso": "COU",
+    "decimal": "970",
+    "currency": "Unidad de Valor Real  ",
+    "countries": ["Colombia"]
+}, {
+    "iso": "CRC",
+    "decimal": "188",
+    "currency": "Costa Rican colon",
+    "countries": ["Costa Rica"]
+}, {
+    "iso": "CUC",
+    "decimal": "931",
+    "currency": "Cuban convertible peso",
+    "countries": ["Cuba"]
+}, {
+    "iso": "CUP",
+    "decimal": "192",
+    "currency": "Cuban peso",
+    "countries": ["Cuba"]
+}, {
+    "iso": "CVE",
+    "decimal": "132",
+    "currency": "Cape Verde escudo",
+    "countries": ["Cape Verde"]
+}, {
+    "iso": "CZK",
+    "decimal": "203",
+    "currency": "Czech koruna",
+    "countries": ["Czech Republic"]
+}, {
+    "iso": "DJF",
+    "decimal": "262",
+    "currency": "Djiboutian franc",
+    "countries": ["Djibouti"]
+}, {
+    "iso": "DKK",
+    "decimal": "208",
+    "currency": "Danish krone",
+    "countries": ["Denmark", "Faroe Islands", "Greenland"]
+}, {
+    "iso": "DOP",
+    "decimal": "214",
+    "currency": "Dominican peso",
+    "countries": ["Dominican Republic"]
+}, {
+    "iso": "DZD",
+    "decimal": "012",
+    "currency": "Algerian dinar",
+    "countries": ["Algeria"]
+}, {
+    "iso": "EGP",
+    "decimal": "818",
+    "currency": "Egyptian pound",
+    "countries": ["Egypt"]
+}, {
+    "iso": "ERN",
+    "decimal": "232",
+    "currency": "Eritrean nakfa",
+    "countries": ["Eritrea"]
+}, {
+    "iso": "ETB",
+    "decimal": "230",
+    "currency": "Ethiopian birr",
+    "countries": ["Ethiopia"]
+}, {
+    "iso": "EUR",
+    "decimal": "978",
+    "currency": "Euro",
+    "countries": ["Andorra", "Austria", "Belgium", "Cyprus", "Estonia", "Finland", "France", "Germany", "Greece", "Guadeloupe", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Martinique", "Mayotte", "Monaco", "Montenegro", "Netherlands", "Portugal", "Réunion", "Saint Barthélemy", "Saint Pierre and Miquelon", "San Marino", "Slovakia", "Slovenia", "Spain"]
+}, {
+    "iso": "FJD",
+    "decimal": "242",
+    "currency": "Fiji dollar",
+    "countries": ["Fiji"]
+}, {
+    "iso": "FKP",
+    "decimal": "238",
+    "currency": "Falkland Islands pound",
+    "countries": ["Falkland Islands"]
+}, {
+    "iso": "GBP",
+    "decimal": "826",
+    "currency": "Pound sterling",
+    "countries": ["United Kingdom", "Isle of Man", "Manx pound", "Jersey", "Jersey pound", "Guernsey", "Guernsey pound"]
+}, {
+    "iso": "GEL",
+    "decimal": "981",
+    "currency": "Georgian lari",
+    "countries": ["Georgia"]
+}, {
+    "iso": "GHS",
+    "decimal": "936",
+    "currency": "Ghanaian cedi",
+    "countries": ["Ghana"]
+}, {
+    "iso": "GIP",
+    "decimal": "292",
+    "currency": "Gibraltar pound",
+    "countries": ["Gibraltar"]
+}, {
+    "iso": "GMD",
+    "decimal": "270",
+    "currency": "Gambian dalasi",
+    "countries": ["Gambia"]
+}, {
+    "iso": "GNF",
+    "decimal": "324",
+    "currency": "Guinean franc",
+    "countries": ["Guinea"]
+}, {
+    "iso": "GTQ",
+    "decimal": "320",
+    "currency": "Guatemalan quetzal",
+    "countries": ["Guatemala"]
+}, {
+    "iso": "GYD",
+    "decimal": "328",
+    "currency": "Guyanese dollar",
+    "countries": ["Guyana"]
+}, {
+    "iso": "HKD",
+    "decimal": "344",
+    "currency": "Hong Kong dollar",
+    "countries": ["Hong Kong"]
+}, {
+    "iso": "HNL",
+    "decimal": "340",
+    "currency": "Honduran lempira",
+    "countries": ["Honduras"]
+}, {
+    "iso": "HRK",
+    "decimal": "191",
+    "currency": "Croatian kuna",
+    "countries": ["Croatia"]
+}, {
+    "iso": "HTG",
+    "decimal": "332",
+    "currency": "Haitian gourde",
+    "countries": ["Haiti"]
+}, {
+    "iso": "HUF",
+    "decimal": "348",
+    "currency": "Hungarian forint",
+    "countries": ["Hungary"]
+}, {
+    "iso": "IDR",
+    "decimal": "360",
+    "currency": "Indonesian rupiah",
+    "countries": ["Indonesia"]
+}, {
+    "iso": "ILS",
+    "decimal": "376",
+    "currency": "Israeli new shekel",
+    "countries": ["Israel"]
+}, {
+    "iso": "INR",
+    "decimal": "356",
+    "currency": "Indian rupee",
+    "countries": ["India", "Bhutan"]
+}, {
+    "iso": "IQD",
+    "decimal": "368",
+    "currency": "Iraqi dinar",
+    "countries": ["Iraq"]
+}, {
+    "iso": "IRR",
+    "decimal": "364",
+    "currency": "Iranian rial",
+    "countries": ["Iran"]
+}, {
+    "iso": "ISK",
+    "decimal": "352",
+    "currency": "Icelandic króna",
+    "countries": ["Iceland"]
+}, {
+    "iso": "JMD",
+    "decimal": "388",
+    "currency": "Jamaican dollar",
+    "countries": ["Jamaica"]
+}, {
+    "iso": "JOD",
+    "decimal": "400",
+    "currency": "Jordanian dinar",
+    "countries": ["Jordan"]
+}, {
+    "iso": "JPY",
+    "decimal": "392",
+    "currency": "Japanese yen",
+    "countries": ["Japan"]
+}, {
+    "iso": "KES",
+    "decimal": "404",
+    "currency": "Kenyan shilling",
+    "countries": ["Kenya"]
+}, {
+    "iso": "KGS",
+    "decimal": "417",
+    "currency": "Kyrgyzstani som",
+    "countries": ["Kyrgyzstan"]
+}, {
+    "iso": "KHR",
+    "decimal": "116",
+    "currency": "Cambodian riel",
+    "countries": ["Cambodia"]
+}, {
+    "iso": "KMF",
+    "decimal": "174",
+    "currency": "Comoro franc",
+    "countries": ["Comoros"]
+}, {
+    "iso": "KPW",
+    "decimal": "408",
+    "currency": "North Korean won",
+    "countries": ["North Korea"]
+}, {
+    "iso": "KRW",
+    "decimal": "410",
+    "currency": "South Korean won",
+    "countries": ["South Korea"]
+}, {
+    "iso": "KWD",
+    "decimal": "414",
+    "currency": "Kuwaiti dinar",
+    "countries": ["Kuwait"]
+}, {
+    "iso": "KYD",
+    "decimal": "136",
+    "currency": "Cayman Islands dollar",
+    "countries": ["Cayman Islands"]
+}, {
+    "iso": "KZT",
+    "decimal": "398",
+    "currency": "Kazakhstani tenge",
+    "countries": ["Kazakhstan"]
+}, {
+    "iso": "LAK",
+    "decimal": "418",
+    "currency": "Lao kip",
+    "countries": ["Laos"]
+}, {
+    "iso": "LBP",
+    "decimal": "422",
+    "currency": "Lebanese pound",
+    "countries": ["Lebanon"]
+}, {
+    "iso": "LKR",
+    "decimal": "144",
+    "currency": "Sri Lankan rupee",
+    "countries": ["Sri Lanka"]
+}, {
+    "iso": "LRD",
+    "decimal": "430",
+    "currency": "Liberian dollar",
+    "countries": ["Liberia"]
+}, {
+    "iso": "LSL",
+    "decimal": "426",
+    "currency": "Lesotho loti",
+    "countries": ["Lesotho"]
+}, {
+    "iso": "LYD",
+    "decimal": "434",
+    "currency": "Libyan dinar",
+    "countries": ["Libya"]
+}, {
+    "iso": "MAD",
+    "decimal": "504",
+    "currency": "Moroccan dirham",
+    "countries": ["Morocco"]
+}, {
+    "iso": "MDL",
+    "decimal": "498",
+    "currency": "Moldovan leu",
+    "countries": ["Moldavia"]
+}, {
+    "iso": "MGA",
+    "decimal": "969",
+    "currency": "Malagasy ariary",
+    "countries": ["Madagascar"]
+}, {
+    "iso": "MKD",
+    "decimal": "807",
+    "currency": "Macedonian denar",
+    "countries": ["Macedonia"]
+}, {
+    "iso": "MMK",
+    "decimal": "104",
+    "currency": "Myanmar kyat",
+    "countries": ["Myanmar"]
+}, {
+    "iso": "MNT",
+    "decimal": "496",
+    "currency": "Mongolian tögrög",
+    "countries": ["Mongolia"]
+}, {
+    "iso": "MOP",
+    "decimal": "446",
+    "currency": "Macanese pataca",
+    "countries": ["Macau"]
+}, {
+    "iso": "MRO",
+    "decimal": "478",
+    "currency": "Mauritanian ouguiya",
+    "countries": ["Mauritania"]
+}, {
+    "iso": "MUR",
+    "decimal": "480",
+    "currency": "Mauritian rupee",
+    "countries": ["Mauritius"]
+}, {
+    "iso": "MVR",
+    "decimal": "462",
+    "currency": "Maldivian rufiyaa",
+    "countries": ["Maldives"]
+}, {
+    "iso": "MWK",
+    "decimal": "454",
+    "currency": "Malawian kwacha",
+    "countries": ["Malawi"]
+}, {
+    "iso": "MXN",
+    "decimal": "484",
+    "currency": "Mexican peso",
+    "countries": ["Mexico"]
+}, {
+    "iso": "MXV",
+    "decimal": "979",
+    "currency": "Mexican Unidad de Inversion  ",
+    "countries": ["Mexico"]
+}, {
+    "iso": "MYR",
+    "decimal": "458",
+    "currency": "Malaysian ringgit",
+    "countries": ["Malaysia"]
+}, {
+    "iso": "MZN",
+    "decimal": "943",
+    "currency": "Mozambican metical",
+    "countries": ["Mozambique"]
+}, {
+    "iso": "NAD",
+    "decimal": "516",
+    "currency": "Namibian dollar",
+    "countries": ["Namibia"]
+}, {
+    "iso": "NGN",
+    "decimal": "566",
+    "currency": "Nigerian naira",
+    "countries": ["Nigeria"]
+}, {
+    "iso": "NIO",
+    "decimal": "558",
+    "currency": "Nicaraguan córdoba",
+    "countries": ["Nicaragua"]
+}, {
+    "iso": "NOK",
+    "decimal": "578",
+    "currency": "Norwegian krone",
+    "countries": ["Norway", "Svalbard", "Jan Mayen", "Bouvet Island"]
+}, {
+    "iso": "NPR",
+    "decimal": "524",
+    "currency": "Nepalese rupee",
+    "countries": ["Nepal"]
+}, {
+    "iso": "NZD",
+    "decimal": "554",
+    "currency": "New Zealand dollar",
+    "countries": ["New Zealand", "Cook Islands", "Niue", "Pitcairn Islands", "Pitcairn Islands dollar", "Tokelau"]
+}, {
+    "iso": "OMR",
+    "decimal": "512",
+    "currency": "Omani rial",
+    "countries": ["Oman"]
+}, {
+    "iso": "PAB",
+    "decimal": "590",
+    "currency": "Panamanian balboa",
+    "countries": ["Panama"]
+}, {
+    "iso": "PEN",
+    "decimal": "604",
+    "currency": "Peruvian Sol",
+    "countries": ["Peru"]
+}, {
+    "iso": "PGK",
+    "decimal": "598",
+    "currency": "Papua New Guinean kina",
+    "countries": ["Papua New Guinea"]
+}, {
+    "iso": "PHP",
+    "decimal": "608",
+    "currency": "Philippine piso",
+    "countries": ["Philippines"]
+}, {
+    "iso": "PKR",
+    "decimal": "586",
+    "currency": "Pakistani rupee",
+    "countries": ["Pakistan"]
+}, {
+    "iso": "PLN",
+    "decimal": "985",
+    "currency": "Polish złoty",
+    "countries": ["Poland"]
+}, {
+    "iso": "PYG",
+    "decimal": "600",
+    "currency": "Paraguayan guaraní",
+    "countries": ["Paraguay"]
+}, {
+    "iso": "QAR",
+    "decimal": "634",
+    "currency": "Qatari riyal",
+    "countries": ["Qatar"]
+}, {
+    "iso": "RON",
+    "decimal": "946",
+    "currency": "Romanian leu",
+    "countries": ["Romania"]
+}, {
+    "iso": "RSD",
+    "decimal": "941",
+    "currency": "Serbian dinar",
+    "countries": ["Serbia"]
+}, {
+    "iso": "RUB",
+    "decimal": "643",
+    "currency": "Russian ruble",
+    "countries": ["Russia"]
+}, {
+    "iso": "RWF",
+    "decimal": "646",
+    "currency": "Rwandan franc",
+    "countries": ["Rwanda"]
+}, {
+    "iso": "SAR",
+    "decimal": "682",
+    "currency": "Saudi riyal",
+    "countries": ["Saudi Arab"]
+}, {
+    "iso": "SBD",
+    "decimal": "090",
+    "currency": "Solomon Islands dollar",
+    "countries": ["Solomon Islands"]
+}, {
+    "iso": "SCR",
+    "decimal": "690",
+    "currency": "Seychelles rupee",
+    "countries": ["Seychelles"]
+}, {
+    "iso": "SDG",
+    "decimal": "938",
+    "currency": "Sudanese pound",
+    "countries": ["Sudan"]
+}, {
+    "iso": "SEK",
+    "decimal": "752",
+    "currency": "Swedish krona/kronor",
+    "countries": ["Sweden"]
+}, {
+    "iso": "SGD",
+    "decimal": "702",
+    "currency": "Singapore dollar",
+    "countries": ["Singapore"]
+}, {
+    "iso": "SHP",
+    "decimal": "654",
+    "currency": "Saint Helena pound",
+    "countries": ["Saint Helena", "Ascension Island", "Tristan da Cunha"]
+}, {
+    "iso": "SLL",
+    "decimal": "694",
+    "currency": "Sierra Leonean leone",
+    "countries": ["Sierra Leone"]
+}, {
+    "iso": "SOS",
+    "decimal": "706",
+    "currency": "Somali shilling",
+    "countries": ["Somalia"]
+}, {
+    "iso": "SRD",
+    "decimal": "968",
+    "currency": "Surinamese dollar",
+    "countries": ["Suriname"]
+}, {
+    "iso": "SSP",
+    "decimal": "728",
+    "currency": "South Sudanese pound",
+    "countries": ["South Sudan"]
+}, {
+    "iso": "STD",
+    "decimal": "678",
+    "currency": "São Tomé and Príncipe dobra",
+    "countries": ["São Tomé and Príncipe"]
+}, {
+    "iso": "SVC",
+    "decimal": "222",
+    "currency": "Salvadoran colón",
+    "countries": ["El Salvador"]
+}, {
+    "iso": "SYP",
+    "decimal": "760",
+    "currency": "Syrian pound",
+    "countries": ["Syria"]
+}, {
+    "iso": "SZL",
+    "decimal": "748",
+    "currency": "Swazi lilangeni",
+    "countries": ["Swaziland"]
+}, {
+    "iso": "THB",
+    "decimal": "764",
+    "currency": "Thai baht",
+    "countries": ["Thailand"]
+}, {
+    "iso": "TJS",
+    "decimal": "972",
+    "currency": "Tajikistani somoni",
+    "countries": ["Tajikistan"]
+}, {
+    "iso": "TMT",
+    "decimal": "934",
+    "currency": "Turkmenistan manat",
+    "countries": ["Turkmenistan"]
+}, {
+    "iso": "TND",
+    "decimal": "788",
+    "currency": "Tunisian dinar",
+    "countries": ["Tunisia"]
+}, {
+    "iso": "TOP",
+    "decimal": "776",
+    "currency": "Tongan paʻanga",
+    "countries": ["Tonga"]
+}, {
+    "iso": "TRY",
+    "decimal": "949",
+    "currency": "Turkish lira",
+    "countries": ["Turkey"]
+}, {
+    "iso": "TTD",
+    "decimal": "780",
+    "currency": "Trinidad and Tobago dollar",
+    "countries": ["Trinidad and Tobago", "Trinidad & Tobago"]
+}, {
+    "iso": "TWD",
+    "decimal": "901",
+    "currency": "New Taiwan dollar",
+    "countries": ["Taiwan"]
+}, {
+    "iso": "TZS",
+    "decimal": "834",
+    "currency": "Tanzanian shilling",
+    "countries": ["Tanzania"]
+}, {
+    "iso": "UAH",
+    "decimal": "980",
+    "currency": "Ukrainian hryvnia",
+    "countries": ["Ukraine"]
+}, {
+    "iso": "UGX",
+    "decimal": "800",
+    "currency": "Ugandan shilling",
+    "countries": ["Uganda"]
+}, {
+    "iso": "USD",
+    "decimal": "840",
+    "currency": "United States dollar",
+    "countries": ["United States", "American Samoa", "Barbados", "Barbados Dollar", "Bermuda", "Bermudian Dollar", "British Indian Ocean Territory", "British Virgin Islands", "Caribbean Netherlands", "Ecuador", "El Salvador", "Guam", "Haiti", "Marshall Islands", "Federated States of Micronesia", "Northern Mariana Islands", "Palau", "Panama", "Panamanian Balboa", "Puerto Rico", "Timor-Leste", "Turks and Caicos Islands","Turks & Caicos Islands", "U.S. Virgin Islands", "United States Minor Outlying Islands"]
+}, {
+    "iso": "USN",
+    "decimal": "997",
+    "currency": "United States dollar  ",
+    "countries": ["United States"]
+}, {
+    "iso": "UYI",
+    "decimal": "940",
+    "currency": "Uruguay Peso en Unidades Indexadas  ",
+    "countries": ["Uruguay"]
+}, {
+    "iso": "UYU",
+    "decimal": "858",
+    "currency": "Uruguayan peso",
+    "countries": ["Uruguay"]
+}, {
+    "iso": "UZS",
+    "decimal": "860",
+    "currency": "Uzbekistan som",
+    "countries": ["Uzbekistan"]
+}, {
+    "iso": "VEF",
+    "decimal": "937",
+    "currency": "Venezuelan bolívar",
+    "countries": ["Venezuela"]
+}, {
+    "iso": "VND",
+    "decimal": "704",
+    "currency": "Vietnamese đồng",
+    "countries": ["Vietnam"]
+}, {
+    "iso": "VUV",
+    "decimal": "548",
+    "currency": "Vanuatu vatu",
+    "countries": ["Vanuatu"]
+}, {
+    "iso": "WST",
+    "decimal": "882",
+    "currency": "Samoan tala",
+    "countries": ["Samoa"]
+}, {
+    "iso": "XAF",
+    "decimal": "950",
+    "currency": "CFA franc BEAC",
+    "countries": ["Cameroon", "Central African Republic", "Republic of the Congo", "Chad", "Equatorial Guinea", "Gabon"]
+}, {
+    "iso": "XAG",
+    "decimal": "961",
+    "currency": "Silver ",
+    "countries": []
+}, {
+    "iso": "XAU",
+    "decimal": "959",
+    "currency": "Gold ",
+    "countries": []
+}, {
+    "iso": "XBA",
+    "decimal": "955",
+    "currency": "European Composite Unit  ",
+    "countries": []
+}, {
+    "iso": "XBB",
+    "decimal": "956",
+    "currency": "European Monetary Unit  ",
+    "countries": []
+}, {
+    "iso": "XBC",
+    "decimal": "957",
+    "currency": "European Unit of Account 9  ",
+    "countries": []
+}, {
+    "iso": "XBD",
+    "decimal": "958",
+    "currency": "European Unit of Account 17  ",
+    "countries": []
+}, {
+    "iso": "XCD",
+    "decimal": "951",
+    "currency": "East Caribbean dollar",
+    "countries": ["Anguilla", "Antigua and Barbuda","Antigua & Barbuda", "Dominica", "Grenada", "Montserrat", "Saint Kitts and Nevis","St. Kitts & Nevis", "Saint Lucia","St. Lucia", "St. Vincent & The Grenadines","Saint Vincent and the Grenadines"]
+}, {
+    "iso": "XDR",
+    "decimal": "960",
+    "currency": "Special drawing rights",
+    "countries": ["International Monetary Fund"]
+}, {
+    "iso": "XOF",
+    "decimal": "952",
+    "currency": "CFA franc BCEAO",
+    "countries": ["Benin", "Burkina Faso", "Ivory Coast", "Guinea-Bissau", "Mali", "Niger", "Senegal", "Togo"]
+}, {
+    "iso": "XPD",
+    "decimal": "964",
+    "currency": "Palladium ",
+    "countries": []
+}, {
+    "iso": "XPF",
+    "decimal": "953",
+    "currency": "CFP franc ",
+    "countries": ["French Polynesia", "New Caledonia", "Wallis and Futuna","Wallis & Futuna"]
+}, {
+    "iso": "XPT",
+    "decimal": "962",
+    "currency": "Platinum ",
+    "countries": []
+}, {
+    "iso": "XSU",
+    "decimal": "994",
+    "currency": "SUCRE",
+    "countries": [""]
+}, {
+    "iso": "XTS",
+    "decimal": "963",
+    "currency": "iso reserved for testing purposes",
+    "countries": []
+}, {
+    "iso": "XUA",
+    "decimal": "965",
+    "currency": "ADB Unit of Account",
+    "countries": ["African Development Bank"]
+}, {
+    "iso": "XXX",
+    "decimal": "999",
+    "currency": "No currency",
+    "countries": []
+}, {
+    "iso": "YER",
+    "decimal": "886",
+    "currency": "Yemeni rial",
+    "countries": ["Yemen"]
+}, {
+    "iso": "ZAR",
+    "decimal": "710",
+    "currency": "South African rand",
+    "countries": ["South Africa"]
+}, {
+    "iso": "ZMW",
+    "decimal": "967",
+    "currency": "Zambian kwacha",
+    "countries": ["Zambia"]
+}, {
+    "iso": "ZWL",
+    "decimal": "932",
+    "currency": "Zimbabwean dollar A/10",
+    "countries": ["Zimbabwe"]
+}]
