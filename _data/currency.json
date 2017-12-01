@@ -2,8 +2,8 @@
     "iso": "AED",
     "symbol": "د.إ",
     "decimal": "784",
-    "currency": "UAE Dirham",
-    "countries": ["UAE"]
+    "currency": "United Arab Emirates Dirham",
+    "countries": ["United Arab Emirates"]
 }, {
     "iso": "AFN",
     "symbol": "؋",
@@ -24,7 +24,7 @@
     "countries": ["Armenia"]
 },{
     "iso": "ANG",
-    "symbol": "",
+    "symbol": "NAƒ",
     "decimal": "532",
     "currency": "Netherlands Antillean Guilder",
     "countries": ["Sint Maarten"]
@@ -126,7 +126,7 @@
     "countries": ["Bahamas"]
 }, {
     "iso": "BTN",
-    "symbol": "",
+    "symbol": "Nu.",
     "decimal": "064",
     "currency": "Ngultrum",
     "countries": ["Bhutan"]
@@ -246,7 +246,7 @@
     "countries": ["Eritrea"]
 }, {
     "iso": "ETB",
-    "symbol": "",
+    "symbol": "ብር",
     "decimal": "230",
     "currency": "Ethiopian Birr",
     "countries": ["Ethiopia"]
@@ -408,7 +408,7 @@
     "countries": ["Kenya"]
 }, {
     "iso": "KGS",
-    "symbol": "",
+    "symbol": "som",
     "decimal": "417",
     "currency": "Som",
     "countries": ["Kyrgyzstan"]
@@ -498,7 +498,7 @@
     "countries": ["Moldova"]
 }, {
     "iso": "MGA",
-    "symbol": "",
+    "symbol": "Ar",
     "decimal": "969",
     "currency": "Malagasy Ariary",
     "countries": ["Madagascar"]
@@ -840,7 +840,7 @@
     "countries": ["Uruguay"]
 }, {
     "iso": "UZS",
-    "symbol": "",
+    "symbol": "soʻm",
     "decimal": "860",
     "currency": "Uzbekistan Sum",
     "countries": ["Uzbekistan"]
