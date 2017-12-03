@@ -3,7 +3,7 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:20:27 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-12-01 09:12:28
+ * @Last Modified time: 2017-12-03 12:00:32
  * @Description: 具体的路由定义
  */
 
@@ -23,18 +23,18 @@ export default [
                 children: [
                     {
                         path: '',
-                        name: 'Countries',
-                        component: pipe('country/index')
+                        name: '常用国家',
+                        component: pipe('country/apple.vue')
                     },
                     {
                         path: 'currency',
-                        name: 'Currency',
+                        name: '货币查询',
                         component: pipe('country/currency.vue')
                     },
                     {
-                        path: 'apple',
-                        name: 'apple',
-                        component: pipe('country/apple.vue')
+                        path: 'countries',
+                        name: '国家列表',
+                        component: pipe('country/index')
                     }
                 ]
             },

@@ -29,7 +29,7 @@ export default {
 
 <style lang="scss" scoped>
     nav {
-        margin-bottom: 35px;
+        // margin-bottom: 15px;
         border-bottom: 1px solid #ccc;
         a {
             display: inline-block;

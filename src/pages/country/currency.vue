@@ -1,7 +1,11 @@
 <template>
   <div class="currency">
+    <div class="btns">
+        <button class="ui-button" @click="save">Save</button>
+        <button class="ui-button" @click="showout">Countries</button>
+    </div>
     <div class="flexil title">
-        <span>NO.</span>
+        <span>No.</span>
         <span>(货币名)Currency</span>
         <span>(货币)ISO</span>
         <span>(数字代码)Decimal</span>
@@ -34,12 +38,8 @@
             </p>
         </li>
     </ul>
-    <div class="btns">
-        <button class="ui-button" @click="save">Save</button>
-        <button class="ui-button" @click="showout">Countries</button>
-    </div>
     <p>
-        Data from: https://justforex.com/cn/education/currencies
+        Data from: wiki
     </p>
 </div>
 </template>
