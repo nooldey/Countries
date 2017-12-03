@@ -70,7 +70,7 @@ export default {
     height: calc(100% - 110px);
     overflow-y: auto;
     li {
-        margin: 10px auto;
+        // margin: 10px auto;
         text-align: center;
     }
     .red {
