@@ -46,7 +46,7 @@
 
 <script>
     const newCurrency = require('$dat/currency_wiki.json');
-    const iso = require('$dat/iso.json');
+    const iso = require('$dat/currency_iso.json');
     const symbols = require('$dat/symbols.json');
     export default {
         data () {
