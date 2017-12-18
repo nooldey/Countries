@@ -46,7 +46,6 @@
     "webpack-node-externals": "^1.6.0"
   },
   "dependencies": {
-    "axios": "^0.16.2",
     "vue": "^2.5.8",
     "vue-router": "^2.8.1",
     "vuex": "^2.5.0"
