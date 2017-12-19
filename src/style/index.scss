@@ -3,7 +3,7 @@
  * @Author-Email: <nooldey@gmail.com> 
  * @Date: 2017-11-23 17:01:14 
  * @Last Modified by: nooldey
- * @Last Modified time: 2017-11-30 17:00:25
+ * @Last Modified time: 2017-12-03 11:52:15
  * @Description: 全站加载样式
  */
 
@@ -46,7 +46,6 @@ del {
     align-items: center;
     padding: 5px 0;
     border-bottom: 1px solid #ccc;
-    font-size: 18px;
     >span,>p {
         flex: 1;
         text-align: center;
@@ -64,5 +63,6 @@ del {
         margin-bottom: 10px;
         font-weight: 600;
         background: #f8f8f8;
+        font-size: 18px;
     }
 }

@@ -1,5 +1,8 @@
 <template>
     <div class="apple_country">
+        <div class="btns">
+            <button class="ui-button" @click="save">Save</button>
+        </div>
         <div class="flexil title">
             <span>Name</span>
             <span>Native Name</span>
@@ -18,9 +21,6 @@
                 <p> <input type="text" v-model="item.symbol"> </p>
             </li>
         </ul>
-        <div class="btns">
-            <button class="ui-button" @click="save">Save</button>
-        </div>
     </div>
 </template>
 
@@ -70,7 +70,7 @@ export default {
     height: calc(100% - 110px);
     overflow-y: auto;
     li {
-        margin: 10px auto;
+        // margin: 10px auto;
         text-align: center;
     }
     .red {
