@@ -1,7 +1,20 @@
 language: node_js
 node_js: 
   - 8.9.0
+install: 
+  - npm install
 script: 
   - npm run build
 after_success:
-  - npm run dev
+  - cd dist
+  - git init
+  - git config user.name "nooldey"
+  - git config user.email "nooldey@gmail.com"
+  - git add .
+  - git commit -m 'Update pages'
+  - git push -f "https://${gGH_TOKEN}@${GH_REF}" master:gh-pages
+
+env:
+  global:
+    - GH_REF: github.com/nooldey/Countries.git
+    - secure: "Xk+uyRpqyCA6OM4nYMpa8ytXimJfVPfbewUphlj97qiY3iwzcuiKxGezYds1AclvDdFfkFIyYg92TFLmh7jwni/sviDg6nzMV5iyBZ9+dxbAcQDqv2q6GfV9Dc7DO/nNY6pSpeHgkV4/134sL6qQVUYB/vlNdGTpNbR6II924MwBQ/2YB7HZF6bnSvmUurHEpYC1idrYsU0mYd7OtizHU/q+brG47eOz9/xQ0d7NNZ810A9QOndW/9VJpWuumg+t72e29l6hDfej2smuJirK93XzpGu2Lq9oJq4H8obE5mf9d9HzyTepmJbjyJAY/ROvICcv0HoPxA+mW1wAx2v5w4F8UY1WgSGFOkD5U3Ei6Iu6G+N41HbiVnY6XTR2N5aHr0O5eTjsTBqYPuJ1S55kVHFzL2xAm4SuGduTucThy6JAl6wZWDETGNLpWFQfGY9lGHjyum3NjyHxJ2iyBiBdq/0BMNd5iNEG9yk81kHZ8lMLWkJi+J3PL8qvQirbLmU+MnM3F5UArhq0XgjUBi9eB9IF5h4JlayveQCwHa71HJGr2e8CQy6EwDb8iIQUH5wG1IH/l8m/GeOd4wVzhrcsarHeo5P/dpGOjcJsYsKVTLLoZEw97wrDIu4fRnLAYtRD2rSbgbZzPPzm8dFRG4t1lO3pnZYDoend468SsXgtXAc="
