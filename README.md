@@ -1,4 +1,7 @@
 # Countries
+
+[![Build Status](https://travis-ci.org/nooldey/Countries.svg?branch=master)](https://travis-ci.org/nooldey/Countries)
+
 Data of Countries, include country name、native name、country code、currency、currency symbol
 
 # 最终数据文件
