@@ -56,7 +56,7 @@ module.exports = merge(base, {
 			filename: pub.html,
 			template: pub.template,
 			inject: pub.inject,
-			favicon: end.favicon,
+			// favicon: end.favicon,
 			minify: {
 				removeComments: true,
 				collapseWhitespace: true,
@@ -64,11 +64,11 @@ module.exports = merge(base, {
 			},
 			chunksSortMode: 'dependency'
 		}),
-		new CopyPlugin([
-			{
-				from: path.join(__dirname, '../src/assets/favicon'),
-				to: end.assetsRoot
-			}
-		])
+		// new CopyPlugin([
+		// 	{
+		// 		from: path.join(__dirname, '../src/assets/favicon'),
+		// 		to: end.assetsRoot
+		// 	}
+		// ])
 	]
 })

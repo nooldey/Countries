@@ -5,7 +5,7 @@
   "author": "Nooldey",
   "license": "MIT",
   "scripts": {
-    "start": "npm run pop && cross-env NODE_ENV=production webpack --config build/webpack.prod.js --progress --color --hide-modules",
+    "build": "npm run pop && cross-env NODE_ENV=production webpack --config build/webpack.prod.js --progress --color --hide-modules",
     "dev": "node build/dev-server",
     "pop": "rimraf dist/*"
   },
