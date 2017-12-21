@@ -16,7 +16,7 @@ module.exports = {
 		inject: true,
 		template: 'src/index.html',
 		title: siteTitle,
-		assetsPublicPath: '/Countries'
+		assetsPublicPath: '/Countries/'
 	},
 	dev: {
 		env: 'development',
