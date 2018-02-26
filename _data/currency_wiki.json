@@ -3,114 +3,133 @@
     "decimal": "784",
     "currency": "United Arab Emirates dirham",
     "countries": ["United Arab Emirates"],
+    "countryCode": ["AE"],
     "symbol": "د.إ"
 }, {
     "iso": "AFN",
     "decimal": "971",
     "currency": "Afghan afghani",
     "countries": ["Afghanistan"],
+    "countryCode": [],
     "symbol": "؋"
 }, {
     "iso": "ALL",
     "decimal": "008",
     "currency": "Albanian lek",
     "countries": ["Albania"],
+    "countryCode": [],
     "symbol": "L"
 }, {
     "iso": "AMD",
     "decimal": "051",
     "currency": "Armenian dram",
     "countries": ["Armenia"],
+    "countryCode": ["AM"],
     "symbol": "֏"
 }, {
     "iso": "ANG",
     "decimal": "532",
     "currency": "Netherlands Antillean guilder",
     "countries": ["Curaçao", "Sint Maarten"],
+    "countryCode": [],
     "symbol": "ƒ"
 }, {
     "iso": "AOA",
     "decimal": "973",
     "currency": "Angolan kwanza",
     "countries": ["Angola"],
+    "countryCode": [],
     "symbol": "Kz"
 }, {
     "iso": "ARS",
     "decimal": "032",
     "currency": "Argentine peso",
     "countries": ["Argentina"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "AUD",
     "decimal": "036",
     "currency": "Australian dollar",
     "countries": ["Australia", "Christmas Island", "Cocos Islands", "Heard Island and McDonald Islands", "Kiribati", "Nauru", "Norfolk Island", "Tuvalu"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "AWG",
     "decimal": "533",
     "currency": "Aruban florin",
     "countries": ["Aruba"],
+    "countryCode": [],
     "symbol": "ƒ"
 }, {
     "iso": "AZN",
     "decimal": "944",
     "currency": "Azerbaijani manat",
     "countries": ["Azerbaijan"],
+    "countryCode": [],
     "symbol": "₼"
 }, {
     "iso": "BAM",
     "decimal": "977",
     "currency": "Bosnia and Herzegovina convertible mark",
     "countries": ["Bosnia and Herzegovina"],
+    "countryCode": [],
     "symbol": "KM"
 }, {
     "iso": "BBD",
     "decimal": "052",
     "currency": "Barbados dollar",
     "countries": ["Barbados"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "BDT",
     "decimal": "050",
     "currency": "Bangladeshi taka",
     "countries": ["Bangladesh"],
+    "countryCode": [],
     "symbol": "৳"
 }, {
     "iso": "BGN",
     "decimal": "975",
     "currency": "Bulgarian lev",
     "countries": ["Bulgaria"],
+    "countryCode": [],
     "symbol": "лв"
 }, {
     "iso": "BHD",
     "decimal": "048",
     "currency": "Bahraini dinar",
     "countries": ["Bahrain"],
+    "countryCode": [],
     "symbol": ".د.ب"
 }, {
     "iso": "BIF",
     "decimal": "108",
     "currency": "Burundian franc",
     "countries": ["Burundi"],
+    "countryCode": [],
     "symbol": "FBu"
 }, {
     "iso": "BMD",
     "decimal": "060",
     "currency": "Bermudian dollar",
     "countries": ["Bermuda"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "BND",
     "decimal": "096",
     "currency": "Brunei dollar",
     "countries": ["Brunei"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "BOB",
     "decimal": "068",
     "currency": "Boliviano",
     "countries": ["Bolivia"],
+    "countryCode": [],
     "symbol": "$b"
 }, {
     "iso": "BOV",
@@ -122,24 +141,28 @@
     "decimal": "986",
     "currency": "Brazilian real",
     "countries": ["Brazil"],
+    "countryCode": [],
     "symbol": "R$"
 }, {
     "iso": "BSD",
     "decimal": "044",
     "currency": "Bahamian dollar",
     "countries": ["Bahamas"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "BTN",
     "decimal": "064",
     "currency": "Bhutanese ngultrum",
     "countries": ["Bhutan"],
+    "countryCode": [],
     "symbol": "Nu."
 }, {
     "iso": "BWP",
     "decimal": "072",
     "currency": "Botswana pula",
     "countries": ["Botswana"],
+    "countryCode": [],
     "symbol": "P"
 }, {
     "iso": "BYN",
@@ -151,24 +174,28 @@
     "decimal": "084",
     "currency": "Belize dollar",
     "countries": ["Belize"],
+    "countryCode": [],
     "symbol": "BZ$"
 }, {
     "iso": "CAD",
     "decimal": "124",
     "currency": "Canadian dollar",
     "countries": ["Canada"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "CDF",
     "decimal": "976",
     "currency": "Congolese franc",
     "countries": ["Democratic Republic of the Congo"],
+    "countryCode": [],
     "symbol": "FC"
 }, {
     "iso": "CHF",
     "decimal": "756",
     "currency": "Swiss franc",
     "countries": ["Switzerland", "Liechtenstein"],
+    "countryCode": [],
     "symbol": "CHF"
 }, {
     "iso": "CHE",
@@ -185,6 +212,7 @@
     "decimal": "152",
     "currency": "Chilean peso",
     "countries": ["Chile"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "CLF",
@@ -196,12 +224,14 @@
     "decimal": "156",
     "currency": "Chinese yuan",
     "countries": ["China"],
+    "countryCode": [],
     "symbol": "¥"
 }, {
     "iso": "COP",
     "decimal": "170",
     "currency": "Colombian peso",
     "countries": ["Colombia"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "COU",
@@ -213,384 +243,448 @@
     "decimal": "188",
     "currency": "Costa Rican colon",
     "countries": ["Costa Rica"],
+    "countryCode": [],
     "symbol": "₡"
 }, {
     "iso": "CUC",
     "decimal": "931",
     "currency": "Cuban convertible peso",
     "countries": ["Cuba"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "CUP",
     "decimal": "192",
     "currency": "Cuban peso",
     "countries": ["Cuba"],
+    "countryCode": [],
     "symbol": "₱"
 }, {
     "iso": "CVE",
     "decimal": "132",
     "currency": "Cape Verde escudo",
     "countries": ["Cape Verde"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "CZK",
     "decimal": "203",
     "currency": "Czech koruna",
     "countries": ["Czech Republic"],
+    "countryCode": [],
     "symbol": "Kč"
 }, {
     "iso": "DJF",
     "decimal": "262",
     "currency": "Djiboutian franc",
     "countries": ["Djibouti"],
+    "countryCode": [],
     "symbol": "Fdj"
 }, {
     "iso": "DKK",
     "decimal": "208",
     "currency": "Danish krone",
     "countries": ["Denmark", "Faroe Islands", "Greenland"],
+    "countryCode": [],
     "symbol": "kr"
 }, {
     "iso": "DOP",
     "decimal": "214",
     "currency": "Dominican peso",
     "countries": ["Dominican Republic"],
+    "countryCode": [],
     "symbol": "RD$"
 }, {
     "iso": "DZD",
     "decimal": "012",
     "currency": "Algerian dinar",
     "countries": ["Algeria"],
+    "countryCode": [],
     "symbol": "دج"
 }, {
     "iso": "EGP",
     "decimal": "818",
     "currency": "Egyptian pound",
     "countries": ["Egypt"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "ERN",
     "decimal": "232",
     "currency": "Eritrean nakfa",
     "countries": ["Eritrea"],
+    "countryCode": [],
     "symbol": "Nfk"
 }, {
     "iso": "ETB",
     "decimal": "230",
     "currency": "Ethiopian birr",
     "countries": ["Ethiopia"],
+    "countryCode": [],
     "symbol": "Br"
 }, {
     "iso": "EUR",
     "decimal": "978",
     "currency": "Euro",
     "countries": ["Andorra", "Austria", "Belgium", "Cyprus", "Estonia", "Finland", "France", "Germany", "Greece", "Guadeloupe", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Martinique", "Mayotte", "Monaco", "Montenegro", "Netherlands", "Portugal", "Réunion", "Saint Barthélemy", "Saint Pierre and Miquelon", "San Marino", "Slovakia", "Slovenia", "Spain"],
+    "countryCode": [],
     "symbol": "€"
 }, {
     "iso": "FJD",
     "decimal": "242",
     "currency": "Fiji dollar",
     "countries": ["Fiji"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "FKP",
     "decimal": "238",
     "currency": "Falkland Islands pound",
     "countries": ["Falkland Islands"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "GBP",
     "decimal": "826",
     "currency": "Pound sterling",
     "countries": ["United Kingdom", "Isle of Man", "Manx pound", "Jersey", "Jersey pound", "Guernsey", "Guernsey pound"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "GEL",
     "decimal": "981",
     "currency": "Georgian lari",
     "countries": ["Georgia"],
+    "countryCode": [],
     "symbol": "₾"
 }, {
     "iso": "GHS",
     "decimal": "936",
     "currency": "Ghanaian cedi",
     "countries": ["Ghana"],
+    "countryCode": [],
     "symbol": "GH₵"
 }, {
     "iso": "GIP",
     "decimal": "292",
     "currency": "Gibraltar pound",
     "countries": ["Gibraltar"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "GMD",
     "decimal": "270",
     "currency": "Gambian dalasi",
     "countries": ["Gambia"],
+    "countryCode": [],
     "symbol": "D"
 }, {
     "iso": "GNF",
     "decimal": "324",
     "currency": "Guinean franc",
     "countries": ["Guinea"],
+    "countryCode": [],
     "symbol": "FG"
 }, {
     "iso": "GTQ",
     "decimal": "320",
     "currency": "Guatemalan quetzal",
     "countries": ["Guatemala"],
+    "countryCode": [],
     "symbol": "Q"
 }, {
     "iso": "GYD",
     "decimal": "328",
     "currency": "Guyanese dollar",
     "countries": ["Guyana"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "HKD",
     "decimal": "344",
     "currency": "Hong Kong dollar",
     "countries": ["Hong Kong"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "HNL",
     "decimal": "340",
     "currency": "Honduran lempira",
     "countries": ["Honduras"],
+    "countryCode": [],
     "symbol": "L"
 }, {
     "iso": "HRK",
     "decimal": "191",
     "currency": "Croatian kuna",
     "countries": ["Croatia"],
+    "countryCode": [],
     "symbol": "kn"
 }, {
     "iso": "HTG",
     "decimal": "332",
     "currency": "Haitian gourde",
     "countries": ["Haiti"],
+    "countryCode": [],
     "symbol": "G"
 }, {
     "iso": "HUF",
     "decimal": "348",
     "currency": "Hungarian forint",
     "countries": ["Hungary"],
+    "countryCode": [],
     "symbol": "Ft"
 }, {
     "iso": "IDR",
     "decimal": "360",
     "currency": "Indonesian rupiah",
     "countries": ["Indonesia"],
+    "countryCode": [],
     "symbol": "Rp"
 }, {
     "iso": "ILS",
     "decimal": "376",
     "currency": "Israeli new shekel",
     "countries": ["Israel"],
+    "countryCode": [],
     "symbol": "₪"
 }, {
     "iso": "INR",
     "decimal": "356",
     "currency": "Indian rupee",
     "countries": ["India", "Bhutan"],
+    "countryCode": [],
     "symbol": "Rs."
 }, {
     "iso": "IQD",
     "decimal": "368",
     "currency": "Iraqi dinar",
     "countries": ["Iraq"],
+    "countryCode": [],
     "symbol": "ع.د"
 }, {
     "iso": "IRR",
     "decimal": "364",
     "currency": "Iranian rial",
     "countries": ["Iran"],
+    "countryCode": [],
     "symbol": "﷼"
 }, {
     "iso": "ISK",
     "decimal": "352",
     "currency": "Icelandic króna",
     "countries": ["Iceland"],
+    "countryCode": [],
     "symbol": "kr"
 }, {
     "iso": "JMD",
     "decimal": "388",
     "currency": "Jamaican dollar",
     "countries": ["Jamaica"],
+    "countryCode": [],
     "symbol": "J$"
 }, {
     "iso": "JOD",
     "decimal": "400",
     "currency": "Jordanian dinar",
     "countries": ["Jordan"],
+    "countryCode": [],
     "symbol": "JD"
 }, {
     "iso": "JPY",
     "decimal": "392",
     "currency": "Japanese yen",
     "countries": ["Japan"],
+    "countryCode": [],
     "symbol": "¥"
 }, {
     "iso": "KES",
     "decimal": "404",
     "currency": "Kenyan shilling",
     "countries": ["Kenya"],
+    "countryCode": [],
     "symbol": "KSh"
 }, {
     "iso": "KGS",
     "decimal": "417",
     "currency": "Kyrgyzstani som",
     "countries": ["Kyrgyzstan"],
+    "countryCode": [],
     "symbol": "лв"
 }, {
     "iso": "KHR",
     "decimal": "116",
     "currency": "Cambodian riel",
     "countries": ["Cambodia"],
+    "countryCode": [],
     "symbol": "៛"
 }, {
     "iso": "KMF",
     "decimal": "174",
     "currency": "Comoro franc",
     "countries": ["Comoros"],
+    "countryCode": [],
     "symbol": "CF"
 }, {
     "iso": "KPW",
     "decimal": "408",
     "currency": "North Korean won",
     "countries": ["North Korea"],
+    "countryCode": [],
     "symbol": "₩"
 }, {
     "iso": "KRW",
     "decimal": "410",
     "currency": "South Korean won",
     "countries": ["South Korea"],
+    "countryCode": [],
     "symbol": "₩"
 }, {
     "iso": "KWD",
     "decimal": "414",
     "currency": "Kuwaiti dinar",
     "countries": ["Kuwait"],
+    "countryCode": [],
     "symbol": "KD"
 }, {
     "iso": "KYD",
     "decimal": "136",
     "currency": "Cayman Islands dollar",
     "countries": ["Cayman Islands"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "KZT",
     "decimal": "398",
     "currency": "Kazakhstani tenge",
     "countries": ["Kazakhstan"],
+    "countryCode": [],
     "symbol": "лв"
 }, {
     "iso": "LAK",
     "decimal": "418",
     "currency": "Lao kip",
     "countries": ["Laos"],
+    "countryCode": [],
     "symbol": "₭"
 }, {
     "iso": "LBP",
     "decimal": "422",
     "currency": "Lebanese pound",
     "countries": ["Lebanon"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "LKR",
     "decimal": "144",
     "currency": "Sri Lankan rupee",
     "countries": ["Sri Lanka"],
+    "countryCode": [],
     "symbol": "₨"
 }, {
     "iso": "LRD",
     "decimal": "430",
     "currency": "Liberian dollar",
     "countries": ["Liberia"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "LSL",
     "decimal": "426",
     "currency": "Lesotho loti",
     "countries": ["Lesotho"],
+    "countryCode": [],
     "symbol": "M"
 }, {
     "iso": "LYD",
     "decimal": "434",
     "currency": "Libyan dinar",
     "countries": ["Libya"],
+    "countryCode": [],
     "symbol": "LD"
 }, {
     "iso": "MAD",
     "decimal": "504",
     "currency": "Moroccan dirham",
     "countries": ["Morocco"],
+    "countryCode": [],
     "symbol": "MAD"
 }, {
     "iso": "MDL",
     "decimal": "498",
     "currency": "Moldovan leu",
     "countries": ["Moldavia"],
+    "countryCode": [],
     "symbol": "lei"
 }, {
     "iso": "MGA",
     "decimal": "969",
     "currency": "Malagasy ariary",
     "countries": ["Madagascar"],
+    "countryCode": [],
     "symbol": "Ar"
 }, {
     "iso": "MKD",
     "decimal": "807",
     "currency": "Macedonian denar",
     "countries": ["Macedonia"],
+    "countryCode": [],
     "symbol": "ден"
 }, {
     "iso": "MMK",
     "decimal": "104",
     "currency": "Myanmar kyat",
     "countries": ["Myanmar"],
+    "countryCode": [],
     "symbol": "K"
 }, {
     "iso": "MNT",
     "decimal": "496",
     "currency": "Mongolian tögrög",
     "countries": ["Mongolia"],
+    "countryCode": [],
     "symbol": "₮"
 }, {
     "iso": "MOP",
     "decimal": "446",
     "currency": "Macanese pataca",
     "countries": ["Macau"],
+    "countryCode": [],
     "symbol": "MOP$"
 }, {
     "iso": "MRO",
     "decimal": "478",
     "currency": "Mauritanian ouguiya",
     "countries": ["Mauritania"],
+    "countryCode": [],
     "symbol": "UM"
 }, {
     "iso": "MUR",
     "decimal": "480",
     "currency": "Mauritian rupee",
     "countries": ["Mauritius"],
+    "countryCode": [],
     "symbol": "₨"
 }, {
     "iso": "MVR",
     "decimal": "462",
     "currency": "Maldivian rufiyaa",
     "countries": ["Maldives"],
+    "countryCode": [],
     "symbol": "Rf"
 }, {
     "iso": "MWK",
     "decimal": "454",
     "currency": "Malawian kwacha",
     "countries": ["Malawi"],
+    "countryCode": [],
     "symbol": "MK"
 }, {
     "iso": "MXN",
     "decimal": "484",
     "currency": "Mexican peso",
     "countries": ["Mexico"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "MXV",
@@ -602,288 +696,336 @@
     "decimal": "458",
     "currency": "Malaysian ringgit",
     "countries": ["Malaysia"],
+    "countryCode": [],
     "symbol": "RM"
 }, {
     "iso": "MZN",
     "decimal": "943",
     "currency": "Mozambican metical",
     "countries": ["Mozambique"],
+    "countryCode": [],
     "symbol": "MT"
 }, {
     "iso": "NAD",
     "decimal": "516",
     "currency": "Namibian dollar",
     "countries": ["Namibia"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "NGN",
     "decimal": "566",
     "currency": "Nigerian naira",
     "countries": ["Nigeria"],
+    "countryCode": [],
     "symbol": "₦"
 }, {
     "iso": "NIO",
     "decimal": "558",
     "currency": "Nicaraguan córdoba",
     "countries": ["Nicaragua"],
+    "countryCode": [],
     "symbol": "C$"
 }, {
     "iso": "NOK",
     "decimal": "578",
     "currency": "Norwegian krone",
     "countries": ["Norway", "Svalbard", "Jan Mayen", "Bouvet Island"],
+    "countryCode": [],
     "symbol": "kr"
 }, {
     "iso": "NPR",
     "decimal": "524",
     "currency": "Nepalese rupee",
     "countries": ["Nepal"],
+    "countryCode": [],
     "symbol": "₨"
 }, {
     "iso": "NZD",
     "decimal": "554",
     "currency": "New Zealand dollar",
     "countries": ["New Zealand", "Cook Islands", "Niue", "Pitcairn Islands", "Pitcairn Islands dollar", "Tokelau"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "OMR",
     "decimal": "512",
     "currency": "Omani rial",
     "countries": ["Oman"],
+    "countryCode": [],
     "symbol": "﷼"
 }, {
     "iso": "PAB",
     "decimal": "590",
     "currency": "Panamanian balboa",
     "countries": ["Panama"],
+    "countryCode": [],
     "symbol": "B/."
 }, {
     "iso": "PEN",
     "decimal": "604",
     "currency": "Peruvian Sol",
     "countries": ["Peru"],
+    "countryCode": [],
     "symbol": "S/."
 }, {
     "iso": "PGK",
     "decimal": "598",
     "currency": "Papua New Guinean kina",
     "countries": ["Papua New Guinea"],
+    "countryCode": [],
     "symbol": "K"
 }, {
     "iso": "PHP",
     "decimal": "608",
     "currency": "Philippine piso",
     "countries": ["Philippines"],
+    "countryCode": [],
     "symbol": "₱"
 }, {
     "iso": "PKR",
     "decimal": "586",
     "currency": "Pakistani rupee",
     "countries": ["Pakistan"],
+    "countryCode": [],
     "symbol": "₨"
 }, {
     "iso": "PLN",
     "decimal": "985",
     "currency": "Polish złoty",
     "countries": ["Poland"],
+    "countryCode": [],
     "symbol": "zł"
 }, {
     "iso": "PYG",
     "decimal": "600",
     "currency": "Paraguayan guaraní",
     "countries": ["Paraguay"],
+    "countryCode": [],
     "symbol": "Gs"
 }, {
     "iso": "QAR",
     "decimal": "634",
     "currency": "Qatari riyal",
     "countries": ["Qatar"],
+    "countryCode": [],
     "symbol": "﷼"
 }, {
     "iso": "RON",
     "decimal": "946",
     "currency": "Romanian leu",
     "countries": ["Romania"],
+    "countryCode": [],
     "symbol": "lei"
 }, {
     "iso": "RSD",
     "decimal": "941",
     "currency": "Serbian dinar",
     "countries": ["Serbia"],
+    "countryCode": [],
     "symbol": "Дин."
 }, {
     "iso": "RUB",
     "decimal": "643",
     "currency": "Russian ruble",
     "countries": ["Russia"],
+    "countryCode": [],
     "symbol": "₽"
 }, {
     "iso": "RWF",
     "decimal": "646",
     "currency": "Rwandan franc",
     "countries": ["Rwanda"],
+    "countryCode": [],
     "symbol": "R₣"
 }, {
     "iso": "SAR",
     "decimal": "682",
     "currency": "Saudi riyal",
     "countries": ["Saudi Arab"],
+    "countryCode": [],
     "symbol": "﷼"
 }, {
     "iso": "SBD",
     "decimal": "090",
     "currency": "Solomon Islands dollar",
     "countries": ["Solomon Islands"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "SCR",
     "decimal": "690",
     "currency": "Seychelles rupee",
     "countries": ["Seychelles"],
+    "countryCode": [],
     "symbol": "₨"
 }, {
     "iso": "SDG",
     "decimal": "938",
     "currency": "Sudanese pound",
     "countries": ["Sudan"],
+    "countryCode": [],
     "symbol": "ج.س."
 }, {
     "iso": "SEK",
     "decimal": "752",
     "currency": "Swedish krona/kronor",
     "countries": ["Sweden"],
+    "countryCode": [],
     "symbol": "kr"
 }, {
     "iso": "SGD",
     "decimal": "702",
     "currency": "Singapore dollar",
     "countries": ["Singapore"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "SHP",
     "decimal": "654",
     "currency": "Saint Helena pound",
     "countries": ["Saint Helena", "Ascension Island", "Tristan da Cunha"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "SLL",
     "decimal": "694",
     "currency": "Sierra Leonean leone",
     "countries": ["Sierra Leone"],
+    "countryCode": [],
     "symbol": "Le"
 }, {
     "iso": "SOS",
     "decimal": "706",
     "currency": "Somali shilling",
     "countries": ["Somalia"],
+    "countryCode": [],
     "symbol": "S"
 }, {
     "iso": "SRD",
     "decimal": "968",
     "currency": "Surinamese dollar",
     "countries": ["Suriname"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "SSP",
     "decimal": "728",
     "currency": "South Sudanese pound",
     "countries": ["South Sudan"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "STD",
     "decimal": "678",
     "currency": "São Tomé and Príncipe dobra",
     "countries": ["São Tomé and Príncipe"],
+    "countryCode": [],
     "symbol": "Db"
 }, {
     "iso": "SVC",
     "decimal": "222",
     "currency": "Salvadoran colón",
     "countries": ["El Salvador"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "SYP",
     "decimal": "760",
     "currency": "Syrian pound",
     "countries": ["Syria"],
+    "countryCode": [],
     "symbol": "£"
 }, {
     "iso": "SZL",
     "decimal": "748",
     "currency": "Swazi lilangeni",
     "countries": ["Swaziland"],
+    "countryCode": [],
     "symbol": "E"
 }, {
     "iso": "THB",
     "decimal": "764",
     "currency": "Thai baht",
     "countries": ["Thailand"],
+    "countryCode": [],
     "symbol": "฿"
 }, {
     "iso": "TJS",
     "decimal": "972",
     "currency": "Tajikistani somoni",
     "countries": ["Tajikistan"],
+    "countryCode": [],
     "symbol": "SM"
 }, {
     "iso": "TMT",
     "decimal": "934",
     "currency": "Turkmenistan manat",
     "countries": ["Turkmenistan"],
+    "countryCode": [],
     "symbol": "T"
 }, {
     "iso": "TND",
     "decimal": "788",
     "currency": "Tunisian dinar",
     "countries": ["Tunisia"],
+    "countryCode": [],
     "symbol": "د.ت"
 }, {
     "iso": "TOP",
     "decimal": "776",
     "currency": "Tongan paʻanga",
     "countries": ["Tonga"],
+    "countryCode": [],
     "symbol": "T$"
 }, {
     "iso": "TRY",
     "decimal": "949",
     "currency": "Turkish lira",
     "countries": ["Turkey"],
+    "countryCode": [],
     "symbol": "₺"
 }, {
     "iso": "TTD",
     "decimal": "780",
     "currency": "Trinidad and Tobago dollar",
     "countries": ["Trinidad and Tobago", "Trinidad & Tobago"],
+    "countryCode": [],
     "symbol": "TT$"
 }, {
     "iso": "TWD",
     "decimal": "901",
     "currency": "New Taiwan dollar",
     "countries": ["Taiwan"],
+    "countryCode": [],
     "symbol": "NT$"
 }, {
     "iso": "TZS",
     "decimal": "834",
     "currency": "Tanzanian shilling",
     "countries": ["Tanzania"],
+    "countryCode": [],
     "symbol": "TSh"
 }, {
     "iso": "UAH",
     "decimal": "980",
     "currency": "Ukrainian hryvnia",
     "countries": ["Ukraine"],
+    "countryCode": [],
     "symbol": "₴"
 }, {
     "iso": "UGX",
     "decimal": "800",
     "currency": "Ugandan shilling",
     "countries": ["Uganda"],
+    "countryCode": [],
     "symbol": "USh"
 }, {
     "iso": "USD",
     "decimal": "840",
     "currency": "United States dollar",
     "countries": ["United States", "American Samoa", "Barbados", "Barbados Dollar", "Bermuda", "Bermudian Dollar", "British Indian Ocean Territory", "British Virgin Islands", "Caribbean Netherlands", "Ecuador", "El Salvador", "Guam", "Haiti", "Marshall Islands", "Federated States of Micronesia", "Northern Mariana Islands", "Palau", "Panama", "Panamanian Balboa", "Puerto Rico", "Timor-Leste", "Turks and Caicos Islands", "Turks & Caicos Islands", "U.S. Virgin Islands", "United States Minor Outlying Islands"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "USN",
@@ -895,6 +1037,7 @@
     "decimal": "858",
     "currency": "Uruguayan peso",
     "countries": ["Uruguay"],
+    "countryCode": [],
     "symbol": "$U"
 }, {
     "iso": "UYI",
@@ -906,36 +1049,42 @@
     "decimal": "860",
     "currency": "Uzbekistan som",
     "countries": ["Uzbekistan"],
+    "countryCode": [],
     "symbol": "лв"
 }, {
     "iso": "VEF",
     "decimal": "937",
     "currency": "Venezuelan bolívar",
     "countries": ["Venezuela"],
+    "countryCode": [],
     "symbol": "Bs"
 }, {
     "iso": "VND",
     "decimal": "704",
     "currency": "Vietnamese đồng",
     "countries": ["Vietnam"],
+    "countryCode": [],
     "symbol": "₫"
 }, {
     "iso": "VUV",
     "decimal": "548",
     "currency": "Vanuatu vatu",
     "countries": ["Vanuatu"],
+    "countryCode": [],
     "symbol": "VT"
 }, {
     "iso": "WST",
     "decimal": "882",
     "currency": "Samoan tala",
     "countries": ["Samoa"],
+    "countryCode": [],
     "symbol": "WS$"
 }, {
     "iso": "XAF",
     "decimal": "950",
     "currency": "CFA franc BEAC",
     "countries": ["Cameroon", "Central African Republic", "Republic of the Congo", "Chad", "Equatorial Guinea", "Gabon"],
+    "countryCode": [],
     "symbol": "FCFA"
 }, {
     "iso": "XAG",
@@ -972,6 +1121,7 @@
     "decimal": "951",
     "currency": "East Caribbean dollar",
     "countries": ["Anguilla", "Antigua and Barbuda", "Antigua & Barbuda", "Dominica", "Grenada", "Montserrat", "Saint Kitts and Nevis", "St. Kitts & Nevis", "Saint Lucia", "St. Lucia", "St. Vincent & The Grenadines", "Saint Vincent and the Grenadines"],
+    "countryCode": [],
     "symbol": "$"
 }, {
     "iso": "XDR",
@@ -983,6 +1133,7 @@
     "decimal": "952",
     "currency": "CFA franc BCEAO",
     "countries": ["Benin", "Burkina Faso", "Ivory Coast", "Guinea-Bissau", "Mali", "Niger", "Senegal", "Togo"],
+    "countryCode": [],
     "symbol": "CFA"
 }, {
     "iso": "XPD",
@@ -994,6 +1145,7 @@
     "decimal": "953",
     "currency": "CFP franc ",
     "countries": ["French Polynesia", "New Caledonia", "Wallis and Futuna", "Wallis & Futuna"],
+    "countryCode": [],
     "symbol": "₣"
 }, {
     "iso": "XPT",
@@ -1025,12 +1177,14 @@
     "decimal": "886",
     "currency": "Yemeni rial",
     "countries": ["Yemen"],
+    "countryCode": [],
     "symbol": "﷼"
 }, {
     "iso": "ZAR",
     "decimal": "710",
     "currency": "South African rand",
     "countries": ["South Africa"],
+    "countryCode": [],
     "symbol": "R"
 }, {
     "iso": "ZMW",
